@@ -4,7 +4,7 @@ import Navbar from "../components/Navbar.js";
 export default function App({ Component, pageProps }) {
   return (
     <NextUIProvider>
-      <Navbar />
+      {/* <Navbar /> */}
       <Component {...pageProps} />{" "}
     </NextUIProvider>
   );

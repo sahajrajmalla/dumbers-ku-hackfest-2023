@@ -16,9 +16,10 @@ export default function Home() {
   return (
     <main>
       {/* <Map /> */}
-      <CreateProject open={open} setOpen={setOpen} />
+      <></>
+      {/* <CreateProject open={open} setOpen={setOpen} />
 
-      <Button onClick={(e) => setOpen(true)}> Test open </Button>
+      <Button onClick={(e) => setOpen(true)}> Test open </Button> */}
     </main>
   );
 }
