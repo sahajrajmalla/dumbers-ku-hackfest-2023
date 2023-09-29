@@ -5,12 +5,18 @@ from math import floor
 from typing import List, Tuple
 from pydantic import BaseModel, Field
 import json
+import redis
 
 # Constants
 HECTARE_TO_SQ_M = 10000  # 1 hectare = 10,000 square meters
 
+# Create a Redis connection
+redis_conn = redis.Redis(host='localhost', port=6379, db=0)
+
+
 # Create a FastAPI app
 app = FastAPI()
+
 
 
 @app.get("/")
@@ -75,7 +81,6 @@ def estimate_carbon_absorption(forest_area_sqm):
     carbon_absorption = (forest_area_sqm / HECTARE_TO_SQ_M) * average_carbon_seq_rate
     return carbon_absorption
 
-# Define a POST endpoint to receive the polygon coordinates as a list
 @app.post("/calculate_forest_metrics")
 async def calculate_forest_metrics(request_data: PolygonRequestModel):
     try:
@@ -85,14 +90,31 @@ async def calculate_forest_metrics(request_data: PolygonRequestModel):
         # Convert the list of tuples into a Shapely Polygon
         shapely_polygon = Polygon(polygon)
 
+        # Generate a unique key for this request
+        polygon_key = str(polygon)
+
+        # Try fetching the result from Redis cache
+        cached_result = redis_conn.get(polygon_key)
+        if cached_result:
+            # If cached result exists, return it
+            return json.loads(cached_result)
+
+        # If result is not cached, proceed to calculate the metrics
         forest_area = calculate_forest_area(shapely_polygon)
         number_of_trees = estimate_number_of_trees(forest_area)
         carbon_absorption = estimate_carbon_absorption(forest_area)
 
-        return {
+        # Prepare the result
+        result = {
             "forest_area_sqm": forest_area,
             "estimated_number_of_trees": floor(number_of_trees),
             "estimated_carbon_absorption_metric_tons": carbon_absorption
         }
+
+        # Cache the result in Redis
+        redis_conn.set(polygon_key, json.dumps(result))
+
+        return result
+
     except Exception as e:
         raise HTTPException(status_code=400, detail=str(e))
