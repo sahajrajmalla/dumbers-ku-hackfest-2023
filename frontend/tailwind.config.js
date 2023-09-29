@@ -7,7 +7,6 @@ module.exports = {
     "./src/pages/**/*.{js,ts,jsx,tsx,mdx}",
     "./src/components/**/*.{js,ts,jsx,tsx,mdx}",
     "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
-    "./node_modules/@nextui-org/theme/dist/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
     extend: {
@@ -32,12 +31,13 @@ module.exports = {
       },
 
       colors: {
-        primaryGradient: "linear-gradient(180deg, #60E713 0%, #08DA08 84.37%, #09DA09 100%)",
         primary: "#09DA09",
+        primaryGradient: "",
+
         dark: "#45413C",
         paragraph: "#5B5B5B"
       },
     },
   },
-  plugins: [nextui()],
+  plugins: [],
 };
