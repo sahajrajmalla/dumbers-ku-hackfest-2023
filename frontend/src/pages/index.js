@@ -4,6 +4,8 @@ import CreateProject from "@/components/CreateProject.js";
 import { useState } from "react";
 import { Button } from "@nextui-org/react";
 import dynamic from "next/dynamic.js";
+import HomeCover from "@/components/home/HomeCover.js";
+import HomeFeatured from "@/components/home/HomeFeatured.js";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -15,6 +17,8 @@ export default function Home() {
 
   return (
    <>
+   <HomeCover />
+   <HomeFeatured />
    </>
   );
 }
