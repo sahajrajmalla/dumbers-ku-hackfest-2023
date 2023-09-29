@@ -3,6 +3,7 @@ import "@/styles/globals.css";
 
 import { Oxygen, Montserrat } from "next/font/google";
 import { NextUIProvider } from "@nextui-org/react";
+import Footer from "@/components/layout/footer/Footer";
 
 const oxygen = Oxygen({
   subsets: ["latin"],
@@ -23,6 +24,7 @@ export default function App({ Component, pageProps }) {
     <div className={`${oxygen.variable} ${montserrat.variable}`}>
       <Navbar />
       <Component {...pageProps} />{" "}
+      <Footer />
     </div>
   );
 }

@@ -2,13 +2,13 @@ import React from "react";
 
 function AssessmentCard() {
   return (
-    <div className="w-full min-h-[300px] rounded-md shadow">
+    <div className="w-full min-h-[350px] pb-2 rounded-md shadow">
       <img
         className="w-full h-1/2 object-center  rounded-t-md"
         src="https://cdn.pixabay.com/photo/2017/01/05/23/54/bridge-1956646_1280.jpg"
         alt="assessment"
       />
-      <div className="p-2 h-1/2 gap-4 flex flex-col justify-between">
+      <div className="p-2 h-1/2 gap-3 flex flex-col justify-between">
         <div>
           <p className="text-md text-dark font-semibold">
             Butwal Signature Bridge
@@ -43,7 +43,7 @@ function AssessmentCard() {
           This bridge, which acts as the heart of economic city Butwal, is the
           mega project announced recently. Lets see its environment analysis.
         </p>
-        <div className="text-white fot-s text-sm gap-1 px-4 w-max cursor-pointer py-1 rounded-full flex items-center bg-gradient">
+        <div className="text-white text-sm gap-1 px-4 w-max cursor-pointer py-1 rounded-full flex items-center bg-gradient">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="11"
