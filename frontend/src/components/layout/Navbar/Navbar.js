@@ -1,8 +1,16 @@
 import React from "react";
 import Logo from "../../../assets/logo.png";
 import Link from "next/link";
+import { useRouter } from "next/router";
 
 function Navbar() {
+  const router = useRouter();
+
+
+
+  const activeClass = "text-white gap-2 px-3 cursor-pointer py-2 rounded-full flex items-center bg-gradient";
+  const inactiveClass = "text-dark gap-2 px-3 cursor-pointer py-2 rounded-full flex items-center"
+
   return (
     <div
       className="top-0 font-oxygen navbar fixed w-full  z-30 bg-white"
@@ -19,7 +27,10 @@ function Navbar() {
           </Link>
 
           <div className="h-14 flex p-2 items-center gap-4 border rounded-full">
-            <div className="text-white gap-2 px-3 cursor-pointer py-2 rounded-full flex items-center bg-gradient">
+            <Link
+              href="/"
+              className={router.pathname === "/"? activeClass: inactiveClass}
+            >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 className="w-[16px] h-[16px]"
@@ -32,7 +43,7 @@ function Navbar() {
                 />
               </svg>
               <p>Home</p>
-            </div>
+            </Link>
             <div className="text-dark gap-2 px-3 cursor-pointer py-2 rounded-full flex items-center">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -61,7 +72,10 @@ function Navbar() {
               </svg>
               <p>Idea</p>
             </div>
-            <div className="text-dark gap-2 px-3 cursor-pointer py-2 rounded-full flex items-center">
+            <Link
+              href="/create"
+              className={router.pathname === "/create"? activeClass: inactiveClass}
+            >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 className="w-[16px] h-[16px]"
@@ -70,7 +84,7 @@ function Navbar() {
               >
                 <path
                   d="M3.42859 8.00002C3.42859 7.8179 3.50093 7.64324 3.62971 7.51446C3.75849 7.38569 3.93315 7.31334 4.11526 7.31334H7.31334V4.11526C7.31334 3.93315 7.38569 3.75849 7.51446 3.62971C7.64324 3.50093 7.8179 3.42859 8.00002 3.42859C8.18214 3.42859 8.35679 3.50093 8.48557 3.62971C8.61435 3.75849 8.68669 3.93315 8.68669 4.11526V7.31334H11.8848C12.0669 7.31334 12.2415 7.38569 12.3703 7.51446C12.4991 7.64324 12.5714 7.8179 12.5714 8.00002C12.5714 8.18214 12.4991 8.35679 12.3703 8.48557C12.2415 8.61435 12.0669 8.68669 11.8848 8.68669H8.68669V11.8848C8.68669 12.0669 8.61435 12.2415 8.48557 12.3703C8.35679 12.4991 8.18214 12.5714 8.00002 12.5714C7.8179 12.5714 7.64324 12.4991 7.51446 12.3703C7.38569 12.2415 7.31334 12.0669 7.31334 11.8848V8.68669H4.11526C3.93315 8.68669 3.75849 8.61435 3.62971 8.48557C3.50093 8.35679 3.42859 8.18214 3.42859 8.00002Z"
-                  fill="#45413C"
+                  fill="currentColor"
                 />
                 <path
                   fill-rule="evenodd"
@@ -80,7 +94,7 @@ function Navbar() {
                 />
               </svg>
               <p>Create</p>
-            </div>
+            </Link>
           </div>
 
           <p className="flex gap-2 text-dark font-semibold items-center">
