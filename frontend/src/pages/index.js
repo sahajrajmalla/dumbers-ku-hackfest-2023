@@ -12,13 +12,9 @@ const Map = dynamic(() => import("../components/MapComponents.js"), {
 });
 
 export default function Home() {
-  const [open, setOpen] = useState(false);
-  return (
-    <main>
-      {/* <Map /> */}
-      <CreateProject open={open} setOpen={setOpen} />
 
-      <Button onClick={(e) => setOpen(true)}> Test open </Button>
-    </main>
+  return (
+   <>
+   </>
   );
 }
