@@ -1,5 +1,5 @@
 import React from "react";
-import AirplaneImage from "../../assets/airplane.png"
+import AirplaneImage from "../../assets/airplane.png";
 
 function HomeCover() {
   return (
@@ -24,8 +24,8 @@ function HomeCover() {
         </div>
       </div>
 
-      <div className="w-1/2 h-auto"> 
-    <img className="w-full" src={AirplaneImage.src} alt="airplane" />
+      <div className="w-1/2 h-auto">
+        <img className="w-full" src={AirplaneImage.src} alt="airplane" />
       </div>
     </section>
   );

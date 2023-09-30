@@ -3,7 +3,7 @@ import AssessmentCard from "./AssessmentCard";
 
 function HomeFeatured() {
   return (
-    <section className="container font-oxygen mx-auto px-28 mt-20">
+    <section className="container font-oxygen mx-auto px-28 mb-20 mt-20">
       <p className="flex text-lg font-semibold text-dark items-center gap-2">
         <svg
           xmlns="http://www.w3.org/2000/svg"
