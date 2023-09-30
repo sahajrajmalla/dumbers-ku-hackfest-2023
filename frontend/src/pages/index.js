@@ -4,6 +4,8 @@ import CreateProject from "@/components/CreateProject.js";
 import { useState } from "react";
 import { Button } from "@nextui-org/react";
 import dynamic from "next/dynamic.js";
+import HomeCover from "@/components/home/HomeCover.js";
+import HomeFeatured from "@/components/home/HomeFeatured.js";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -12,14 +14,11 @@ const Map = dynamic(() => import("../components/MapComponents.js"), {
 });
 
 export default function Home() {
-  const [open, setOpen] = useState(false);
-  return (
-    <main>
-      {/* <Map /> */}
-      <></>
-      {/* <CreateProject open={open} setOpen={setOpen} />
 
-      <Button onClick={(e) => setOpen(true)}> Test open </Button> */}
-    </main>
+  return (
+   <>
+   <HomeCover />
+   <HomeFeatured />
+   </>
   );
 }
