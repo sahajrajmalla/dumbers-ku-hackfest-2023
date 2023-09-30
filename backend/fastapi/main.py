@@ -16,7 +16,7 @@ from utils.carbon import get_avg_transport_carbon_emission, get_avg_project_carb
 from utils.organism import get_avg_organism_count
 from enum import Enum
 from uuid import UUID, uuid4
-
+from fastapi.middleware.cors import CORSMiddleware
 
 # Constants
 HECTARE_TO_SQ_M = 10000  # 1 hectare = 10,000 square meters
@@ -28,6 +28,15 @@ redis_conn = redis.Redis(host='localhost', port=6379, db=0)
 # Create a FastAPI app
 app = FastAPI()
 
+
+# Add CORSMiddleware
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:3000"],  # Allows CORS from localhost:3000
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 @app.get("/")
 def read_root():
