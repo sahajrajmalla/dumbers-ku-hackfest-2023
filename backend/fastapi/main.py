@@ -14,6 +14,7 @@ from utils.waste import get_avg_waste
 from utils.noise import get_avg_noise
 from utils.carbon import get_avg_transport_carbon_emission, get_avg_project_carbon_emission, get_avg_supply_carbon_emission
 from utils.organism import get_avg_organism_count
+from enum import Enum
 
 # Constants
 HECTARE_TO_SQ_M = 10000  # 1 hectare = 10,000 square meters
@@ -53,33 +54,53 @@ def get_metrics_for_lat_lng(lat: float, lon: float):
     return summary_n
 
 
+
+# Define the DevelopmentCategory as an Enum
+class DevelopmentCategory(str, Enum):
+    airport = "airport"
+    bridge = "bridge"
+    factory = "factory"
+    housing = "housing"
+    residential_housing = "residential housing"
+    road_construction = "road construction"
+
+
 @app.get("/water_pollution")
-def get_water_pollution():
+def get_water_pollution(type: DevelopmentCategory):
     # Read the JSON file
     with open("data/water_pollution.json", "r") as json_file:
         water_pollution = json.load(json_file)
         
-    return water_pollution
+    #filter the water_pollution development_category by type
+    filter_water_pollution = [x for x in water_pollution if x['development_category'] == type]
+        
+    return filter_water_pollution[0]
 
 
 
 @app.get("/air_pollution")
-def get_air_pollution():
+def get_air_pollution(type: DevelopmentCategory):
     # Read the JSON file
     with open("data/air_pollution.json", "r") as json_file:
         air_pollution = json.load(json_file)
         
-    return air_pollution
+    #filter the water_pollution development_category by type
+    filter_air_pollution = [x for x in air_pollution if x['development_category'] == type]
+        
+    return filter_air_pollution[0]
 
 
 
 @app.get("/development_energy")
-def get_development_energy():
+def get_development_energy(type: DevelopmentCategory):
     # Read the JSON file
     with open("data/development_energy.json", "r") as json_file:
         development_energy = json.load(json_file)
         
-    return development_energy
+    #filter the water_pollution development_category by type
+    filter_development_energy = [x for x in development_energy if x['development_category'] == type]
+        
+    return filter_development_energy[0]
 
 
 # Create a Pydantic model for the request body
