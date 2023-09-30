@@ -9,9 +9,9 @@ import HomeFeatured from "@/components/home/HomeFeatured.js";
 
 const inter = Inter({ subsets: ["latin"] });
 
-const Map = dynamic(() => import("../components/MapComponents.js"), {
-  ssr: false,
-});
+// const Map = dynamic(() => import("../components/MapComponents.js"), {
+//   ssr: false,
+// });
 
 export default function Home() {
 

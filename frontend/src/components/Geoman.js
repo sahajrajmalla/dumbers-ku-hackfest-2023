@@ -3,14 +3,14 @@ import { useLeafletContext } from "@react-leaflet/core";
 import "@geoman-io/leaflet-geoman-free";
 import "@geoman-io/leaflet-geoman-free/dist/leaflet-geoman.css";
 
-const Geoman = () => {
+const Geoman = ({ onCordinateChange }) => {
   const context = useLeafletContext();
 
   useEffect(() => {
     const leafletContainer = context.layerContainer || context.map;
 
     leafletContainer.pm.addControls({
-      drawMarker: false
+      drawMarker: false,
     });
 
     leafletContainer.pm.setGlobalOptions({ pmIgnore: false });
@@ -24,6 +24,9 @@ const Geoman = () => {
         shape.layer.pm.enable();
 
         console.log(`object created: ${shape.layer.pm.getShape()}`);
+        onCordinateChange(
+          leafletContainer.pm.getGeomanLayers(true).toGeoJSON()
+        );
         console.log(leafletContainer.pm.getGeomanLayers(true).toGeoJSON());
         leafletContainer.pm
           .getGeomanLayers(true)
@@ -34,6 +37,9 @@ const Geoman = () => {
           .map((layer, index) => layer.bindPopup(`I am figure N° ${index}`));
         shape.layer.on("pm:edit", (e) => {
           const event = e;
+          onCordinateChange(
+            leafletContainer.pm.getGeomanLayers(true).toGeoJSON()
+          );
           console.log(leafletContainer.pm.getGeomanLayers(true).toGeoJSON());
         });
       }

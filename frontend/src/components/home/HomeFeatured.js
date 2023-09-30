@@ -1,7 +1,17 @@
 import React from "react";
 import AssessmentCard from "./AssessmentCard";
+import useFetch from "@/hooks/useFetch.js";
+
+const staticImages = [
+  "https://images.unsplash.com/photo-1675889335685-4ac82f1e47ad?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2074&q=80",
+  "https://cdn.pixabay.com/photo/2017/01/05/23/54/bridge-1956646_1280.jpg",
+  "https://img.freepik.com/free-photo/beautiful-view-greenery-bridge-forest-perfect-background_181624-17827.jpg?w=2000",
+  "https://images.pexels.com/photos/36717/amazing-animal-beautiful-beautifull.jpg?cs=srgb&dl=pexels-pixabay-36717.jpg&fm=jpg"
+];
 
 function HomeFeatured() {
+  const { data: projects, isPending, error } = useFetch("/projects/");
+  console.log("projects", projects);
   return (
     <section className="container font-oxygen mx-auto px-28 mb-20 mt-20">
       <p className="flex text-lg font-semibold text-dark items-center gap-2">
@@ -18,12 +28,21 @@ function HomeFeatured() {
         </svg>
         Recent Assessements
       </p>
-      <div className="grid grid-cols-4 w-full gap-10 mt-10">
-        <AssessmentCard />
-        <AssessmentCard />
-        <AssessmentCard />
-        <AssessmentCard />
-      </div>
+      {projects && (
+        <div className="grid grid-cols-4 w-full gap-10 mt-10">
+          {projects.map((e, index) => {
+            return (
+              <AssessmentCard
+                key={e.toString()}
+                id={e.id}
+                projectDescription={e.assessment_description}
+                projectName={e.project_name}
+                image={staticImages[index]}
+              />
+            );
+          })}
+        </div>
+      )}
     </section>
   );
 }

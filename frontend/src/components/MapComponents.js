@@ -1,7 +1,7 @@
 import { MapContainer, TileLayer } from "react-leaflet";
 import Geoman from "./Geoman";
 
-const Map = () => {
+const Map = ({ onCordinateChange }) => {
   const position = [48.863247, 2.350747];
   const zoomLv = 13;
 
@@ -12,7 +12,7 @@ const Map = () => {
         attribution='&copy; OpenStreetMap France | &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         maxZoom={20}
       />
-      <Geoman />
+      <Geoman onCordinateChange={onCordinateChange} />
     </MapContainer>
   );
 };
