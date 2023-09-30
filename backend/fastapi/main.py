@@ -192,6 +192,7 @@ async def calculate_forest_metrics(request_data: PolygonRequestModel):
     
 # Pydantic model
 class Project(BaseModel):
+    id: int
     project_name: str
     project_type: str
     assessment_description: str
