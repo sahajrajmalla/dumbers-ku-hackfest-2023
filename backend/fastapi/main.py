@@ -18,6 +18,33 @@ from enum import Enum
 from uuid import UUID, uuid4
 from fastapi.middleware.cors import CORSMiddleware
 
+from sqlalchemy import create_engine, Column, Integer, String, Float
+from sqlalchemy.orm import declarative_base, sessionmaker
+from sqlalchemy import PickleType
+
+
+# Database setup
+DATABASE_URL = "sqlite:///./test.db"
+engine = create_engine(DATABASE_URL)
+SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
+Base = declarative_base()
+
+# SQLAlchemy model
+class ProjectInDB(Base):
+    __tablename__ = "projects"
+
+    id = Column(Integer, primary_key=True, index=True)
+    project_name = Column(String, index=True)
+    project_type = Column(String)
+    assessment_description = Column(String)
+    image = Column(String)
+    area = Column(Float)
+    polygon_coordinates = Column(PickleType)  # Using PickleType to store list of tuples
+
+
+# Create the table
+Base.metadata.create_all(bind=engine)
+
 # Constants
 HECTARE_TO_SQ_M = 10000  # 1 hectare = 10,000 square meters
 
@@ -163,51 +190,79 @@ async def calculate_forest_metrics(request_data: PolygonRequestModel):
         raise HTTPException(status_code=400, detail=str(e))
     
     
+# Pydantic model
 class Project(BaseModel):
     project_name: str
     project_type: str
     assessment_description: str
     image: str
+    area: float
+    polygon_coordinates: List[Tuple[float, float]] = [(85.22823163068318, 27.730537095684944),]
 
-# In-memory database and counter
-projects_db = {}
-counter = 1
+# CRUD operations...
 
-# CREATE operation
 @app.post("/projects/", response_model=int)
 async def create_project(project: Project):
-    global counter
-    project_id = counter
-    projects_db[project_id] = project
-    counter += 1
-    return project_id
+    db = SessionLocal()
+    db_project = ProjectInDB(
+        project_name=project.project_name,
+        project_type=project.project_type,
+        assessment_description=project.assessment_description,
+        image=project.image,
+        area=project.area,
+        polygon_coordinates=project.polygon_coordinates
+    )
+    db.add(db_project)
+    db.commit()
+    db.refresh(db_project)
+    db.close()
+    return db_project.id
 
-# READ operation
 @app.get("/projects/", response_model=List[Project])
 async def read_projects():
-    return list(projects_db.values())
+    db = SessionLocal()
+    projects = db.query(ProjectInDB).all()
+    db.close()
+    return projects
 
 @app.get("/projects/{project_id}/", response_model=Project)
 async def read_project(project_id: int = Path(...)):
-    project = projects_db.get(project_id)
+    db = SessionLocal()
+    project = db.query(ProjectInDB).filter(ProjectInDB.id == project_id).first()
+    db.close()
     if project is None:
         raise HTTPException(status_code=404, detail="Project not found")
     return project
 
-# UPDATE operation
 @app.put("/projects/{project_id}/", response_model=Project)
 async def update_project(project_id: int = Path(...), updated_project: Project = Body(...)):
-    if project_id not in projects_db:
+    db = SessionLocal()
+    project = db.query(ProjectInDB).filter(ProjectInDB.id == project_id).first()
+    if project is None:
+        db.close()
         raise HTTPException(status_code=404, detail="Project not found")
     
-    projects_db[project_id] = updated_project
-    return updated_project
+    project.project_name = updated_project.project_name
+    project.project_type = updated_project.project_type
+    project.assessment_description = updated_project.assessment_description
+    project.image = updated_project.image
+    project.area = updated_project.area
+    project.polygon_coordinates = updated_project.polygon_coordinates
 
-# DELETE operation
+    db.commit()
+    db.refresh(project)
+    db.close()
+    return project
+
 @app.delete("/projects/{project_id}/", response_model=Project)
 async def delete_project(project_id: int = Path(...)):
-    if project_id not in projects_db:
+    db = SessionLocal()
+    project = db.query(ProjectInDB).filter(ProjectInDB.id == project_id).first()
+    if project is None:
+        db.close()
         raise HTTPException(status_code=404, detail="Project not found")
     
-    deleted_project = projects_db.pop(project_id)
-    return deleted_project
+    db.delete(project)
+    db.commit()
+    db.close()
+    return project
