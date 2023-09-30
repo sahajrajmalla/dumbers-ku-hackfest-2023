@@ -2,7 +2,7 @@ import osmnx as ox
 from fastapi import FastAPI, HTTPException, Body, Query, Path
 from shapely.geometry import Polygon
 from math import floor
-from typing import List, Tuple
+from typing import List, Tuple, Optional
 from pydantic import BaseModel, Field
 import json
 import redis
@@ -191,8 +191,16 @@ async def calculate_forest_metrics(request_data: PolygonRequestModel):
     
     
 # Pydantic model
-class Project(BaseModel):
-    id: int
+class ReadProject(BaseModel):
+    id: Optional[int] = None  # Making id optional by assigning default value as None
+    project_name: str
+    project_type: str
+    assessment_description: str
+    image: str
+    area: float
+    polygon_coordinates: List[Tuple[float, float]] = [(85.22823163068318, 27.730537095684944),]
+    
+class WriteProject(BaseModel):
     project_name: str
     project_type: str
     assessment_description: str
@@ -203,7 +211,7 @@ class Project(BaseModel):
 # CRUD operations...
 
 @app.post("/projects/", response_model=dict)
-async def create_project(project: Project):
+async def create_project(project: WriteProject):
     db = SessionLocal()
     db_project = ProjectInDB(
         project_name=project.project_name,
@@ -219,14 +227,14 @@ async def create_project(project: Project):
     db.close()
     return {"project_id": str(db_project.id)}
 
-@app.get("/projects/", response_model=List[Project])
+@app.get("/projects/", response_model=List[ReadProject])
 async def read_projects():
     db = SessionLocal()
     projects = db.query(ProjectInDB).all()
     db.close()
     return projects
 
-@app.get("/projects/{project_id}/", response_model=Project)
+@app.get("/projects/{project_id}/", response_model=ReadProject)
 async def read_project(project_id: int = Path(...)):
     db = SessionLocal()
     project = db.query(ProjectInDB).filter(ProjectInDB.id == project_id).first()
@@ -235,8 +243,8 @@ async def read_project(project_id: int = Path(...)):
         raise HTTPException(status_code=404, detail="Project not found")
     return project
 
-@app.put("/projects/{project_id}/", response_model=Project)
-async def update_project(project_id: int = Path(...), updated_project: Project = Body(...)):
+@app.put("/projects/{project_id}/", response_model=ReadProject)
+async def update_project(project_id: int = Path(...), updated_project: ReadProject = Body(...)):
     db = SessionLocal()
     project = db.query(ProjectInDB).filter(ProjectInDB.id == project_id).first()
     if project is None:
@@ -255,7 +263,7 @@ async def update_project(project_id: int = Path(...), updated_project: Project =
     db.close()
     return project
 
-@app.delete("/projects/{project_id}/", response_model=Project)
+@app.delete("/projects/{project_id}/", response_model=ReadProject)
 async def delete_project(project_id: int = Path(...)):
     db = SessionLocal()
     project = db.query(ProjectInDB).filter(ProjectInDB.id == project_id).first()
