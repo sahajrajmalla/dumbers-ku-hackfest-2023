@@ -6,6 +6,15 @@ from typing import List, Tuple
 from pydantic import BaseModel, Field
 import json
 import redis
+import pandas as pd
+from utils.utils import haversine, top_n_nearest_rows
+from utils.forest import calculate_forest_area, estimate_number_of_trees, estimate_carbon_absorption
+from utils.land import calculate_land_averages
+from utils.waste import get_avg_waste
+from utils.noise import get_avg_noise
+from utils.carbon import get_avg_transport_carbon_emission, get_avg_project_carbon_emission, get_avg_supply_carbon_emission
+from utils.organism import get_avg_organism_count
+from enum import Enum
 
 # Constants
 HECTARE_TO_SQ_M = 10000  # 1 hectare = 10,000 square meters
@@ -18,35 +27,80 @@ redis_conn = redis.Redis(host='localhost', port=6379, db=0)
 app = FastAPI()
 
 
-
 @app.get("/")
 def read_root():
     return {"message": "Hello, FastAPI!"}
 
 
-# Read the JSON file
-with open("data/water_pollution.json", "r") as json_file:
-    water_pollution = json.load(json_file)
+
+
+@app.get("/get_metrics_for_lat_lng")
+def get_metrics_for_lat_lng(lat: float, lon: float):
+    n = 10
+    land_prices = pd.read_csv('data/land.csv')
+    # Assuming land_prices is a DataFrame
+    top_n = top_n_nearest_rows(lat, lon, n, land_prices)
+    
+    summary_n = calculate_land_averages(top_n)
+    
+    
+    summary_n["avg_waste_amount_ton"] = get_avg_waste(lat, lon)
+    summary_n["noise_level_(db)"] = get_avg_noise(lat, lon)
+    summary_n["transport_emission_(co2e)"] = get_avg_transport_carbon_emission(lat, lon)
+    summary_n["project_emission_(co2e)"] = get_avg_project_carbon_emission(lat, lon)
+    summary_n["supply_emission_(co2e)"] = get_avg_supply_carbon_emission(lat, lon)
+    summary_n["organism_count"] = int(get_avg_organism_count(lat, lon))
+
+    return summary_n
+
+
+
+# Define the DevelopmentCategory as an Enum
+class DevelopmentCategory(str, Enum):
+    airport = "airport"
+    bridge = "bridge"
+    factory = "factory"
+    housing = "housing"
+    residential_housing = "residential housing"
+    road_construction = "road construction"
+
 
 @app.get("/water_pollution")
-def get_water_pollution():
-    return water_pollution
+def get_water_pollution(type: DevelopmentCategory):
+    # Read the JSON file
+    with open("data/water_pollution.json", "r") as json_file:
+        water_pollution = json.load(json_file)
+        
+    #filter the water_pollution development_category by type
+    filter_water_pollution = [x for x in water_pollution if x['development_category'] == type]
+        
+    return filter_water_pollution[0]
 
-# Read the JSON file
-with open("data/air_pollution.json", "r") as json_file:
-    air_pollution = json.load(json_file)
+
 
 @app.get("/air_pollution")
-def get_air_pollution():
-    return air_pollution
+def get_air_pollution(type: DevelopmentCategory):
+    # Read the JSON file
+    with open("data/air_pollution.json", "r") as json_file:
+        air_pollution = json.load(json_file)
+        
+    #filter the water_pollution development_category by type
+    filter_air_pollution = [x for x in air_pollution if x['development_category'] == type]
+        
+    return filter_air_pollution[0]
 
-# Read the JSON file
-with open("data/development_energy.json", "r") as json_file:
-    development_energy = json.load(json_file)
+
 
 @app.get("/development_energy")
-def get_development_energy():
-    return development_energy
+def get_development_energy(type: DevelopmentCategory):
+    # Read the JSON file
+    with open("data/development_energy.json", "r") as json_file:
+        development_energy = json.load(json_file)
+        
+    #filter the water_pollution development_category by type
+    filter_development_energy = [x for x in development_energy if x['development_category'] == type]
+        
+    return filter_development_energy[0]
 
 
 # Create a Pydantic model for the request body
@@ -58,28 +112,6 @@ class PolygonRequestModel(BaseModel):
                  (85.27114697492146, 27.71625329811123)],
         description="A list of tuples representing the polygon coordinates."
     )
-
-# Function to calculate forest area
-def calculate_forest_area(polygon):
-    # You've already done this
-    tags = {'landuse': 'forest'}
-    geometries = ox.geometries_from_polygon(polygon, tags)
-    geometries.crs = 'EPSG:4326'
-    geometries = geometries.to_crs('EPSG:3857')
-    forest_area_sqm = geometries.geometry.area.sum()
-    return forest_area_sqm
-
-# Function to estimate the number of trees
-def estimate_number_of_trees(forest_area_sqm):
-    avg_tree_density_per_hectare = 500  # hypothetical average tree density
-    number_of_trees = (forest_area_sqm / HECTARE_TO_SQ_M) * avg_tree_density_per_hectare
-    return number_of_trees
-
-# Function to estimate carbon absorption
-def estimate_carbon_absorption(forest_area_sqm):
-    average_carbon_seq_rate = 0.2  # hypothetical value
-    carbon_absorption = (forest_area_sqm / HECTARE_TO_SQ_M) * average_carbon_seq_rate
-    return carbon_absorption
 
 @app.post("/calculate_forest_metrics")
 async def calculate_forest_metrics(request_data: PolygonRequestModel):

@@ -1,0 +1,1001 @@
+product_id,product_name,supplier,latitude,longitude,destination_latitude,destination_longitude,transportation_method,emission_(co2e),date
+1,Darkcyan Seize B2C Networks,Zhang PLC,-85.817027,66.488162,-18.3872225,140.575697,Air,551.56,2023-01-23
+2,Gold Engage Seamless Applications,"Sheppard, Turner and Rivera",1.5121655,119.321084,-89.6680385,-131.630638,Rail,342.92,2021-06-23
+3,Slategray Reinvent Global Supply-Chains,Hall Ltd,-68.5486215,-14.800602,-11.8070845,148.169261,Rail,390.57,2021-07-11
+4,Whitesmoke Architect Cross-Media Content,Thomas-Donovan,-79.045616,-18.317136,-31.9213105,125.14095,Truck,330.66,2023-03-02
+5,Darkcyan Envisioneer Synergistic Initiatives,Fernandez Group,-66.386734,-42.787635,-81.4563395,-130.330487,Ship,130.66,2020-05-25
+6,Lime Architect Granular E-Commerce,Smith-Robles,48.7605985,67.803404,22.3904075,83.725028,Air,752.73,2023-03-17
+7,Rosybrown Architect Customized Metrics,Kelly-Petersen,37.070229,-117.967229,-2.9101655,-79.098943,Truck,22.42,2022-10-19
+8,Hotpink E-Enable Next-Generation Eyeballs,Silva PLC,84.170824,97.556763,1.451778,109.110365,Ship,895.32,2022-09-05
+9,Fuchsia Re-Intermediate Bleeding-Edge Web Services,Khan-Rodriguez,-10.222686,-82.575726,-27.509873,-73.824772,Truck,950.32,2020-12-16
+10,Steelblue Aggregate Seamless Experiences,Franklin Inc,37.064811,-68.143509,-18.4909115,139.048275,Air,252.99,2022-04-13
+11,Yellowgreen Deploy Revolutionary Networks,Reynolds-Meyer,46.394138,-157.020267,-43.3446645,142.899422,Truck,806.21,2022-01-22
+12,Khaki Incubate Leading-Edge Eyeballs,Harris-Jenkins,-70.5940455,-45.460294,33.1069685,78.540506,Truck,14.6,2023-09-19
+13,Cornsilk Enable Best-Of-Breed Interfaces,"Curtis, Lopez and Bailey",27.934958,93.813499,-8.62347,-68.392389,Truck,789.32,2021-02-27
+14,Limegreen Leverage Customized Metrics,"Simmons, Flores and Rojas",49.260603,17.845762,-60.8340575,40.449089,Rail,265.88,2020-11-10
+15,Darksalmon Unleash E-Business Portals,Pitts-Vega,57.3740605,-168.038575,-19.016725,-62.243688,Ship,610.69,2020-03-17
+16,Aliceblue Engineer Front-End Solutions,"Bush, Scott and Reyes",31.355166,84.128184,68.0926695,-81.036344,Rail,668.07,2023-09-27
+17,Whitesmoke E-Enable Dot-Com E-Business,Noble Group,71.8954965,164.228588,-22.772425,121.461704,Ship,544.35,2023-05-09
+18,Slategray Enable Compelling Synergies,Ramos PLC,16.0003245,29.982434,56.093663,1.676822,Rail,572.46,2023-09-10
+19,Honeydew Empower Magnetic Bandwidth,"Morris, Barton and Turner",59.9396365,153.399988,38.1946585,-63.410679,Air,604.55,2021-01-14
+20,Darkorange Cultivate Integrated Architectures,"Rivera, Thomas and Cook",-70.0563325,124.668646,31.3503755,32.716133,Truck,857.18,2020-06-28
+21,Mintcream Benchmark Strategic Initiatives,Watson LLC,29.920458,-122.282836,-11.9969585,165.203181,Rail,182.67,2022-06-28
+22,Darkcyan Re-Contextualize E-Business Networks,Acevedo-Malone,-23.569091,-178.366244,-86.587436,73.330831,Air,30.66,2020-12-01
+23,Greenyellow Architect Back-End Applications,Curtis-Carter,70.3166095,-50.208375,-47.3876845,-58.028553,Ship,570.51,2021-11-02
+24,Lightgreen Reinvent Cross-Media Roi,Torres-Mejia,-56.6428175,-46.660951,-76.093307,14.861086,Ship,693.11,2020-11-16
+25,Peachpuff Generate E-Business Action-Items,"Guerrero, Keith and Clark",-4.482807,-65.648886,-51.9896975,-121.998698,Air,202.63,2022-11-16
+26,Mediumslateblue Brand Innovative Schemas,Howard PLC,-51.9300365,67.947339,-88.414384,13.816084,Ship,183.52,2023-02-06
+27,Dimgray Innovate End-To-End Initiatives,Gray-Fisher,31.7459085,-87.747415,22.596176,44.254521,Rail,409.68,2020-12-30
+28,Lightgoldenrodyellow Innovate Viral E-Markets,Hunter Group,-67.7987485,117.18414,-26.8748225,84.182005,Ship,310.58,2020-03-10
+29,Slategray Synthesize Synergistic Technologies,Schultz Inc,86.085752,149.106096,42.8549245,133.518968,Truck,15.61,2021-03-25
+30,Lemonchiffon Matrix E-Business Systems,Nichols LLC,-44.5800855,123.52061,-57.7288045,-26.549751,Rail,872.86,2021-11-25
+31,Lightyellow Seize End-To-End Methodologies,"Young, Jackson and Frank",-61.2806995,-23.096273,88.301402,-123.622977,Rail,699.05,2022-08-23
+32,Darkviolet Maximize 24/365 Architectures,Rhodes-Perez,43.8235625,-32.725153,-26.77587,112.084977,Truck,892.64,2021-03-08
+33,Linen Grow Front-End Synergies,"Marshall, Hughes and Snyder",84.3493425,163.339222,-86.624088,-171.886973,Rail,916.3,2022-06-18
+34,Gray Synergize Plug-And-Play Roi,James PLC,-49.6012595,-71.777528,9.800937,-3.470095,Ship,985.59,2021-12-08
+35,Skyblue Syndicate Impactful Metrics,Sparks-Sharp,-35.4411065,-22.55728,-69.199451,59.990476,Rail,653.16,2020-08-29
+36,Cyan Cultivate Plug-And-Play Convergence,Oliver-Baker,-88.096415,57.382755,52.653776,83.21407,Rail,89.13,2020-03-02
+37,Mediumorchid Incubate Robust Web-Readiness,Sparks and Sons,6.399316,-129.919528,17.1678735,-40.860239,Air,116.82,2022-10-27
+38,Lightcyan Enhance 24/7 Markets,Smith-Hernandez,84.7774635,176.780123,-81.330599,-133.439528,Ship,658.89,2022-03-24
+39,Yellowgreen Deploy B2C Initiatives,Grant PLC,42.9843255,60.972948,-9.794779,22.487001,Rail,922.58,2020-10-06
+40,Lightsalmon Whiteboard Out-Of-The-Box Functionalities,Foley Group,-42.834119,115.270697,-27.9401065,-104.589055,Rail,880.56,2022-04-24
+41,Mediumslateblue Engage Bleeding-Edge Models,Ramirez-Dorsey,-89.93457,97.717003,21.422557,-121.091281,Air,125.75,2023-05-18
+42,Powderblue Streamline Mission-Critical Markets,Jacobs-Bryant,83.904207,-82.962016,66.430533,152.083675,Air,226.25,2022-07-11
+43,Lightgreen Empower Bleeding-Edge Schemas,"Gray, Luna and Allen",-35.6341745,45.377483,-49.8974455,119.983571,Air,371.28,2021-04-14
+44,Lightpink Grow Transparent Users,"Tyler, Obrien and Barker",-21.5386635,-163.728552,-47.4948085,-50.681868,Ship,653.06,2020-01-15
+45,Lightslategray Enhance Leading-Edge Action-Items,Lee Ltd,-64.833653,144.706092,-6.2228375,-121.136762,Air,98.8,2023-09-24
+46,Mediumslateblue Monetize Transparent Platforms,Jackson-Hahn,-0.5943395,3.824879,0.502963,-95.311022,Truck,605.01,2020-09-21
+47,Darkviolet Re-Contextualize Transparent Schemas,"Anderson, Bryant and Hampton",57.4946975,-26.364425,-17.3472115,72.183706,Air,127.54,2023-06-01
+48,Powderblue Aggregate 24/365 Web-Readiness,Daniel-Shelton,-24.0065175,113.733625,71.5803795,-142.766858,Rail,663.55,2022-09-12
+49,Darkorchid Engineer Revolutionary E-Services,"Cherry, Holder and Smith",-30.6109985,-112.302065,22.318361,122.846335,Rail,815.07,2021-07-30
+50,Maroon Enable Impactful Web Services,"Allen, Jefferson and Jones",-47.7739275,113.505421,-69.920657,-27.352224,Air,347.2,2020-07-29
+51,Darksalmon Re-Contextualize Scalable Synergies,Martin Group,-87.735101,44.990659,-41.5262765,167.99433,Truck,682.5,2022-12-26
+52,Turquoise Leverage Bricks-And-Clicks Systems,"Cuevas, Wilson and Roberts",87.328844,-146.447997,-65.171089,144.010272,Truck,822.64,2022-09-03
+53,Papayawhip Engineer Value-Added Content,Peterson-Bailey,73.950413,-55.446358,82.363817,16.770719,Ship,496.33,2020-05-05
+54,Powderblue Cultivate Bricks-And-Clicks Technologies,Ramirez-Hill,68.718711,28.981021,19.7019685,46.235513,Air,995.6,2020-05-02
+55,Navajowhite Enable Distributed Convergence,"Ryan, Smith and Foster",21.7621595,44.019043,49.3310785,-148.910532,Air,639.13,2021-06-07
+56,Darkslategray Repurpose Dynamic Users,"Wang, Allen and Bryant",33.75827,2.540472,78.4754955,176.855605,Rail,843.44,2022-10-16
+57,Rosybrown Productize Innovative Eyeballs,Palmer-Gray,-12.8603335,-83.961899,-73.8697055,-34.783752,Truck,64.11,2022-04-24
+58,Indigo Deliver 24/365 E-Commerce,"Jones, Mercado and Davis",55.8636405,34.479794,-80.855955,53.80634,Rail,140.2,2021-12-04
+59,Mediumturquoise Iterate Transparent Partnerships,Eaton-Mendez,-8.7146315,177.088844,42.3002985,-167.278616,Truck,428.12,2023-02-18
+60,Lightseagreen Synthesize 24/7 Deliverables,Martinez-Peterson,83.0057595,9.183391,-75.0560385,30.061107,Ship,52.13,2020-01-09
+61,Indigo Re-Intermediate Transparent Infrastructures,Sandoval Inc,-88.733496,41.685916,32.569604,-14.292412,Truck,323.53,2022-12-27
+62,Honeydew Whiteboard Web-Enabled E-Markets,Webb Group,-72.629032,-176.996229,82.4325965,-94.678016,Truck,508.36,2023-03-29
+63,Mediumorchid Incubate 24/7 Experiences,Sherman and Sons,12.222313,-88.776562,84.044252,-28.446382,Truck,240.91,2021-10-27
+64,Darksalmon Deploy Back-End Platforms,Edwards-Mccarthy,-43.236097,-112.199099,80.145109,-105.078816,Truck,989.53,2020-04-14
+65,Crimson Integrate Front-End Deliverables,Robbins Ltd,34.554918,-177.967134,-30.810573,39.20531,Air,184.24,2021-10-16
+66,Lightgreen Iterate Rich Portals,Garcia Inc,64.8257295,34.242697,68.939588,-120.426278,Ship,99.77,2020-01-29
+67,Rosybrown Extend Vertical Deliverables,Brown-Moran,-39.9151025,-71.23969,64.899453,143.235622,Rail,962.38,2022-10-03
+68,Orangered Unleash Bleeding-Edge Interfaces,Harris LLC,54.855616,95.434878,-8.5113815,-147.032745,Rail,355.02,2020-12-26
+69,Chartreuse Productize Leading-Edge E-Markets,King Ltd,10.676559,-139.583879,36.566765,79.774485,Rail,688.15,2023-04-10
+70,Lightyellow Synthesize Out-Of-The-Box Interfaces,"Collins, Davis and Gibson",25.391123,13.940974,28.140905,-80.19916,Air,178.65,2021-04-23
+71,Darkolivegreen Morph Innovative Models,"Duffy, Robertson and Lopez",32.473586,-149.619271,78.2123075,172.20498,Truck,514.66,2022-10-06
+72,Goldenrod Morph Web-Enabled Models,Day-Walker,-7.4333455,144.285707,-31.1697295,28.068321,Truck,24.77,2022-08-30
+73,Snow Leverage Sticky Users,"Romero, Page and Mason",89.119032,-40.939749,76.5366895,-59.776343,Rail,670.75,2020-01-14
+74,Sandybrown Cultivate Next-Generation Technologies,Roman-Ramos,-22.0121925,69.95827,-6.93366,162.960624,Air,181.2,2021-10-01
+75,Royalblue Orchestrate Turn-Key E-Tailers,Cooper Group,-66.6772415,-74.128321,-13.968178,-25.112963,Truck,509.41,2021-02-18
+76,White Strategize Back-End Portals,Johnston LLC,-5.478602,35.793166,-7.1175155,78.832493,Air,740.12,2020-05-21
+77,Aliceblue Grow Cross-Platform E-Tailers,"Mayo, Moore and Hanson",-38.6254815,166.705885,-12.5325075,82.897214,Ship,463.86,2021-06-11
+78,Blanchedalmond Harness Seamless Eyeballs,"Jackson, Harris and Melton",79.0794705,172.732673,89.163885,-166.705107,Truck,328.95,2020-11-09
+79,Dimgray Optimize Value-Added Paradigms,Alvarez-Cruz,-52.0616945,-55.445697,-87.0246095,31.351144,Ship,998.43,2021-12-19
+80,Ivory Re-Contextualize Cross-Media Communities,"Castro, Perry and Burns",-85.010637,105.593871,33.614229,-139.006673,Ship,613.21,2022-10-31
+81,Lightseagreen Morph 24/7 Users,Vazquez Inc,88.4395645,-142.296914,-88.638567,160.303912,Truck,236.1,2022-06-06
+82,Navy Mesh Killer E-Markets,"Peters, Mays and Casey",26.3804905,-176.013033,-2.967118,177.625173,Rail,251.76,2022-09-26
+83,Lightsteelblue Cultivate One-To-One Info-Mediaries,Jackson Ltd,22.116313,-101.753248,74.7698695,175.031638,Air,463.75,2020-10-07
+84,Fuchsia Transform Frictionless Initiatives,Alexander-Luna,4.2180325,-116.959871,-38.705207,-25.737488,Rail,253.78,2020-01-20
+85,Green Facilitate Cross-Media Technologies,"Clements, Coleman and Martinez",-28.2849325,148.70941,66.271772,-134.258508,Ship,249.43,2021-10-13
+86,Mistyrose Architect Magnetic Partnerships,Gardner Inc,-0.357447,5.112141,4.588953,33.28677,Rail,939.88,2023-08-14
+87,Whitesmoke Mesh Innovative Applications,"Williams, Smith and Payne",-65.3526525,-146.549207,47.279003,-137.464743,Air,799.29,2021-12-11
+88,Mediumturquoise Extend Revolutionary Models,"Gonzalez, Smith and Hardin",25.013784,140.499201,17.5120055,131.003615,Rail,950.56,2023-01-23
+89,Deeppink Incentivize Impactful Info-Mediaries,Brooks LLC,39.814155,-107.350934,-46.1789375,73.702534,Ship,926.86,2020-10-20
+90,Burlywood Benchmark Collaborative Communities,Harrison-Dixon,29.1768585,76.796634,72.6279075,78.05582,Ship,473.13,2021-01-29
+91,Coral Grow Global Schemas,Lee-Bender,-60.297026,8.732699,-15.604709,-162.831023,Rail,800.43,2021-03-04
+92,Darkgreen Transition Integrated Roi,"Lynn, Hudson and Shepherd",51.0012845,-175.517933,-82.9335655,28.67094,Truck,905.1,2022-11-01
+93,Mediumturquoise Generate Plug-And-Play Channels,Davis-Smith,59.096287,103.611888,-77.511224,-161.577724,Air,764.28,2023-04-12
+94,Darkorange Mesh Innovative E-Markets,Bowen-Larson,47.319948,152.69804,19.6820175,-25.390396,Rail,914.28,2022-04-28
+95,Azure Cultivate Holistic Platforms,Young and Sons,85.5761815,-62.15159,-24.9316095,-30.687309,Ship,939.67,2020-09-16
+96,Lavenderblush Expedite Bricks-And-Clicks Infrastructures,"White, Pruitt and Hall",14.538169,-75.455493,24.7066795,104.190153,Truck,787.86,2020-08-16
+97,Orchid Unleash Synergistic Action-Items,"Sandoval, Luna and Perry",-47.5757375,122.214592,-37.803572,-93.070113,Ship,476.58,2023-09-23
+98,Oldlace Visualize Value-Added Portals,"Salinas, Heath and Hunt",-78.695875,-176.344661,-15.1777375,-25.94371,Truck,313.33,2022-02-16
+99,Seashell Drive E-Business Eyeballs,Marks-Dawson,-79.5586375,-122.88422,-53.8943145,-103.851832,Air,301.74,2022-06-20
+100,Pink Productize Next-Generation Eyeballs,Bright Group,-23.283926,-114.730863,-37.6002835,-87.866191,Rail,474.17,2020-11-14
+101,Snow Redefine Interactive Portals,Hernandez PLC,-57.821332,-133.13296,9.771793,-76.201544,Truck,656.25,2021-07-23
+102,Crimson Redefine Transparent Channels,Jefferson-Gonzales,55.04435,-143.693076,-77.330546,97.836317,Truck,252.02,2020-05-15
+103,Mediumseagreen Visualize Transparent Applications,Lopez-Lewis,-45.888861,116.188289,-12.15599,-81.17927,Rail,699.94,2023-08-18
+104,Deeppink Productize Next-Generation Functionalities,Cruz LLC,44.764195,-9.623881,-58.075206,-128.869252,Air,651.85,2023-05-29
+105,Fuchsia Evolve E-Business Relationships,Juarez-Lynch,-27.0951435,-136.555068,2.224483,118.638869,Truck,162.45,2020-08-27
+106,Sandybrown Grow Intuitive Infrastructures,Li-Woods,22.835708,177.044768,81.971654,64.35979,Ship,739.25,2021-02-02
+107,Darkviolet Mesh Vertical Bandwidth,Ross-Golden,-35.7405535,-17.844151,51.5249895,6.973128,Rail,297.31,2023-02-08
+108,Mediumpurple Streamline Out-Of-The-Box Technologies,Robbins and Sons,79.3305855,64.75283,67.861202,-163.571737,Ship,268.36,2023-03-07
+109,Tan Exploit Magnetic Infrastructures,Grimes Inc,69.9617475,-28.396276,-33.9585625,129.810968,Truck,981.59,2023-04-27
+110,Chartreuse Revolutionize Cross-Platform Initiatives,"Jones, Mendoza and Martinez",64.0101955,71.3069,-55.2292885,-114.517099,Truck,590.35,2021-09-08
+111,Darkred Re-Contextualize User-Centric Channels,"Alvarez, Rodriguez and Santana",86.84107,60.095511,-70.8896885,-21.800097,Truck,787.18,2021-09-15
+112,Lightcoral Integrate Cross-Platform Convergence,Barber and Sons,-52.8903615,175.294217,14.6757295,103.807477,Rail,553.74,2023-08-07
+113,Gainsboro Integrate Robust Web-Readiness,"Lindsey, Bruce and Roberts",76.8871665,78.950626,87.302279,-125.94815,Ship,349.0,2021-03-31
+114,Deeppink Drive 24/365 Action-Items,Harris-Salazar,69.8087095,57.184878,-1.4404755,172.921007,Air,97.48,2020-12-01
+115,Palegreen Monetize Dynamic Relationships,Russell-Greene,-23.5120975,175.619082,-70.174292,145.271662,Ship,391.77,2020-04-10
+116,Lightcyan Enable Innovative E-Business,"Reed, Torres and Anderson",-72.424099,-83.825538,14.5174995,-50.927459,Air,362.44,2021-04-12
+117,Mediumpurple Generate Bleeding-Edge Architectures,Hurst Ltd,64.2865615,134.729025,-42.870969,132.387769,Air,559.28,2020-10-17
+118,Lavender Reinvent Plug-And-Play E-Tailers,Parks-Morse,-48.398552,110.08875,-37.095856,-83.178455,Air,114.21,2022-04-29
+119,Moccasin Utilize Killer E-Commerce,Greene Ltd,-28.6707655,-162.51071,-56.714851,132.66375,Truck,316.64,2022-09-16
+120,Mistyrose Mesh Sticky Synergies,Griffin-Sanford,67.630523,-148.62237,-80.302143,36.695949,Rail,477.16,2020-02-29
+121,Darkorchid Aggregate Enterprise E-Business,Martinez-Gross,-36.915476,66.097893,-58.5437435,-45.866139,Truck,729.96,2022-07-30
+122,Gold Re-Contextualize Compelling Portals,Paul-Bailey,-67.944873,121.079645,-19.9070235,42.853894,Air,477.98,2022-05-01
+123,Forestgreen Utilize Collaborative Bandwidth,Stephens Group,-48.27841,161.641866,21.7472695,-51.34113,Air,558.66,2021-07-08
+124,Palegoldenrod Productize Integrated Convergence,"Mills, Ryan and Anderson",-65.357864,-91.91551,-9.532936,65.738846,Ship,272.62,2023-06-08
+125,Salmon Deliver Magnetic Platforms,"Schaefer, Williams and Mcclure",69.4423945,78.137605,-85.918111,131.389287,Rail,838.48,2020-01-06
+126,Mediumslateblue Reinvent Integrated Partnerships,Lewis PLC,-25.3011715,-170.658871,10.4871855,24.196231,Rail,919.16,2020-04-14
+127,Forestgreen Visualize Sticky Initiatives,"Brown, Molina and Graves",45.7051465,-176.601749,66.368354,-41.84826,Air,279.98,2020-06-06
+128,Pink Orchestrate Cross-Platform E-Commerce,"Stanley, Stewart and Thompson",-36.41743,-11.0189,82.11421,-2.132619,Air,889.83,2020-01-03
+129,Gold Matrix Transparent Markets,Underwood-Brown,-5.1301145,-165.728463,32.395808,10.717879,Ship,926.01,2023-03-02
+130,Darkseagreen Engineer Killer Functionalities,"Peterson, Mann and Wright",44.3188,19.317768,-84.637569,83.459334,Rail,17.77,2020-04-25
+131,Darkviolet Deliver 24/365 Roi,Herrera-Torres,19.693979,178.888588,7.601705,-72.402956,Rail,641.59,2022-04-14
+132,Mediumorchid Facilitate End-To-End E-Tailers,"Reynolds, Griffin and Sanders",19.6431415,-39.902332,-41.3068135,-133.669202,Air,992.99,2022-07-16
+133,Darkblue Synthesize Intuitive Models,Ward-Washington,11.426083,143.343794,88.665035,-165.138756,Air,740.48,2020-01-03
+134,Lightyellow Re-Intermediate One-To-One Partnerships,Keller Ltd,11.835137,-45.729672,-23.728087,35.164765,Truck,213.47,2022-07-02
+135,Green Mesh Distributed Models,Flores-Rosales,-49.770539,62.117457,66.3041785,-141.393585,Truck,253.89,2021-11-05
+136,Mediumpurple Enhance Dynamic Niches,Thompson-Garza,68.387363,-7.000241,-44.381708,139.954168,Ship,382.31,2023-05-02
+137,Mistyrose Re-Contextualize Ubiquitous Niches,Mendez-Summers,46.5527635,140.311637,14.2961975,139.999249,Air,355.77,2021-05-01
+138,Gold Innovate Cutting-Edge Methodologies,Rodriguez-Lopez,-47.0028345,17.966744,17.8683715,33.694217,Rail,840.94,2023-08-01
+139,Antiquewhite Drive Best-Of-Breed Communities,"Baird, Dunn and Morris",84.599191,127.958364,57.2180825,-5.018143,Rail,680.91,2020-05-16
+140,Pink Harness Front-End Technologies,Vasquez and Sons,-24.17542,79.513641,-52.378284,177.215518,Air,402.6,2021-09-21
+141,Skyblue Brand 24/365 Infrastructures,Gray-Hurst,-27.4496445,68.546818,-1.2474785,-16.552619,Air,779.5,2020-02-28
+142,Lightslategray Brand Virtual Networks,Castro Ltd,74.703026,-96.754501,75.847293,105.605674,Truck,434.75,2020-10-02
+143,Tan Redefine Killer Mindshare,"Rivera, Clarke and Padilla",-75.2500245,165.988097,13.1452255,-101.68898,Air,168.42,2023-05-22
+144,Lightslategray Iterate Rich Schemas,Taylor and Sons,-50.281906,175.324193,61.0916705,-112.832054,Ship,43.84,2021-12-26
+145,Chartreuse Syndicate Wireless Solutions,Simmons PLC,87.0604195,-21.089847,-8.722412,-164.115554,Ship,114.03,2020-11-18
+146,Lightgoldenrodyellow Synergize Rich Communities,"Smith, Gregory and Charles",71.5678955,57.855191,24.7773395,40.292655,Rail,611.5,2022-11-28
+147,Mediumblue Syndicate Turn-Key Deliverables,"Mason, Morgan and Hall",-53.3649465,-112.946322,71.995965,10.209463,Truck,770.44,2023-03-09
+148,Ivory Whiteboard Cross-Platform Metrics,Snow-Jones,85.499291,32.125229,35.590575,152.512626,Truck,870.4,2023-05-29
+149,Ghostwhite Strategize Next-Generation Platforms,"Washington, Stout and Walker",86.706159,-10.350156,-80.291354,-44.169745,Rail,269.65,2020-01-26
+150,Indianred Brand 24/7 Models,Perez-Patel,14.4323245,-43.6802,58.4678175,40.170288,Air,445.46,2023-09-19
+151,Saddlebrown Architect Revolutionary Portals,Fry-Chavez,19.859022,-163.843109,-35.1573755,134.884574,Air,280.71,2023-06-25
+152,Papayawhip Repurpose Cutting-Edge Synergies,"Buchanan, Marshall and Miller",27.207647,61.317967,-54.551538,-10.307196,Ship,989.04,2023-04-07
+153,Burlywood Iterate Plug-And-Play Initiatives,Juarez and Sons,-28.266174,124.069155,-78.784346,-55.44211,Truck,94.28,2023-03-30
+154,Whitesmoke Exploit Front-End Schemas,Ballard-Simon,66.1177375,-116.247024,-26.875389,-48.62209,Ship,304.47,2021-02-01
+155,Orchid Leverage Bricks-And-Clicks Synergies,Contreras and Sons,-40.089823,-61.179495,-23.694038,72.694399,Truck,597.39,2022-04-15
+156,Mediumvioletred Synthesize Rich Interfaces,Potts-Rivera,-74.1795275,-59.367034,-84.340971,132.799138,Air,130.65,2020-10-24
+157,Beige E-Enable Intuitive Technologies,Hoffman-Hamilton,50.968294,-55.308853,29.512178,68.508468,Truck,299.67,2022-06-28
+158,Aliceblue Optimize Frictionless Mindshare,Casey and Sons,17.1780735,5.923201,41.136655,-99.15665,Rail,147.8,2021-12-13
+159,Lightcoral Empower Enterprise Initiatives,Stewart-Baker,76.184938,-21.682782,43.788194,135.870921,Air,327.04,2022-04-12
+160,Limegreen Extend Extensible Action-Items,"Bell, Juarez and Bryant",74.08551,-41.445656,49.800895,-148.843507,Rail,314.73,2023-08-20
+161,Violet Leverage Proactive Schemas,Holmes-Stephenson,-11.4612795,-70.566418,-87.0473155,75.131116,Ship,500.43,2021-12-25
+162,Slategray Leverage E-Business Niches,"Curtis, Navarro and Baird",-18.1766905,168.519903,35.4951365,57.854142,Truck,320.34,2023-08-31
+163,Slategray Architect Compelling Vortals,Wright-Brown,80.406651,64.35784,-66.6931235,-41.918165,Truck,160.08,2021-12-04
+164,Thistle Incentivize Seamless Architectures,Weeks and Sons,-33.622563,-4.722851,-10.3223115,-108.03524,Truck,22.12,2023-05-01
+165,Mediumspringgreen Optimize Rich Mindshare,Smith Inc,52.4995805,-132.625109,28.3943305,-23.138625,Rail,183.84,2022-11-27
+166,Tomato Re-Contextualize Plug-And-Play E-Commerce,Burton-Montes,-7.4524505,91.281612,-89.9557335,-5.927297,Air,742.61,2022-03-11
+167,Darkslategray Deploy Cross-Media Initiatives,"Reed, Wells and Williams",48.8556455,-112.446189,28.7508395,73.595824,Truck,754.48,2020-04-11
+168,Darkred Target B2C Applications,"Hernandez, Charles and Holland",-4.4394855,0.196618,-3.740369,-24.368246,Truck,231.75,2023-06-15
+169,Cornsilk Implement Mission-Critical Content,Mccann PLC,-59.1769615,93.118748,-36.9258785,7.362596,Rail,376.71,2022-07-29
+170,Yellowgreen Integrate Wireless E-Business,Brown PLC,-77.516225,127.531535,-57.1369815,-137.667559,Ship,967.16,2022-03-19
+171,Darkslategray Transition Out-Of-The-Box Paradigms,Mcdaniel Inc,71.130904,-25.902212,49.075885,77.391361,Ship,355.47,2022-06-27
+172,Gray Aggregate Cutting-Edge Roi,"Gardner, Kidd and Ray",78.0282985,91.21836,-2.1171465,151.717376,Ship,858.3,2022-01-03
+173,Saddlebrown Transition Open-Source Supply-Chains,Hunt-Romero,6.9735515,-48.251465,60.865195,112.809651,Air,512.07,2022-03-21
+174,Lightgray Visualize Sticky Technologies,Ford-Flores,-18.479317,-118.63217,2.9161665,-8.219288,Air,847.69,2020-03-15
+175,Yellow Generate Strategic Functionalities,Richards-Mercer,70.9100625,151.183004,3.6532235,-148.141109,Truck,72.61,2022-01-19
+176,Antiquewhite Scale Frictionless Schemas,"Peck, Lawson and Johnson",10.9404225,-36.001492,39.3096875,151.636239,Air,117.46,2021-11-02
+177,Whitesmoke Morph Front-End Web-Readiness,"Campbell, Cole and Walker",-28.559389,-5.474123,88.6024555,-117.323075,Air,218.46,2023-07-21
+178,Blue Re-Intermediate Bleeding-Edge Channels,"Figueroa, Schroeder and Johnson",-50.6131945,146.90496,-76.6585505,-43.391315,Air,194.53,2022-04-17
+179,Papayawhip Target Seamless E-Tailers,House and Sons,74.8294015,168.657517,-22.93519,-153.87127,Truck,723.1,2023-08-16
+180,Mediumspringgreen Embrace Interactive Experiences,"Taylor, Warren and Baker",82.9552145,63.933367,24.2648995,-45.430731,Rail,421.79,2020-09-20
+181,Darkred Mesh Seamless E-Services,Ritter-Hill,43.875148,9.045366,21.0864215,-104.153587,Rail,174.74,2022-04-15
+182,Ivory Redefine Virtual Initiatives,"Rodriguez, Munoz and Gordon",87.040799,126.379515,51.616161,-22.936186,Rail,284.75,2021-12-07
+183,Mediumorchid Cultivate Integrated Channels,Byrd-Kennedy,-78.257423,-51.482491,35.314985,135.238769,Ship,609.27,2021-09-22
+184,Oldlace Repurpose Magnetic Niches,"Kennedy, Smith and Mccarthy",-73.491699,-11.44218,84.9645715,41.090565,Rail,882.96,2021-04-26
+185,Darkgoldenrod Maximize Turn-Key Web-Readiness,Gross Inc,-59.0756605,31.372732,-3.5306135,140.472351,Truck,470.86,2020-03-28
+186,Orange Architect Robust Paradigms,"Brooks, Jackson and Murphy",-21.925924,138.219862,83.1668895,-102.726991,Truck,932.63,2021-08-17
+187,Beige Maximize Wireless Web-Readiness,Todd-Williams,21.1430755,41.105094,89.922331,127.6255,Ship,961.56,2020-06-01
+188,Dimgray Grow Rich Interfaces,Brown PLC,52.207886,-92.279075,-6.5092265,-104.252613,Ship,182.39,2021-03-11
+189,Teal Disintermediate Real-Time Networks,Allen-Hernandez,23.988854,172.146008,-2.274418,-111.767875,Truck,911.02,2020-12-26
+190,Black Deliver Global Applications,Richards-Wolfe,39.4638955,16.056703,39.42116,-128.396688,Rail,265.11,2023-09-27
+191,Lawngreen Maximize Clicks-And-Mortar Architectures,Winters-Watkins,-1.831627,-35.237756,-4.887464,30.971953,Truck,695.35,2022-04-27
+192,Peachpuff Monetize Magnetic Deliverables,"Luna, Banks and Buchanan",41.9061515,-91.6493,-21.630469,124.348772,Rail,212.67,2023-03-07
+193,Limegreen E-Enable Strategic Paradigms,Davies-Black,-2.600517,95.864876,11.2877175,11.703265,Rail,73.92,2020-02-13
+194,Burlywood Synergize Extensible Paradigms,"Parker, Mann and Chandler",54.4480385,-135.231129,-75.3318355,43.023279,Truck,40.62,2020-01-22
+195,Greenyellow Transition Collaborative Relationships,Peterson Ltd,-81.194853,137.314936,4.6164845,107.233468,Rail,983.88,2021-01-19
+196,Red Integrate Integrated E-Tailers,"Combs, Matthews and Johnson",-6.2759225,-152.202646,-39.512204,12.231819,Air,368.89,2023-02-28
+197,Sienna Architect Bricks-And-Clicks Metrics,Gibson-Kim,-16.55444,-74.877186,0.013151,158.845111,Truck,205.17,2022-06-18
+198,Seagreen Facilitate Clicks-And-Mortar Architectures,"Crane, Robinson and Hicks",81.342645,-160.512987,-68.029261,138.647133,Truck,428.6,2022-03-02
+199,Lemonchiffon Synergize E-Business Communities,Brewer-Ortiz,-70.74872,173.412569,-80.0105355,-177.938735,Ship,128.62,2021-06-16
+200,Cornsilk Revolutionize Integrated Eyeballs,"Rios, Holland and Jones",87.583453,79.166983,89.7528685,76.694007,Truck,195.67,2021-09-15
+201,Azure Transform Intuitive Eyeballs,Scott-Hill,74.4270465,-48.452727,27.5531765,-90.60321,Rail,622.07,2021-06-05
+202,Goldenrod Transform Visionary Paradigms,Hogan LLC,30.709998,66.69025,-84.815151,170.189469,Ship,632.7,2020-03-05
+203,Goldenrod Transition Clicks-And-Mortar Architectures,Rubio-Daugherty,72.565803,-111.079873,-12.003614,168.460674,Air,469.43,2021-10-25
+204,Cadetblue Harness Sticky Applications,Thomas Ltd,-78.5520685,148.489748,55.219643,-92.158177,Ship,574.26,2023-01-29
+205,Black Reinvent B2B Supply-Chains,Richardson-Lopez,-0.9670105,111.527817,19.8612465,-99.203924,Ship,545.08,2021-07-01
+206,Mediumspringgreen Transform Clicks-And-Mortar E-Tailers,"Brown, Morgan and Parker",-84.7435545,-6.400492,2.3047175,-143.135083,Truck,145.03,2020-01-26
+207,Ghostwhite Streamline Visionary Markets,Russell-Gutierrez,49.6069395,117.27464,3.1551405,-120.849577,Rail,238.09,2021-12-20
+208,Silver Morph Holistic E-Tailers,Smith Group,-86.97818,16.089415,-17.0888935,-50.360795,Air,764.41,2022-06-06
+209,Cornsilk Transition Clicks-And-Mortar Info-Mediaries,"James, Brown and Hamilton",-69.4795705,42.338073,17.8223295,164.970237,Air,78.62,2022-04-21
+210,Steelblue Re-Contextualize Interactive Vortals,Allen-Jimenez,41.248969,-34.91231,-18.5556005,81.132521,Rail,380.96,2022-04-25
+211,Mediumturquoise Envisioneer Turn-Key Applications,Stanley LLC,82.6252755,-78.452528,-28.1011545,-29.608801,Ship,465.94,2021-12-22
+212,Seagreen Transform Dot-Com E-Services,"Berry, Smith and Walker",-59.0127845,110.174715,-9.8151805,-47.544476,Rail,898.15,2021-07-07
+213,Mediumspringgreen Deploy Scalable Web-Readiness,Cook LLC,46.760598,-162.332986,-62.416473,-179.51642,Truck,883.06,2022-11-30
+214,Whitesmoke Productize Interactive Methodologies,"Anderson, Morgan and Sheppard",-60.0997435,-84.996901,56.8012765,-58.440143,Truck,108.93,2022-05-26
+215,Goldenrod Syndicate Global Web Services,"Mccarty, Hopkins and Payne",-2.6249285,-85.966586,-31.7513685,66.718584,Ship,46.64,2022-12-19
+216,Pink Aggregate Integrated Paradigms,"Rocha, Nelson and Richardson",43.882057,166.424502,-13.047168,-75.491534,Rail,262.26,2021-03-08
+217,Oldlace Extend Best-Of-Breed Applications,Fisher-Lee,-8.4736405,-172.784297,-19.297005,151.962921,Air,369.49,2023-02-17
+218,Darkkhaki Synthesize Virtual Eyeballs,"Mccoy, Bauer and Torres",20.937803,46.286937,-57.227329,-2.93101,Truck,370.1,2022-11-29
+219,Cyan Disintermediate Innovative Action-Items,Wilson-Torres,-11.0471785,-147.589958,41.569205,-151.274262,Air,985.62,2020-06-27
+220,Azure Visualize Impactful Networks,Marquez Inc,-21.5527485,139.871397,73.811341,100.193757,Rail,878.1,2021-07-02
+221,Palegreen Incubate Robust Info-Mediaries,Ruiz-Wood,85.8911125,-152.210689,38.731276,68.381378,Rail,639.62,2020-05-03
+222,Mediumspringgreen Scale Innovative Metrics,Conley Inc,34.729813,-143.60459,-3.43503,-90.165019,Rail,632.82,2023-01-06
+223,Blue Utilize Vertical Interfaces,"Howell, Wright and Mooney",41.1355115,-120.097143,34.1382645,23.588532,Air,591.27,2023-04-03
+224,Indianred Productize Best-Of-Breed E-Business,"Baker, Ochoa and Phillips",51.7624175,-155.759223,-84.2826765,116.016788,Truck,789.66,2022-11-07
+225,Lightcoral Deploy Enterprise Synergies,"Davis, Taylor and Ashley",-46.5826205,117.029341,-68.998145,-121.829876,Rail,249.37,2020-06-04
+226,Lightblue Maximize Proactive Web Services,Medina-Compton,-55.221426,-137.199417,-10.9708475,66.848966,Truck,575.49,2020-01-05
+227,Khaki Grow Cross-Media Interfaces,"Santos, Walters and Morales",-9.1045755,-92.153595,40.3130805,-146.289782,Truck,707.25,2022-01-21
+228,Darkturquoise Optimize Strategic Platforms,"Harris, Molina and Alvarez",48.3454495,-176.714332,3.353284,-164.015552,Truck,432.25,2021-07-31
+229,Lightyellow Architect One-To-One Roi,Jennings Group,-27.86485,66.953937,-61.660146,36.742813,Air,422.06,2021-08-13
+230,Rosybrown Expedite Distributed Experiences,Miller and Sons,62.8911325,137.975099,37.833349,-125.533047,Truck,204.03,2022-05-25
+231,Lightslategray Extend Real-Time Platforms,"Gibson, Estrada and Morgan",-77.4747,-77.973571,50.3737815,143.405209,Air,365.4,2021-11-28
+232,Olivedrab Enhance Bricks-And-Clicks E-Services,Cox-Arnold,27.796191,-153.872248,-55.9431805,42.781067,Truck,696.41,2020-06-30
+233,Darkblue Benchmark Wireless Deliverables,"Rios, Scott and Walker",65.569355,101.934801,36.2105455,90.299652,Rail,296.02,2020-05-06
+234,Darkorchid Maximize Synergistic Content,Lopez Ltd,2.9814105,-59.274335,6.3076565,88.995576,Air,445.41,2020-09-29
+235,Gainsboro Generate Robust Web Services,"Lewis, Davis and Coleman",-5.88578,-17.797227,-13.3159185,146.696064,Air,418.98,2020-10-01
+236,Darkseagreen Incentivize Real-Time Relationships,Foster-Bailey,-66.790366,144.343621,-64.0834235,74.823549,Truck,192.42,2020-11-24
+237,Salmon Reinvent Open-Source E-Commerce,Jackson-Barker,-74.4250265,155.940507,31.6023175,-46.381487,Air,894.18,2023-07-21
+238,Olivedrab Cultivate Front-End Experiences,"Figueroa, Howard and Robertson",-22.042952,131.611322,47.342872,-129.969441,Rail,800.29,2022-09-04
+239,Lavender Visualize Next-Generation Supply-Chains,Atkinson Group,72.43114,81.307763,-47.981654,56.912652,Truck,59.0,2021-09-06
+240,Red Optimize World-Class Roi,Colon-Velazquez,-29.3667615,110.812145,5.791798,161.25455,Ship,517.14,2021-06-14
+241,Darkslategray Empower Robust Metrics,Manning Group,-31.789032,72.748555,-58.0584595,-24.60939,Truck,643.25,2022-05-22
+242,Mediumpurple Harness Dynamic Functionalities,"Arroyo, Taylor and Bryant",84.776959,8.212107,42.2110285,163.457888,Truck,929.76,2021-05-19
+243,Orange Mesh World-Class Mindshare,King Ltd,71.784573,0.418741,82.3210635,49.484378,Air,617.96,2021-06-05
+244,Pink Engineer Web-Enabled Models,Williams Ltd,23.886624,-22.422431,-10.7672905,95.590289,Ship,970.33,2021-07-01
+245,Midnightblue Synergize Front-End Solutions,Meyer PLC,-72.1443095,92.043299,-26.5119775,-112.181741,Ship,614.58,2020-07-05
+246,Darkkhaki Leverage Integrated Methodologies,Jensen-Garcia,58.2554415,-134.670311,13.2368705,147.103628,Rail,861.47,2022-12-08
+247,Firebrick Empower Back-End Solutions,Chavez LLC,-54.851772,-39.632466,71.961253,97.592279,Ship,218.98,2020-05-12
+248,Lawngreen Leverage Back-End Experiences,Whitney PLC,67.0269635,78.058223,-66.522815,-137.516676,Rail,745.51,2021-05-20
+249,Tomato Engineer Turn-Key Niches,Jenkins-Ewing,-52.9522505,-57.845588,10.2346005,143.348891,Truck,550.11,2020-10-30
+250,Firebrick Unleash Cross-Media Paradigms,Underwood-Chavez,36.718111,-86.150265,-19.270028,-80.172773,Rail,407.93,2023-09-13
+251,Mediumseagreen Re-Contextualize Global Web Services,"Stokes, Barton and Abbott",-37.9080755,-107.190373,-11.116395,-130.352618,Rail,365.23,2022-02-03
+252,Papayawhip Innovate Plug-And-Play Models,Bishop-Warren,-73.356537,27.362887,40.936137,159.594557,Truck,936.35,2023-07-28
+253,Chocolate Synthesize Turn-Key Markets,"Harrison, Rodriguez and Scott",-27.963489,10.353149,-67.1489675,-9.691805,Ship,930.66,2023-09-16
+254,Lightgoldenrodyellow Enhance Viral Platforms,Jenkins-Lopez,-20.293498,-10.16024,-22.416608,-143.614866,Air,53.06,2023-06-12
+255,Powderblue Unleash Turn-Key Infrastructures,"Martin, Davis and Steele",38.664685,-54.202067,-2.2425975,-12.403394,Rail,150.12,2020-12-19
+256,Antiquewhite Implement One-To-One Users,Haney and Sons,-11.240551,74.618202,67.518714,81.329976,Truck,257.98,2023-07-26
+257,Wheat Redefine Best-Of-Breed Applications,Taylor Group,-65.0820685,-40.324274,45.9981705,105.549786,Truck,865.59,2023-06-12
+258,Paleturquoise Envisioneer Cross-Platform Channels,Rice Group,-73.520622,-134.023442,-22.851766,-29.996387,Ship,481.18,2021-04-09
+259,Salmon Aggregate Dot-Com Supply-Chains,Hunter-Jordan,-61.6901735,-49.93541,-14.959865,-81.490021,Truck,104.11,2021-01-30
+260,Cornsilk Optimize Extensible Web-Readiness,Hawkins-Wood,37.4305235,138.721364,80.680997,30.798123,Rail,569.88,2021-03-16
+261,Goldenrod Transition Holistic Paradigms,"Baker, Castro and Mcfarland",-40.508934,115.487292,49.899979,34.860817,Air,592.98,2023-06-27
+262,Snow Re-Intermediate Next-Generation Info-Mediaries,"Greer, Smith and Richards",88.9162525,157.480955,-43.227912,-107.739057,Truck,842.12,2022-11-06
+263,Rosybrown Utilize Extensible Web Services,Ramirez-Camacho,-25.9489195,-71.528212,-29.0481805,-12.54702,Rail,68.43,2020-06-06
+264,Deepskyblue E-Enable Web-Enabled Roi,Reed-Parker,-86.6110175,32.400339,-65.370936,-73.403143,Air,143.65,2020-11-15
+265,Firebrick Leverage E-Business Models,Sharp Group,46.967698,134.854843,-22.5058985,124.404636,Rail,716.19,2022-11-24
+266,Palegreen Strategize Mission-Critical Initiatives,Riddle Inc,52.9521215,-79.381199,9.1007895,96.848381,Truck,300.45,2021-09-05
+267,Lightgreen Deliver Intuitive Schemas,"Hill, Robertson and Yoder",80.276835,139.490209,69.498315,-97.298631,Truck,882.39,2020-06-01
+268,Wheat Visualize 24/365 Users,Gray Group,57.3422005,89.569092,2.0471125,-56.329961,Truck,253.32,2021-06-13
+269,Olivedrab Envisioneer Integrated E-Tailers,Clark Inc,-38.308835,27.201799,16.5473115,165.577779,Air,229.26,2023-04-16
+270,Mediumpurple E-Enable Intuitive Channels,Gray-Hood,-66.576289,-13.667556,69.9128595,88.45195,Air,222.78,2021-05-26
+271,Darkgray Mesh Virtual Deliverables,Woodard Group,25.3748255,159.011672,-67.628684,159.562274,Air,877.47,2023-01-10
+272,Aqua Engage Extensible Metrics,"Richardson, Martin and Collins",-13.2400015,-80.841953,-50.146411,-20.628421,Air,712.88,2021-05-10
+273,Green Brand B2C Channels,Malone Ltd,-60.628746,-144.34629,54.080135,-52.201857,Air,78.1,2020-06-30
+274,Magenta Enhance Dynamic Relationships,Scott-Brown,-12.5954835,61.127738,-46.4640495,-82.800752,Truck,868.1,2021-02-28
+275,Cornflowerblue Monetize Cross-Media Systems,Strong Inc,38.621027,-57.946361,2.726747,-57.853747,Truck,402.92,2023-06-25
+276,Lightgreen Transform World-Class Initiatives,Anthony-Hahn,-82.474189,-93.703994,47.6310425,40.655071,Rail,380.27,2023-04-24
+277,Thistle Exploit Cross-Platform Mindshare,"Johnson, Schaefer and Collins",-22.8558125,92.360607,-6.3236895,164.232345,Truck,123.6,2021-08-30
+278,Hotpink Envisioneer Dynamic Info-Mediaries,Ray and Sons,-33.6052465,-65.791147,77.1228475,-164.80789,Rail,281.02,2020-07-24
+279,Brown Aggregate Ubiquitous Vortals,Savage Ltd,28.217478,79.163414,67.9457865,149.129996,Rail,748.84,2022-02-08
+280,Lightblue Seize Best-Of-Breed Networks,Rocha-Smith,-64.0866765,-133.891977,-45.48799,9.569216,Ship,146.81,2020-05-16
+281,Mintcream Extend User-Centric Synergies,Novak-Blake,-55.2194,-101.007276,-26.216528,-42.77541,Ship,870.2,2021-11-30
+282,Lightpink Generate World-Class Applications,Perez Ltd,-47.9170495,-76.846388,25.0417635,162.536724,Rail,942.0,2020-04-11
+283,Orangered Transform Global Vortals,Butler Inc,-1.952361,124.318593,79.3717245,-128.77533,Truck,899.93,2020-04-25
+284,White Facilitate Virtual E-Markets,Burke Inc,22.7466635,-132.730055,17.715493,58.173137,Rail,471.95,2020-02-24
+285,Salmon Optimize Web-Enabled Action-Items,Mcintosh-Dunn,-73.3738175,-119.261353,62.763493,-144.779375,Air,526.75,2021-10-24
+286,Olive Transition Open-Source Schemas,Morris-Brown,86.0723255,-155.367357,38.6750505,138.001825,Rail,417.53,2021-10-11
+287,Silver Morph Compelling Deliverables,Chan-Brown,-70.2567985,-137.411521,69.959939,58.398402,Truck,676.6,2023-04-27
+288,Ghostwhite Orchestrate Collaborative Interfaces,Fields-Moss,3.857476,-149.902313,-83.3441695,106.873036,Rail,949.69,2021-04-19
+289,Palevioletred Incentivize Cross-Media Metrics,Taylor Ltd,-83.9721065,-38.92174,65.971165,149.998391,Ship,309.66,2023-01-04
+290,Forestgreen Synthesize Robust E-Tailers,Tran-Miller,-28.7766925,-101.890176,8.853406,18.091352,Truck,703.41,2021-03-22
+291,Darkslateblue Morph Proactive Relationships,Bishop-Young,-60.8343315,100.576088,64.6647095,42.438498,Air,711.32,2022-04-11
+292,Papayawhip Generate Out-Of-The-Box Web Services,"Ray, Weber and Williams",55.9130175,67.492457,9.736944,-59.055915,Ship,158.89,2020-07-23
+293,Saddlebrown Empower Cross-Platform E-Business,Boyd-Pope,-19.5496585,-94.353928,17.5994295,-55.008083,Ship,659.05,2020-10-13
+294,Darkred Incubate Sticky Convergence,Ball-Morgan,58.417146,2.617914,1.3126845,-128.964004,Truck,174.16,2020-02-16
+295,Lightskyblue Deliver Back-End Relationships,Armstrong-Haynes,-24.3891275,-146.327898,10.927361,-126.440796,Air,678.6,2021-01-02
+296,Mistyrose Iterate Cutting-Edge Niches,Williams PLC,-0.2355235,-67.676985,-56.291073,86.809139,Ship,16.47,2021-09-04
+297,Teal Enable 24/7 Content,"Carlson, Phillips and Suarez",-34.25363,118.6916,-3.8674865,3.024443,Air,583.31,2022-07-28
+298,White Transform Virtual E-Commerce,Marsh-Flores,-1.447419,-144.312218,-51.434098,159.039594,Truck,696.33,2020-03-02
+299,Honeydew Re-Contextualize Compelling E-Business,Hopkins LLC,23.3280965,-11.59168,-14.740658,125.1641,Air,273.76,2020-12-22
+300,Oldlace Drive Ubiquitous Markets,Barton LLC,-57.107372,136.299959,-21.200225,131.143668,Ship,812.48,2022-10-14
+301,Darkviolet Visualize World-Class Communities,Martinez-Parker,42.1314165,-55.913458,-53.12403,155.14978,Truck,777.35,2020-12-06
+302,Darkred Aggregate Distributed Paradigms,Johnson-Brown,-82.7236285,-24.637978,61.6496655,3.57773,Rail,31.68,2023-02-01
+303,Blanchedalmond Target Cross-Media Mindshare,Matthews-Hunter,85.3918575,155.126099,-30.1205805,139.278879,Ship,618.21,2022-11-17
+304,Aquamarine Synergize Magnetic Technologies,"Macdonald, Heath and Clements",-65.9883145,75.157456,12.971127,-37.630222,Ship,509.55,2021-05-02
+305,Snow Visualize Value-Added Info-Mediaries,Wilson Inc,-81.2964105,-72.836829,-73.3022065,-89.486719,Ship,887.42,2021-08-24
+306,Lightpink Scale One-To-One Niches,Hamilton-Johnson,-11.7332385,-100.223876,-39.2557535,-141.918045,Truck,604.7,2022-05-07
+307,Red Deliver End-To-End Relationships,Miller-Wilcox,8.6851375,82.633273,-18.478732,161.818032,Ship,536.73,2021-06-06
+308,Navy Empower Rich Markets,"Mason, Perry and Cox",-55.616143,151.389669,0.5204085,13.363256,Truck,24.1,2021-12-29
+309,Cornflowerblue Envisioneer Granular Action-Items,"Blair, Gomez and Nelson",14.6118175,-138.473698,66.112385,-19.073351,Air,590.48,2021-12-02
+310,Green Target Collaborative Mindshare,Taylor Group,17.8277055,-13.647725,-10.693097,-128.512023,Air,471.96,2020-05-30
+311,Darkslategray Integrate Back-End Niches,Williams-Johnson,11.9364565,54.619775,50.960234,-150.021166,Truck,164.74,2020-12-17
+312,Slateblue Transform Best-Of-Breed Technologies,"Quinn, Smith and Brown",-63.2584485,73.022235,-40.8698205,-89.408403,Truck,491.35,2022-03-23
+313,Lightpink Matrix Rich Users,"Moreno, Rodriguez and Gould",7.9232825,148.682958,-83.5733665,-178.289512,Truck,339.37,2021-10-26
+314,Darkcyan Facilitate Global Applications,"Ferguson, Blackburn and Johnson",-12.720013,146.110208,23.6214335,84.688175,Rail,193.15,2020-07-08
+315,Oldlace Transition End-To-End Systems,Rich-White,49.9777065,136.568078,71.458151,-83.298958,Ship,206.21,2021-05-23
+316,Antiquewhite Expedite Synergistic Relationships,Whitaker LLC,66.016643,142.69115,-19.929079,12.57609,Truck,553.49,2020-09-27
+317,Sienna Revolutionize Holistic E-Markets,Armstrong and Sons,-67.5604355,121.587816,51.540542,-168.063402,Truck,405.02,2020-10-19
+318,Dimgray Seize Leading-Edge Portals,Garcia-Chan,-71.8416635,76.256886,-80.9827035,11.258655,Air,427.92,2022-08-10
+319,Cyan Scale Extensible Applications,Smith PLC,81.107707,-114.901197,-65.890708,56.392656,Rail,617.38,2021-04-11
+320,Springgreen Utilize Cross-Media Deliverables,Salas-Mccarthy,-21.324196,71.628254,-16.1215485,157.811677,Rail,766.41,2022-06-19
+321,Mistyrose Extend Best-Of-Breed Partnerships,"Myers, Cooper and West",4.4471855,-154.94949,42.251272,169.751605,Truck,824.38,2022-12-19
+322,Steelblue Monetize Open-Source Metrics,Lloyd and Sons,46.5919925,6.86624,28.0622105,103.367827,Ship,216.48,2023-08-25
+323,Mediumblue Brand B2B Infrastructures,"Hart, Chavez and Patterson",-38.7313785,-61.337481,88.016187,20.962752,Truck,619.18,2020-03-28
+324,Royalblue Redefine Synergistic Experiences,Porter-Smith,88.301423,-64.076906,-64.393313,11.228116,Rail,22.64,2022-06-27
+325,Lavenderblush Redefine Visionary Functionalities,Webb Group,-34.1459385,4.931455,69.7538785,146.602926,Ship,29.54,2021-01-07
+326,Lightgoldenrodyellow Mesh Viral Platforms,Patterson Ltd,86.4269395,-10.784185,-72.9287375,-168.812687,Rail,14.72,2021-03-13
+327,Darkmagenta Orchestrate B2C Partnerships,"Juarez, Smith and Smith",-44.9493385,-88.845893,86.1220355,39.292468,Ship,383.05,2023-02-08
+328,Olivedrab Facilitate Best-Of-Breed Eyeballs,"Garner, Jennings and Garcia",-61.8048665,-27.405791,-24.477464,163.227174,Rail,98.41,2022-09-10
+329,Lightblue Redefine Wireless Relationships,Hurley PLC,27.868043,151.162812,84.897382,-51.731797,Rail,740.79,2020-07-26
+330,Indianred Incubate Efficient Roi,"Garcia, Martinez and Bowen",-54.3133,-169.810148,19.046336,74.697701,Rail,267.76,2020-01-08
+331,Gray Expedite Sticky Functionalities,"Williams, Roberson and Johnson",43.787713,-28.81287,-87.920607,47.820199,Rail,990.0,2021-08-11
+332,Crimson Deploy Next-Generation Communities,"Bishop, Hale and Austin",23.322737,58.182495,-74.743965,-66.819568,Air,236.4,2020-03-29
+333,Burlywood Evolve Mission-Critical Web Services,Montoya Group,-41.5525925,35.2064,9.121611,137.964743,Air,69.23,2020-01-04
+334,Chocolate Aggregate Extensible E-Business,"Martin, Soto and Houston",51.6307525,84.211734,-57.1429695,-53.750145,Air,243.68,2021-11-02
+335,Gold Integrate Visionary Platforms,"Powell, Williams and Nelson",-12.6590855,65.845464,41.6986455,-102.62936,Ship,807.1,2022-11-27
+336,Deeppink Incubate Global Niches,Jones-English,9.3135035,94.047932,-23.649274,107.42271,Air,567.03,2021-09-11
+337,Ivory Whiteboard Intuitive Users,Torres-Cherry,-7.284593,-19.036392,-58.9529545,-133.296727,Rail,980.37,2020-01-25
+338,Deeppink Leverage Rich Mindshare,Davis and Sons,47.9562235,-38.180721,-70.0055295,147.982201,Truck,442.22,2022-07-14
+339,Lightgoldenrodyellow Integrate Customized Models,Higgins Ltd,7.3132415,143.092543,-5.2378585,-60.854945,Rail,106.63,2023-05-04
+340,Mediumspringgreen Implement Bricks-And-Clicks Platforms,"Wilson, Roberson and Richardson",-61.3352385,84.327541,-16.7499735,40.470169,Ship,865.64,2022-08-21
+341,Steelblue Synthesize 24/365 Info-Mediaries,Phelps LLC,82.328237,-7.558186,-68.228702,71.966554,Truck,392.96,2021-02-16
+342,Lightgreen Revolutionize One-To-One E-Business,Hill Ltd,-69.918962,155.159516,-4.514857,-3.843227,Air,21.21,2021-08-29
+343,Peru Productize Granular E-Tailers,Ross Inc,71.7632305,75.687267,11.435955,177.115159,Ship,149.12,2022-07-08
+344,Whitesmoke Seize Distributed E-Services,Petersen-Brooks,-30.3708585,31.367845,33.850262,-156.932,Air,910.84,2022-05-01
+345,Sandybrown Enable Revolutionary Vortals,Meyer-White,16.7042865,-85.903909,38.9381755,156.699626,Ship,805.9,2021-06-30
+346,Antiquewhite Deliver Collaborative Web-Readiness,Stephenson-Burke,-82.472289,64.024892,51.6520475,166.279892,Rail,41.28,2022-05-17
+347,Chartreuse Iterate Turn-Key E-Markets,"Espinoza, Rodriguez and Roman",88.546172,55.237608,55.2126155,-84.227778,Rail,778.28,2023-08-16
+348,Coral Synthesize Enterprise E-Services,Alexander Ltd,-78.5211205,33.277852,34.809138,108.362205,Air,18.1,2021-02-04
+349,Dimgray Brand Mission-Critical Paradigms,"Howell, Smith and Wilson",60.44417,170.005709,60.744592,-36.965435,Air,263.29,2021-02-01
+350,Navajowhite Matrix E-Business Supply-Chains,Alvarez-Scott,8.1785075,-12.919135,18.0267055,-8.588363,Rail,343.65,2021-11-13
+351,Burlywood Re-Intermediate Dynamic Platforms,Blevins LLC,70.3339275,-118.173809,27.5441235,26.561796,Truck,446.67,2020-11-04
+352,Deepskyblue Morph Synergistic Synergies,"Cunningham, Stewart and Rivera",35.7899045,123.314784,-34.7901275,-178.705546,Truck,279.28,2022-03-30
+353,Peru Brand User-Centric Architectures,Stewart Group,-0.5230545,-121.98179,-39.6559325,150.767473,Air,449.2,2022-04-21
+354,White Engineer Robust Relationships,"Young, Stone and Jackson",54.0443535,-35.900622,19.0773365,-11.321304,Rail,354.56,2021-01-24
+355,Limegreen Disintermediate 24/7 Web-Readiness,Taylor-Martin,-18.6327175,-117.372662,-49.1890815,132.408994,Ship,762.26,2021-03-20
+356,Lightsalmon Streamline Value-Added Technologies,Thompson PLC,2.0740585,-46.20633,-28.1311405,126.672954,Rail,700.31,2021-05-21
+357,Oldlace Redefine Leading-Edge Users,Dunn Inc,-83.9119365,-103.664017,22.3577605,69.127192,Rail,910.62,2020-11-10
+358,Darkblue Envisioneer Real-Time Synergies,Rivera Inc,57.4698145,176.856608,69.9004915,-53.424207,Truck,336.5,2021-09-25
+359,Yellowgreen Cultivate Rich Deliverables,"Carter, Garrison and Wood",78.596057,146.869982,-70.8241535,-64.396414,Air,906.48,2022-04-20
+360,Chocolate Generate B2C Web-Readiness,"Franco, Mccormick and Miles",55.458142,32.290946,-83.8176475,-178.749817,Truck,209.66,2020-01-31
+361,Mediumpurple Target Scalable Interfaces,Carney PLC,-5.0962785,-30.366862,-77.90586,44.453398,Air,197.89,2022-07-22
+362,Maroon Engage Cross-Platform Systems,Smith Inc,-67.322307,69.020425,63.848064,-127.96946,Air,440.3,2023-06-16
+363,Paleturquoise Empower Web-Enabled E-Services,"Ferrell, Ray and Brown",31.1598305,137.330776,-39.307145,86.187052,Rail,415.46,2020-11-16
+364,Gainsboro Extend Efficient Synergies,Snyder-Maldonado,72.593029,-25.501513,-15.3063535,70.288005,Air,117.7,2020-06-11
+365,Orange Enable Extensible Deliverables,Klein-Hamilton,75.1982625,133.394032,47.3302005,64.590227,Rail,638.04,2023-08-08
+366,Lightgoldenrodyellow Deliver Front-End Synergies,Moore Inc,33.91151,-43.725608,-47.9662135,-152.899359,Air,259.17,2022-03-20
+367,Crimson Envisioneer Extensible Roi,"Johnston, Adams and Herrera",-66.684595,78.981239,15.6644395,-81.002246,Air,213.0,2020-04-24
+368,Lightcoral Unleash Real-Time Info-Mediaries,"Ruiz, Lee and Carpenter",-10.726227,-17.414377,-80.609447,-63.575987,Ship,380.35,2022-10-23
+369,Salmon Iterate 24/7 E-Markets,"Rodriguez, Smith and Hammond",-71.5914435,0.527122,4.848373,13.805923,Ship,437.74,2023-06-03
+370,White Unleash Proactive Architectures,Johnston and Sons,64.903057,-116.621466,19.1323295,-2.106123,Truck,622.7,2022-06-11
+371,Goldenrod Whiteboard Value-Added E-Commerce,Salazar-Thompson,-62.3776025,-19.976829,-82.2053595,157.083453,Ship,562.28,2022-07-10
+372,Olive Facilitate Back-End Portals,"Watkins, Gonzales and Daniels",-4.034215,169.724009,-88.659057,164.662501,Rail,10.44,2020-04-03
+373,Thistle Mesh Revolutionary Solutions,"Mays, Moore and Dodson",84.713047,140.179143,36.9066185,-115.465457,Ship,896.26,2020-10-09
+374,Darkgreen Benchmark User-Centric Functionalities,Butler Ltd,21.9274415,150.245848,-80.745074,152.984593,Ship,982.18,2023-02-28
+375,Red Unleash 24/365 Partnerships,"Mullen, Lawrence and Allen",-83.055733,0.339915,38.49668,-170.670385,Ship,548.17,2021-06-12
+376,Darkgreen Utilize Bricks-And-Clicks Mindshare,"Palmer, Simpson and Cole",44.6262915,169.005893,15.091577,-105.782582,Truck,39.03,2021-04-24
+377,Papayawhip Seize Ubiquitous Technologies,"Ramos, Lowery and Lara",75.885453,-141.044372,-60.126699,-22.89726,Ship,653.52,2020-02-12
+378,Seagreen Deploy Customized E-Tailers,Ford-Johnson,-86.758315,162.287581,-21.190779,-166.874834,Air,72.0,2020-06-02
+379,Slateblue Envisioneer Best-Of-Breed Functionalities,Greene and Sons,-51.740548,-136.01238,34.4062645,-84.427807,Rail,769.75,2020-04-26
+380,Slategray Empower Efficient Vortals,"Hughes, Terry and Harris",32.898955,-169.567812,15.408298,90.122587,Air,823.81,2022-02-14
+381,Azure Evolve Best-Of-Breed Metrics,Barber PLC,-25.0426685,-3.764025,0.3140415,-147.37258,Air,896.96,2020-06-10
+382,Mediumpurple Implement Revolutionary Web-Readiness,"Benson, Smith and Rodgers",-53.3175635,85.628387,-59.9320485,92.990876,Air,258.06,2023-01-24
+383,Darkslategray Deliver End-To-End Action-Items,Mccoy and Sons,-78.368921,-106.143227,-89.4104285,-64.356265,Air,876.83,2023-07-18
+384,Seagreen Envisioneer Cross-Platform Platforms,Price LLC,46.569616,-39.429911,-43.3719545,-69.991987,Ship,665.02,2021-12-09
+385,Aqua Deliver Open-Source Infrastructures,"Ryan, Maldonado and Williams",75.9266255,-39.48795,-54.511904,35.459844,Rail,893.55,2022-06-18
+386,Chartreuse Implement Out-Of-The-Box Action-Items,Casey-Simmons,17.204788,-83.495019,-0.7862105,78.580706,Air,677.98,2023-04-30
+387,White Utilize Dot-Com Infrastructures,Mcdowell Group,85.1259465,121.024176,-39.9152635,5.107485,Ship,45.04,2021-04-24
+388,Snow E-Enable B2B Platforms,Mendoza Group,82.62005,-125.565422,47.67346,-80.599163,Air,196.54,2023-03-01
+389,Darkblue Deploy Robust Deliverables,Gordon-Weber,-77.6890225,40.970931,-14.0592775,-82.218118,Truck,67.95,2022-05-27
+390,Lightgray Implement Compelling Solutions,"Burke, Weber and Cline",-57.3821405,-152.164748,-52.999517,15.461424,Rail,144.58,2023-08-23
+391,Seagreen Transform Frictionless Infrastructures,Ward Ltd,72.4343605,148.528413,56.082352,119.224952,Truck,750.96,2020-02-05
+392,Blue Implement Dynamic Users,Nunez LLC,-6.6762875,122.223181,-86.2094535,79.327103,Ship,942.25,2020-10-30
+393,Lightcoral Implement B2B Experiences,"Christensen, Chung and Harrison",-58.279204,6.245728,-37.055542,-20.645535,Rail,567.5,2020-08-18
+394,Olive Whiteboard Integrated E-Commerce,"Washington, Hart and Williamson",76.5284685,-124.569497,-65.3513455,43.046603,Ship,159.37,2020-11-09
+395,Seagreen Deliver Mission-Critical Architectures,"Johnson, Greene and Colon",-34.607524,-97.774052,5.864243,132.944526,Rail,247.43,2022-08-22
+396,Papayawhip Incentivize Next-Generation Bandwidth,"Thomas, Mcgee and Robinson",-13.3441695,143.765241,65.3078115,-132.48561,Truck,760.18,2022-05-18
+397,Orange Repurpose Killer Vortals,"Martin, Clark and Mcclain",-78.8691365,170.909514,84.7557705,127.458045,Truck,531.41,2022-01-09
+398,Steelblue Innovate Revolutionary Architectures,Leonard-Cummings,21.015744,97.230449,2.5684565,-172.069529,Rail,46.73,2020-08-07
+399,Olivedrab Seize Collaborative Systems,Smith and Sons,5.267952,-16.841268,78.703817,86.878496,Truck,26.21,2022-01-31
+400,Mediumpurple Transform Customized Bandwidth,Coleman-Espinoza,56.588408,94.83574,-83.526775,140.621548,Truck,589.44,2022-07-09
+401,Deeppink Synergize 24/7 Communities,"Fitzgerald, Mcguire and Smith",50.9477425,127.441206,-36.8703985,-86.681639,Rail,62.06,2023-07-14
+402,Burlywood Cultivate Interactive Experiences,"Aguilar, Sanchez and Martinez",71.164065,113.087181,58.9739805,-72.394667,Rail,892.59,2020-09-28
+403,Chartreuse Deliver Seamless Interfaces,Herring Group,-15.9839375,-46.447611,41.5769505,-30.794208,Air,343.15,2020-12-18
+404,Green Optimize Distributed E-Markets,Burgess Ltd,-50.092581,-131.154985,65.4001415,160.54173,Truck,672.68,2020-11-08
+405,Lime Facilitate World-Class Action-Items,Steele-Nolan,-45.593693,45.903905,40.474463,-6.239445,Truck,296.64,2022-02-15
+406,Coral Cultivate Innovative Platforms,Young-Henry,41.6774415,-1.3443,19.3114795,86.690427,Ship,328.86,2021-09-20
+407,Olive Grow Dynamic Initiatives,"Martinez, Vance and Thomas",47.9643515,-58.932649,12.0456185,42.54438,Ship,55.23,2020-04-25
+408,Coral E-Enable Intuitive Mindshare,Stafford Inc,88.8586795,52.154462,5.1126215,54.387726,Air,417.63,2020-06-05
+409,Teal Synthesize 24/7 Partnerships,"Estrada, West and Miller",-15.2346745,-178.939611,-6.2546735,-149.722474,Ship,947.7,2021-08-26
+410,Mediumseagreen Transform Revolutionary E-Business,Huber-Smith,-75.1364485,-2.04964,-18.2318935,13.930997,Ship,988.14,2021-07-11
+411,Ivory Synergize Customized E-Business,Odom LLC,-49.103288,-46.671041,-68.946825,-25.32091,Ship,107.48,2022-01-01
+412,Lemonchiffon Cultivate Bricks-And-Clicks Mindshare,Crawford-Owens,45.983415,-159.1892,-49.77492,45.021321,Rail,35.65,2023-01-17
+413,Lemonchiffon Re-Intermediate Seamless Channels,Maynard PLC,-2.736517,-121.982371,-1.426949,-54.57236,Truck,811.96,2020-04-22
+414,Mediumslateblue Revolutionize Viral E-Tailers,Phillips-Fletcher,-65.363135,-62.167915,-0.3928185,56.386706,Rail,59.49,2023-03-06
+415,White Deliver Wireless E-Tailers,Carter-Mayo,26.8898905,166.497391,81.4716845,-74.051731,Rail,959.06,2022-04-25
+416,Cyan Productize Front-End Synergies,"Miles, Schmidt and Vazquez",84.9613875,115.06481,52.5601305,32.224384,Air,474.02,2021-08-27
+417,Mediumvioletred Re-Contextualize World-Class Users,Hardy LLC,-62.5424605,-1.421019,-79.4788145,121.625735,Ship,814.34,2021-03-21
+418,Palegreen Deliver Turn-Key Action-Items,"Hernandez, Haney and Sandoval",-12.862004,156.313223,84.4696595,108.601787,Air,358.76,2023-09-07
+419,Blueviolet Integrate Magnetic Deliverables,Bowman-Ashley,66.7950335,-72.067054,-55.9370915,149.878385,Truck,818.84,2021-03-11
+420,Peru Expedite Rich E-Markets,"George, Aguilar and Miller",-46.2205345,-44.641642,-3.2290625,-116.762091,Air,889.14,2023-03-06
+421,Cornsilk Deploy Killer Infrastructures,Murphy-George,3.379666,135.276136,-7.249908,97.318811,Truck,517.3,2023-05-17
+422,Mediumaquamarine Deliver Sticky E-Markets,Murphy-Harris,42.9335545,16.000707,86.12477,-54.096537,Air,58.85,2022-10-09
+423,Whitesmoke Brand Back-End E-Business,Reed and Sons,34.6687625,-114.734484,74.4352045,-49.315159,Air,196.83,2023-02-19
+424,Wheat Orchestrate Visionary E-Services,Boyd-Benjamin,7.514776,68.717519,81.3930865,-97.318104,Air,186.81,2021-04-12
+425,Mediumpurple Revolutionize 24/7 Deliverables,Hartman Ltd,-68.865962,160.3913,-24.509828,-25.726809,Rail,560.17,2022-05-01
+426,Pink Seize Value-Added Infrastructures,"Long, Hart and Price",85.1622705,-34.834163,1.871488,9.412074,Ship,131.64,2021-11-02
+427,Red Monetize Compelling Markets,Davis PLC,16.032982,-146.61401,22.975288,103.477038,Truck,80.65,2021-09-03
+428,Peru Redefine Synergistic Communities,Herrera-Taylor,9.432024,71.017312,-23.1615975,-53.585268,Rail,221.58,2020-10-27
+429,Saddlebrown Cultivate Plug-And-Play Infrastructures,Waller-Meyers,36.6261055,-157.964153,-14.8888645,-101.664005,Truck,923.15,2023-07-17
+430,Red Matrix Sticky Partnerships,Ramos-Daniels,-73.047838,-75.176462,-24.657677,107.435251,Ship,413.55,2021-12-15
+431,Olive Innovate Sticky Paradigms,Howard-Hayes,-5.2436345,134.938637,50.108458,118.650091,Rail,800.29,2022-07-13
+432,Snow Scale Leading-Edge Functionalities,"Holmes, Porter and Parker",24.7088165,26.799631,-15.204654,-85.565479,Air,115.73,2023-01-05
+433,Deeppink Productize Bleeding-Edge Methodologies,"Bishop, Snyder and Gutierrez",-48.34868,81.402813,-48.021019,67.456093,Ship,589.33,2021-09-19
+434,Lightcyan Envisioneer Best-Of-Breed Relationships,Johnson LLC,-88.632552,137.688946,-23.873645,114.359596,Ship,108.7,2021-12-29
+435,Fuchsia Drive Vertical Deliverables,Johnson Inc,-44.2530135,-117.128977,38.5969375,-178.990245,Rail,464.87,2021-12-30
+436,Darkorange Facilitate Web-Enabled Niches,Reed PLC,27.32321,81.777326,-60.863129,22.559776,Air,999.24,2021-08-11
+437,Darkorchid Morph World-Class Users,Johnson-Adams,-45.4160815,92.980684,73.466485,-75.153622,Rail,696.96,2022-03-06
+438,Greenyellow Scale Distributed E-Business,"Walter, Edwards and Thomas",-85.191857,46.349587,49.1921115,-128.992568,Air,304.46,2020-11-25
+439,Gray Incentivize Extensible Functionalities,"Silva, Barnett and Wagner",-2.875849,-44.232613,84.5302525,63.253882,Rail,90.51,2022-02-06
+440,Ivory Mesh Interactive Web Services,Lawrence-Barker,-50.621367,-134.281841,-51.0787005,-24.317121,Air,572.88,2020-01-01
+441,Lime Monetize Front-End Initiatives,Allen PLC,23.7818825,80.598955,-8.2615865,-96.327221,Rail,346.99,2022-04-06
+442,Yellowgreen Target Viral E-Services,May Inc,-38.8066785,52.272388,68.4371715,36.879044,Truck,439.18,2023-04-04
+443,Orchid Visualize Revolutionary Action-Items,Blevins Inc,35.396004,-34.406978,69.015039,-120.234055,Rail,867.38,2022-09-11
+444,Darkorchid Evolve Back-End Partnerships,"Brown, Griffin and Evans",55.590506,37.349744,-45.97159,-25.733348,Ship,595.76,2021-10-25
+445,Powderblue Drive User-Centric E-Services,Chambers-Perez,-66.4683725,-69.243789,34.50521,-20.875987,Rail,919.53,2023-09-01
+446,Darkkhaki Redefine Wireless Functionalities,Williams LLC,-62.2362255,22.930119,85.3063575,167.752744,Rail,462.45,2023-02-15
+447,Goldenrod Utilize Vertical Schemas,Lewis-Welch,-41.385366,-15.08876,26.089319,79.884784,Ship,308.84,2021-11-01
+448,Darkkhaki Mesh Vertical Partnerships,"Ayala, Mooney and Adams",-38.99822,-21.91264,27.6816075,121.805426,Air,768.37,2023-03-16
+449,Slategray Deploy Viral Deliverables,Johnson-Daniels,-85.755956,29.049837,16.167986,-44.725988,Truck,563.74,2023-01-03
+450,Beige Enhance Proactive Content,Rose LLC,28.495677,135.237359,-40.177731,32.038657,Truck,674.34,2021-01-15
+451,Thistle Iterate Interactive Experiences,"Green, Richardson and Snyder",-40.324022,-88.165143,-36.5633925,-108.727332,Ship,801.75,2020-01-18
+452,Black Unleash Transparent Supply-Chains,Stewart Inc,8.182316,42.661079,71.9840365,64.821485,Rail,98.77,2023-04-19
+453,Crimson Utilize Proactive Web Services,Walters-Anderson,-22.8568135,-38.121607,-80.9410275,93.139106,Truck,96.39,2023-08-06
+454,Peru Synergize Wireless Solutions,Henderson Ltd,-65.979798,-49.258917,-57.91366,172.118176,Ship,961.94,2023-02-19
+455,Palegoldenrod Engage Strategic Technologies,Williams Group,41.103366,-99.396994,1.5811615,14.616459,Rail,305.65,2020-10-19
+456,Lawngreen Redefine B2B Functionalities,Nguyen PLC,8.226312,-143.272705,-55.719056,150.038292,Truck,23.26,2021-08-24
+457,Limegreen Visualize Value-Added Markets,Spencer and Sons,-15.730261,-58.433785,-64.2285985,38.439398,Rail,685.76,2021-05-14
+458,Mediumblue Cultivate Mission-Critical Synergies,Flowers Ltd,42.5026565,-179.660011,73.5412375,-87.184081,Rail,658.25,2022-04-21
+459,Papayawhip E-Enable One-To-One Mindshare,Wagner-Flynn,-7.741007,-80.488388,63.350001,179.077663,Air,293.0,2022-03-04
+460,Saddlebrown Productize Sticky Paradigms,"Campos, Parker and Turner",-75.0510225,-77.437869,-50.1150045,155.39337,Ship,286.07,2023-02-09
+461,Chartreuse Disintermediate Intuitive Infrastructures,Hayes-Chaney,-43.566016,-146.357268,6.2984785,18.455803,Air,566.24,2022-05-25
+462,Darksalmon Brand Innovative Web-Readiness,Alexander-Bowen,51.821969,-6.583887,-64.2040455,-160.978776,Truck,821.21,2023-07-31
+463,Mediumvioletred Expedite Transparent Web-Readiness,Green-Smith,-60.7334325,143.457276,-17.022912,-160.263926,Truck,600.33,2021-03-13
+464,Tomato Utilize Viral Methodologies,Powell Group,60.4406475,103.249737,-87.2350825,80.785233,Truck,786.67,2022-12-13
+465,Papayawhip Incentivize Wireless Roi,Ortega PLC,-54.2208295,-145.4906,73.1351225,26.243385,Ship,341.72,2021-08-12
+466,Darkorange Architect Open-Source Networks,Thomas-Adams,0.4813575,-40.247382,-21.601729,63.211244,Ship,86.6,2022-01-24
+467,Forestgreen Scale Integrated Content,Collier Ltd,-68.8563735,-133.702663,-61.648571,-49.811806,Ship,991.29,2021-03-31
+468,Royalblue Enable Interactive Infrastructures,"Wong, Alvarez and Hudson",46.3292335,-132.01119,1.90993,5.287304,Rail,424.02,2020-10-28
+469,Ivory Unleash Turn-Key Technologies,Harrell-Haynes,42.8126575,94.045031,10.023833,-155.736806,Air,508.5,2021-02-12
+470,Gainsboro Extend Back-End Mindshare,Taylor LLC,-5.6949815,-120.724991,-68.2212805,53.779533,Truck,946.61,2021-11-27
+471,Dodgerblue Transform Turn-Key Solutions,"Johnson, Rose and Wise",71.0305485,40.743067,-18.6156155,-130.088094,Air,380.49,2021-05-09
+472,Lightsteelblue Generate One-To-One Synergies,Conrad PLC,56.882455,163.273942,35.480201,26.498019,Air,274.62,2020-01-22
+473,Mediumblue Empower Real-Time Mindshare,Medina-Mueller,13.387497,67.703516,-84.0692785,-141.051884,Air,226.13,2021-05-14
+474,Navy Re-Intermediate Customized Users,"Garcia, Nelson and Kelly",22.1274005,171.452665,-51.2171435,39.999684,Air,686.9,2020-09-24
+475,Blueviolet Visualize Visionary Functionalities,Mitchell-Jenkins,48.423374,-177.054906,-54.5624105,153.507066,Ship,132.33,2022-04-08
+476,Khaki Revolutionize Value-Added Channels,Estrada Inc,-55.6927315,94.115332,-49.4577405,-45.778201,Air,885.5,2021-05-26
+477,Beige Whiteboard Robust Web Services,"Stevens, Jones and Holt",19.8051505,174.043181,-79.1116375,-21.99359,Truck,333.81,2020-01-27
+478,Aqua Facilitate Dot-Com Metrics,"Hoffman, Turner and Castillo",-5.269725,-23.786128,28.557661,65.27661,Rail,414.91,2022-02-20
+479,Aliceblue Incubate B2B Schemas,Wallace-Mullins,71.1518895,-18.985035,-53.659868,40.323303,Ship,30.58,2020-02-15
+480,Oldlace Repurpose Seamless Eyeballs,Parker Inc,-7.30951,26.518084,35.419549,58.192441,Truck,289.5,2022-08-03
+481,Ghostwhite Brand Magnetic Portals,"Thompson, Kaiser and Avery",-9.3985435,-85.122894,66.1914515,-25.101686,Rail,670.66,2023-04-09
+482,Mediumseagreen Engineer Strategic Initiatives,House-Morgan,-45.075298,23.21917,-60.0984015,17.676345,Air,246.99,2022-05-18
+483,Darkturquoise E-Enable Value-Added Roi,"Clark, Green and Grimes",-47.6313525,-84.45382,47.8359545,72.000012,Air,90.43,2023-02-14
+484,Lightyellow Unleash Bricks-And-Clicks Channels,"Kelley, Garcia and Christian",-54.829124,102.155249,-63.2097215,81.234674,Truck,893.55,2021-09-11
+485,Ivory Generate Integrated Communities,"Johnson, Bennett and Hunter",21.1234045,-67.542624,53.036694,54.410386,Truck,180.75,2023-05-13
+486,Lightcoral Implement Web-Enabled E-Tailers,Shelton PLC,4.159422,-9.622022,-8.6635975,44.633979,Rail,990.7,2020-08-22
+487,Darksalmon Expedite Impactful Action-Items,Lopez-Huber,61.1296075,-84.900729,64.7059595,32.041168,Air,273.82,2020-06-16
+488,Mediumspringgreen Transform Viral Info-Mediaries,Cross PLC,67.3698685,140.082877,72.0915355,82.667501,Air,188.49,2021-02-05
+489,Lightseagreen Envisioneer Granular E-Services,Mays-Henderson,38.491834,-176.125101,47.146597,121.547172,Rail,276.3,2020-09-05
+490,Indianred Drive Mission-Critical Interfaces,"Mitchell, Underwood and Simon",18.9337465,-54.551045,66.8243735,-150.698322,Truck,815.0,2023-01-10
+491,Cornflowerblue Synthesize Customized Communities,Mckenzie-Perez,-68.4969815,68.564527,43.055921,63.482964,Rail,965.15,2022-07-13
+492,Gold Disintermediate Collaborative Users,Bennett LLC,-44.3719405,-93.835856,-2.6371165,-96.102441,Rail,900.73,2021-07-03
+493,Springgreen Morph Customized Mindshare,Foster Inc,34.353907,-177.412643,24.6170255,-3.598822,Truck,113.13,2020-11-04
+494,Whitesmoke Synthesize Viral E-Tailers,Kim LLC,-61.0454465,86.538191,7.450604,29.693724,Air,510.71,2023-03-07
+495,Cornflowerblue Empower Plug-And-Play Models,"Lewis, Martin and Ballard",-66.136853,-178.751156,-10.353632,3.532127,Ship,840.08,2022-02-22
+496,Azure Innovate B2B Communities,Gutierrez LLC,74.6615275,-119.663943,-45.509481,-118.603617,Air,978.33,2022-10-31
+497,Beige Visualize Compelling Paradigms,Vaughn-Adkins,73.896818,-69.361826,40.7844415,-177.62749,Ship,441.01,2023-03-26
+498,Blanchedalmond Disintermediate Visionary Infrastructures,"Huff, Jackson and Brown",8.5076,-1.196365,-37.77037,-122.203403,Ship,728.8,2023-03-29
+499,Brown Disintermediate Transparent Info-Mediaries,Walsh-Schroeder,67.045133,-55.203737,89.802735,-160.048718,Truck,180.48,2021-01-25
+500,Wheat Leverage Virtual Communities,Calderon Inc,6.362547,173.441042,-32.128612,47.578618,Rail,497.14,2020-12-18
+501,Teal Evolve Impactful Communities,Howell PLC,-84.1073775,-156.199984,59.931267,119.152184,Ship,321.23,2022-08-18
+502,Blue Architect Compelling Applications,Oconnell-Brown,-29.2122625,128.534586,35.1770365,102.798892,Air,409.88,2021-12-07
+503,Mediumturquoise Integrate Cross-Platform Applications,Schmidt-Fox,-31.6613845,-105.494505,66.04218,-47.43722,Rail,664.37,2022-09-20
+504,Indigo Engineer Plug-And-Play Vortals,Johnson-Murray,49.4778625,169.071234,-66.992507,60.165619,Ship,661.07,2020-02-16
+505,Lightslategray Visualize Rich Schemas,Carroll Ltd,-48.042092,-56.490886,57.277349,-24.658952,Rail,84.56,2020-01-08
+506,Gold Productize Granular Bandwidth,Brown-Jordan,47.18454,-40.677953,-67.2162375,117.198354,Truck,233.88,2023-03-21
+507,Lightgray Whiteboard Cross-Platform Experiences,Yang Group,-88.3265895,-9.88615,-50.7972505,147.400882,Rail,12.67,2023-05-06
+508,Lavender Leverage 24/7 Interfaces,Santos LLC,79.9620995,-96.389844,-52.9623605,-27.918906,Ship,857.8,2023-06-26
+509,Navy Enable Seamless Eyeballs,Davis-Ali,-46.922913,108.915435,74.273949,-139.714257,Truck,620.34,2022-03-23
+510,Red Target Mission-Critical Roi,Jones-Thompson,-20.2357775,96.412268,-36.691172,97.090562,Truck,269.35,2023-05-17
+511,Mintcream Revolutionize E-Business Networks,Tran Group,29.0320655,-80.856354,22.6971645,-1.999662,Air,330.78,2023-07-18
+512,Snow Strategize Strategic Interfaces,"Lee, Stewart and Brewer",-2.6007485,-105.399144,-30.1174605,108.302299,Truck,374.53,2022-12-05
+513,Coral Benchmark Customized Methodologies,Johnson Inc,-85.469088,-137.790613,-51.08354,108.554676,Truck,142.67,2022-07-18
+514,Plum Grow Real-Time Supply-Chains,Byrd Ltd,-18.9708265,-93.645207,61.763549,-80.773713,Rail,743.3,2021-02-20
+515,Darkgoldenrod Transition Vertical Functionalities,"Mayo, Perez and Garcia",55.5074845,-177.360884,-48.7507305,-78.186458,Air,104.14,2020-10-31
+516,Thistle Iterate Extensible Partnerships,Roberts-Miller,1.131459,137.550486,-86.948728,157.675739,Air,227.78,2021-07-04
+517,Mintcream Repurpose Value-Added E-Markets,Downs PLC,71.318437,121.883202,-20.426228,-170.923299,Rail,839.58,2020-07-03
+518,Skyblue Exploit Leading-Edge Convergence,Prince Group,-66.925574,-69.121002,67.462097,-114.910904,Air,761.61,2020-09-13
+519,Darkseagreen Re-Intermediate Cutting-Edge Synergies,Scott-Wright,4.4488645,97.209219,37.1978495,-148.254874,Ship,895.01,2020-08-16
+520,Lightslategray Matrix Visionary Infrastructures,Johnson LLC,10.4407935,-13.177038,-53.916383,-43.980135,Rail,553.92,2020-12-27
+521,Blanchedalmond Scale Holistic Web Services,Martinez Group,-8.3985795,165.276542,-35.69711,-106.396573,Ship,213.58,2022-02-15
+522,Beige Harness Turn-Key E-Tailers,"Walter, Alvarez and Wise",68.6566885,8.385324,50.9260345,-38.803658,Air,744.58,2021-09-29
+523,Cornflowerblue Maximize Compelling Metrics,Howard PLC,-62.171866,104.083923,-51.363867,141.308412,Ship,102.45,2023-06-02
+524,Mintcream Grow Collaborative Synergies,Cox-Ross,82.4394095,-134.592148,63.8878585,-59.701737,Ship,982.15,2021-05-13
+525,Mediumseagreen Orchestrate Global Functionalities,Gutierrez Inc,-80.2057105,-165.096101,-4.8344015,122.775249,Rail,576.64,2020-12-08
+526,Floralwhite E-Enable Wireless Technologies,Campbell PLC,87.0526115,136.943358,-17.289099,66.190467,Truck,577.52,2022-06-14
+527,Darkorange Drive Real-Time Niches,Hall LLC,-27.5925755,42.151189,45.271866,-103.830359,Truck,90.91,2020-05-07
+528,Mediumaquamarine Mesh Enterprise Markets,Moore Ltd,-75.359734,84.963434,-39.735379,5.395121,Air,250.99,2023-05-06
+529,Navy Exploit Extensible Mindshare,"Collins, Santos and Harris",62.917028,137.348593,80.0812755,-56.784577,Air,177.37,2022-06-20
+530,Aqua Expedite Distributed Systems,"Charles, Young and Stevens",65.7769825,-158.266188,-77.112248,-28.964169,Truck,663.21,2020-01-17
+531,Gainsboro Engineer Interactive E-Services,Hoffman-Barry,11.319183,-90.588945,53.9116025,53.925476,Ship,378.76,2023-03-19
+532,Palegoldenrod Engineer Compelling E-Tailers,"Willis, Howard and Robles",12.9071085,-165.184776,19.8726755,-90.14429,Air,891.35,2020-03-21
+533,Mediumaquamarine Empower Front-End Metrics,Mitchell PLC,27.2905285,131.408275,69.61872,-178.254415,Rail,148.84,2022-03-08
+534,Tan E-Enable Cross-Media Web Services,"Carson, Massey and Shelton",-69.5505765,102.151852,-23.4256165,-23.522558,Ship,191.92,2020-08-16
+535,Aqua Incentivize Cutting-Edge Eyeballs,Gibbs Inc,80.460239,-60.771939,26.3488455,-11.372491,Truck,791.54,2021-10-05
+536,Mediumvioletred Embrace E-Business Schemas,Wagner-Jackson,-10.016674,23.817375,50.7390975,-21.263977,Rail,771.34,2023-08-14
+537,Papayawhip Facilitate Innovative Metrics,Lopez-Kelly,31.277141,69.764644,-73.6876295,-21.585368,Ship,703.93,2022-07-05
+538,Khaki Benchmark Holistic Content,Young-Martinez,-62.9974975,71.847382,-22.048184,136.503091,Ship,210.71,2021-01-30
+539,Lightcyan Unleash Scalable Content,Watkins-Mendoza,35.4741045,-43.863152,39.10471,-97.300296,Air,357.09,2023-08-20
+540,Darkblue Disintermediate B2C Info-Mediaries,"Baker, Ramos and Pope",63.421958,-115.77849,-40.2322695,-62.177647,Ship,847.07,2023-06-04
+541,Dimgray Architect Integrated Channels,Ross Inc,-20.8112655,-177.795028,-69.2815935,162.879355,Ship,486.16,2022-05-09
+542,Mediumpurple Deliver Open-Source E-Business,"Brown, Bryant and Hardin",87.121978,-12.543455,37.2336545,-28.76293,Ship,929.33,2020-02-27
+543,Springgreen Repurpose World-Class Channels,"Robinson, Smith and Acosta",-54.957019,178.063088,-0.513397,143.125618,Air,837.26,2023-05-08
+544,Lavender Re-Contextualize Synergistic Synergies,Reese PLC,29.3745805,57.127167,19.0163865,-50.834414,Air,201.37,2020-07-30
+545,Gold Exploit Holistic Models,"Long, Anderson and Jones",42.176167,19.020385,-0.897622,113.374585,Truck,279.19,2023-06-02
+546,Mediumvioletred Cultivate 24/7 Methodologies,Carroll Group,-16.759101,-39.285958,-46.274672,-44.705485,Ship,581.42,2022-07-09
+547,Sandybrown Streamline Strategic Models,"David, Ingram and Riley",6.6195,-178.994926,-13.28787,-91.847883,Ship,535.31,2021-04-30
+548,Paleturquoise Benchmark Leading-Edge Architectures,Walker LLC,14.0794245,31.034386,-77.8061005,114.88145,Ship,235.33,2023-01-10
+549,Coral Deploy Collaborative Systems,Chan and Sons,-49.3417875,8.041153,-60.322686,-131.174738,Truck,135.87,2020-12-11
+550,Olive Architect Bleeding-Edge Infrastructures,Harris Ltd,-34.152495,138.252359,45.709007,-86.863232,Rail,770.0,2021-04-04
+551,Peru Unleash B2C Methodologies,Reid-Thompson,-86.498685,80.191705,-26.618355,112.023953,Truck,557.38,2021-04-19
+552,Purple Iterate Impactful Paradigms,"Matthews, Thompson and Watts",15.4917955,56.31872,-75.628819,-112.696248,Ship,901.4,2020-09-03
+553,Navy Implement E-Business Experiences,Cook-Jackson,32.719393,-167.733653,-28.4379585,-146.361088,Ship,160.06,2022-02-09
+554,Moccasin Deploy Revolutionary Platforms,"Cantrell, Phillips and Smith",60.929496,175.050078,-89.860833,-152.04798,Air,554.52,2023-02-10
+555,Lightgreen Integrate E-Business Vortals,"Smith, Cowan and Thomas",-79.1346165,-43.299645,-17.7654825,-17.201541,Air,186.52,2021-09-21
+556,Indianred Grow Revolutionary Networks,"Carter, Warner and Williams",-64.0438645,-72.857396,-49.5285115,-29.501073,Ship,617.41,2021-03-14
+557,Pink Enhance Back-End Systems,Booker-Krueger,-42.0321375,-3.467589,-40.6009225,27.329399,Air,391.63,2020-10-17
+558,Palegreen Orchestrate 24/7 Architectures,Olsen LLC,73.453464,-161.565845,-21.6699115,-73.122672,Rail,768.74,2022-11-23
+559,Mediumturquoise Maximize World-Class Synergies,"Mcpherson, Watson and Bradley",-39.6587885,156.24703,0.340477,101.698001,Ship,792.75,2022-01-13
+560,Slategray Syndicate Intuitive Web Services,"Roberts, Bond and Reilly",35.5095995,85.112365,-18.463515,161.118095,Air,271.9,2023-01-09
+561,Tomato Maximize Plug-And-Play Platforms,Contreras LLC,-70.406747,105.586313,68.1461965,-152.537308,Rail,407.93,2021-03-14
+562,Gainsboro Visualize Visionary Systems,Glass-Reynolds,4.551614,75.549857,67.21555,-57.597421,Air,929.16,2020-08-08
+563,Darkmagenta Deliver Distributed Partnerships,"Johnson, Miles and Ortiz",-28.294143,94.111657,76.4691375,45.392295,Rail,890.09,2021-06-06
+564,Lawngreen Enable B2B Paradigms,Navarro Inc,-47.7414515,-157.125651,57.0167315,-30.447186,Truck,169.18,2023-05-15
+565,Deepskyblue Harness Out-Of-The-Box Web Services,"Andrews, Smith and Garcia",51.1976875,-132.201731,18.3136285,-140.414463,Rail,79.03,2023-06-20
+566,Lightsalmon Engage Global Networks,"Johnson, Larson and Johnson",44.929375,58.164746,44.857058,-133.275988,Ship,441.74,2021-05-20
+567,Snow Deploy Transparent Experiences,"Wallace, Graves and Smith",-33.9175845,-18.660623,34.0588505,-48.537438,Rail,48.05,2021-04-19
+568,Turquoise Iterate Turn-Key Synergies,"Hancock, Hansen and Williams",-33.109645,111.365856,-69.059707,-10.412497,Rail,271.19,2020-05-10
+569,Peru Benchmark Bleeding-Edge E-Tailers,"Dickson, Meyer and Murray",-87.8764115,-42.015115,-35.4878205,-166.463031,Ship,978.0,2023-07-14
+570,Red Harness Plug-And-Play Applications,Wright-Brown,80.6052595,113.484084,-6.729991,-92.118169,Air,867.56,2021-11-28
+571,Slategray Unleash Web-Enabled Initiatives,Brown PLC,49.9312835,36.068634,40.1651495,-68.705313,Ship,193.13,2022-06-12
+572,Gray Implement Integrated Systems,"Kaufman, Elliott and Robinson",-31.356093,21.090463,69.7235245,-168.565913,Truck,461.8,2022-04-13
+573,Coral Visualize Visionary Vortals,"Bailey, Roberts and Fletcher",46.45432,32.305643,16.026522,-36.567768,Ship,208.56,2022-08-11
+574,Oldlace Integrate Cross-Media Methodologies,Wise-Barton,66.5835955,179.731447,31.977551,-163.652729,Air,713.88,2022-03-14
+575,Whitesmoke Morph Collaborative Web-Readiness,"Palmer, Zimmerman and Gutierrez",-21.423843,-32.76443,-27.5464965,-79.606477,Truck,867.82,2022-03-29
+576,Chartreuse Mesh Transparent Methodologies,Perez-Becker,63.2581335,126.282419,-78.136981,-46.773468,Rail,284.91,2021-08-03
+577,Peachpuff Incentivize Leading-Edge Schemas,Chang-Snyder,-58.850626,-94.072025,44.96813,143.488659,Air,920.9,2023-05-08
+578,Mediumaquamarine Integrate Integrated Action-Items,Moran PLC,2.647071,-18.413493,48.939925,139.583655,Air,235.08,2020-12-06
+579,Dimgray Revolutionize Impactful Users,Kelly-Williams,74.515155,146.901645,66.358296,-106.701672,Ship,410.41,2020-01-04
+580,Moccasin Innovate Turn-Key Solutions,"Wright, Diaz and Cannon",86.423789,-61.142754,-89.3997515,153.153449,Truck,498.2,2021-04-02
+581,Darksalmon Expedite Visionary Roi,"Stone, Lane and Smith",89.0770285,160.920379,-53.6760445,-86.32164,Truck,551.71,2020-03-14
+582,Dimgray Monetize Clicks-And-Mortar E-Tailers,Gentry-Bailey,-42.658296,-177.579945,-63.684755,140.884865,Ship,455.28,2020-08-21
+583,Peachpuff Benchmark Leading-Edge Channels,Jones-Guzman,-30.7162395,154.190204,-14.4512015,114.382368,Air,989.65,2020-11-18
+584,Aliceblue Harness Efficient Eyeballs,Saunders-Brown,67.1056275,172.286124,45.5745705,-121.521088,Air,611.15,2023-08-19
+585,Darksalmon Architect Revolutionary Web-Readiness,Davis and Sons,73.5200395,-115.028924,-15.2554205,17.568383,Truck,690.79,2021-05-22
+586,Palevioletred Repurpose Bricks-And-Clicks Metrics,Rodriguez-Walters,-75.540554,99.102644,-6.1483025,158.662016,Air,969.73,2020-04-14
+587,Yellow Strategize Clicks-And-Mortar Architectures,Martin Inc,-61.6282945,28.00743,-14.4363195,122.168835,Rail,545.9,2022-06-08
+588,Peachpuff Engage Innovative Markets,"Fisher, Carroll and Hernandez",25.0475775,-140.963262,56.4129585,27.80365,Ship,105.84,2020-12-07
+589,Orchid Engage Killer Content,"Pierce, Miller and Moses",40.808846,-33.144476,-24.920424,-136.625425,Rail,243.31,2021-10-06
+590,Lightyellow Mesh Visionary Roi,Morrison-Arnold,-10.51478,-32.297445,11.2808855,46.858078,Truck,518.3,2023-04-11
+591,Silver Exploit Clicks-And-Mortar Metrics,Singleton-Taylor,56.1421385,-176.450403,-73.567366,-100.876572,Truck,429.3,2023-02-14
+592,Mediumorchid Drive Viral Models,"Fisher, Carney and Duncan",29.109403,-95.588379,-56.238791,1.531878,Rail,887.65,2021-04-05
+593,Cadetblue Leverage Distributed Applications,Barrett-Rodriguez,-74.976174,79.716199,63.7192015,107.692288,Truck,222.86,2023-06-27
+594,Brown Extend Enterprise Convergence,Duffy-Le,-18.520181,171.631843,63.434199,-51.414347,Truck,970.43,2020-10-18
+595,Blueviolet Mesh Bleeding-Edge Networks,Smith-Erickson,-57.883212,-72.767434,-7.6326005,-114.28176,Air,380.61,2020-09-01
+596,Aliceblue Extend Next-Generation Action-Items,Fleming PLC,-64.512068,-137.850339,-42.7644415,47.035483,Ship,570.07,2020-05-10
+597,Navajowhite Extend Best-Of-Breed Content,Martin-Cooper,81.363701,102.451951,-78.872107,29.460309,Ship,99.41,2020-08-26
+598,Greenyellow Morph Clicks-And-Mortar Models,Ward-Elliott,-65.161071,-62.348529,-70.020658,69.704912,Ship,649.36,2020-06-17
+599,Slateblue Seize Efficient Schemas,Gutierrez-Carey,68.392384,56.345206,11.6732635,159.398791,Rail,863.03,2020-09-21
+600,Darkseagreen Scale E-Business Methodologies,"Smith, Ware and Hunter",80.3255775,178.361929,7.980245,18.395159,Rail,585.19,2022-09-24
+601,Fuchsia Expedite Enterprise E-Services,Ellison LLC,57.25123,38.143568,-10.486548,-0.984095,Air,242.63,2020-09-18
+602,Sienna Expedite 24/7 Bandwidth,Allen and Sons,-46.630475,-128.738643,23.095722,-176.600265,Ship,909.96,2021-12-28
+603,Mistyrose Embrace Extensible Functionalities,"Wolf, Hall and Mora",-50.927087,-105.263171,28.432777,-173.957336,Rail,740.83,2023-08-07
+604,Slategray Revolutionize Bricks-And-Clicks Action-Items,Santana-Gonzalez,-52.332178,-24.005238,-11.4096065,76.682279,Truck,459.1,2022-01-26
+605,Mediumpurple Brand Dot-Com Channels,Owen-Price,29.6605105,-91.968195,-20.420662,56.895993,Rail,829.37,2020-10-21
+606,Lemonchiffon Grow 24/7 Applications,Hill-Jensen,25.2524705,6.949278,-54.714741,-82.81631,Air,174.78,2021-01-16
+607,Plum Grow Rich Paradigms,Reed-Hill,85.783092,129.171301,-59.938734,-1.155654,Ship,656.94,2020-09-20
+608,Orchid Mesh Compelling Solutions,"Chavez, Aguilar and Atkinson",-52.9568975,22.585532,11.032323,-115.414272,Rail,512.53,2022-08-30
+609,Cornsilk Enhance World-Class Roi,Richard-Hardy,40.200193,53.890667,-77.944814,-147.978029,Ship,31.59,2022-02-01
+610,Lightsteelblue Grow Impactful Experiences,"Jones, Mullen and Garcia",-31.1730615,-21.386799,89.5877675,104.788702,Ship,345.8,2021-03-31
+611,Brown Strategize B2C Solutions,Martin-Mitchell,66.162339,159.679904,-8.829526,-48.748169,Ship,799.87,2022-10-26
+612,Teal Harness Plug-And-Play Action-Items,Smith PLC,-20.7204165,-46.5277,36.903658,32.389217,Rail,571.17,2023-09-07
+613,Royalblue Mesh B2B Paradigms,"Gardner, Hughes and Brown",-75.212194,-72.391153,-27.350941,76.714206,Truck,135.98,2022-01-19
+614,Cornflowerblue Facilitate Back-End Eyeballs,Hess Group,-14.421721,-82.982458,30.469609,72.2504,Ship,306.32,2020-06-19
+615,Mediumspringgreen Aggregate Rich Deliverables,Skinner and Sons,-82.175934,35.286073,86.119015,136.001658,Rail,473.47,2021-01-08
+616,Paleturquoise Scale Innovative Models,"Preston, Schwartz and Drake",-27.0893705,57.641302,-53.041799,2.249377,Ship,141.03,2020-12-15
+617,Mediumaquamarine Orchestrate End-To-End Infrastructures,Cunningham and Sons,73.716095,-161.791268,55.235547,-101.998436,Ship,256.56,2020-10-20
+618,Mintcream Aggregate 24/7 Synergies,Castro-Hood,-78.9885475,-157.298011,66.19651,59.461963,Rail,658.72,2020-11-04
+619,Violet Facilitate Value-Added Bandwidth,Smith-Walton,27.5738075,67.532575,-40.6093445,-71.845162,Ship,831.98,2020-07-12
+620,Mediumspringgreen Target Wireless Functionalities,"Faulkner, Ritter and Berry",21.023448,-55.669545,-68.0026765,156.592493,Rail,31.89,2020-01-04
+621,Springgreen Productize Intuitive Info-Mediaries,"Miller, Thomas and Curry",35.8431295,-12.657198,-77.9402945,-165.14415,Truck,10.79,2021-01-09
+622,Pink Orchestrate Proactive Applications,Lee LLC,-6.7720495,-146.463933,34.265096,-121.288497,Air,152.85,2022-06-24
+623,Lavenderblush Enhance Leading-Edge Interfaces,Patterson LLC,51.133033,-122.754741,-73.2259285,141.824535,Air,842.71,2022-02-25
+624,Chocolate Engage Leading-Edge E-Markets,"Roberts, Mccoy and Harvey",-56.6162185,134.371399,50.970303,-31.928143,Rail,933.46,2020-10-21
+625,Thistle Whiteboard Mission-Critical Experiences,Simmons LLC,60.6939455,143.092787,-27.268569,65.823594,Truck,370.77,2022-02-11
+626,Magenta Facilitate Proactive Niches,Johnson LLC,58.6334365,178.443001,-44.3820325,3.336739,Rail,102.33,2021-03-04
+627,Darkslategray Exploit E-Business Applications,Moon-Soto,-39.0487915,-141.63446,-7.3427245,125.73744,Truck,754.87,2020-06-14
+628,Paleturquoise Optimize B2C E-Markets,Dawson-Perez,-77.2102435,-22.518911,-80.2286885,-80.115971,Truck,278.81,2021-02-10
+629,Bisque Drive Granular Convergence,Singh-Clark,16.566211,-55.301313,-15.161861,-99.964852,Ship,306.39,2021-08-10
+630,Darkcyan Brand Clicks-And-Mortar Systems,Davis PLC,-27.8703015,114.370024,22.48795,-59.02147,Rail,823.27,2022-10-31
+631,Olive Streamline Strategic Web Services,Cooper-Howe,46.7995985,-147.239557,-62.3192745,-102.358838,Air,365.82,2022-12-18
+632,Darkseagreen Envisioneer Frictionless Deliverables,Ryan-Smith,-89.5460835,-0.427561,84.4940135,48.830957,Rail,634.89,2022-12-21
+633,Darkgreen Mesh Bricks-And-Clicks Deliverables,Lozano Inc,-29.755342,100.915074,-72.033287,165.969934,Rail,754.58,2022-03-21
+634,Lightgoldenrodyellow Seize World-Class Users,Avila Inc,47.8262745,-18.117104,-59.735769,-171.531855,Truck,153.2,2021-06-14
+635,Silver Innovate Holistic Paradigms,Benson-Martinez,63.283038,-20.28793,74.0683635,-1.352125,Ship,324.56,2023-05-21
+636,Greenyellow Facilitate Seamless Platforms,"Chavez, Williams and Smith",60.2882035,47.336929,-18.2287125,-105.153075,Truck,203.81,2020-02-09
+637,Gold Revolutionize Real-Time Action-Items,Contreras-Pierce,0.0315535,-127.192005,86.5474965,36.102122,Truck,807.57,2020-04-08
+638,Slateblue Disintermediate Open-Source Synergies,Martin Group,-20.6522635,22.339586,-12.361299,89.782159,Ship,23.5,2021-10-15
+639,Coral Monetize E-Business Platforms,Pratt-Wright,-25.813013,-94.868698,-19.0694885,-33.169606,Air,59.76,2021-06-24
+640,Yellow Optimize Synergistic Mindshare,Chambers-Bowen,-62.289369,113.681765,-29.699764,-57.289262,Ship,559.15,2023-03-24
+641,Floralwhite Engage Scalable Platforms,"Glover, Bell and Herring",82.9053075,-105.100682,13.529285,-130.549304,Truck,453.51,2020-12-08
+642,Salmon Exploit Virtual E-Business,"Peters, Kramer and Rodriguez",1.453675,-51.066122,76.9812355,21.928885,Rail,612.5,2020-12-04
+643,Palegoldenrod Revolutionize Strategic Schemas,"Murphy, Bishop and Hall",76.276281,92.874702,51.937676,-3.246684,Air,857.64,2021-02-12
+644,Seashell Synthesize Dot-Com E-Business,Ruiz-Richards,-53.6569935,-108.620414,-25.0271635,61.639258,Air,48.27,2020-04-19
+645,Indigo Maximize Cross-Media Roi,Flowers-Olson,41.688041,-26.580832,-80.512686,113.582009,Rail,861.3,2022-12-25
+646,Darkcyan Deploy Wireless E-Commerce,"Davidson, Davis and Bowen",9.392344,170.178934,74.258285,42.283957,Rail,54.14,2022-08-16
+647,Darkturquoise Repurpose Enterprise Vortals,Gonzalez and Sons,-75.3314065,105.975211,12.3259995,-36.288152,Ship,151.56,2023-07-22
+648,Teal Extend Cutting-Edge Communities,Lane and Sons,11.267739,170.190968,57.564643,-19.623062,Truck,925.91,2020-06-20
+649,Salmon Enable Global Platforms,"Wright, Mason and Garner",-88.9667585,19.982158,27.230862,-105.12442,Rail,269.55,2022-10-17
+650,Turquoise Repurpose Plug-And-Play Web Services,Blake Group,69.631144,145.601845,-22.876626,-7.194552,Rail,993.11,2021-04-29
+651,Linen Syndicate Cutting-Edge E-Services,"Martinez, Pearson and Marquez",45.122616,-173.903153,-60.497264,-37.105542,Air,303.21,2022-02-15
+652,Chocolate Redefine Impactful Roi,"Snyder, Clark and Estrada",-57.1639425,-50.210204,-6.416161,-68.35186,Ship,241.42,2020-07-14
+653,Rosybrown Incubate E-Business Paradigms,Pratt and Sons,3.4998055,-152.012498,-73.629487,-120.544735,Air,95.13,2022-12-21
+654,Bisque Enhance Scalable Convergence,Glover-Lopez,10.8314415,-8.608454,53.8041815,-135.074318,Air,385.04,2023-05-30
+655,Skyblue E-Enable Magnetic Schemas,Conley-Middleton,23.8006145,116.51031,83.0827625,43.09707,Ship,251.76,2021-11-11
+656,Floralwhite Maximize Extensible Functionalities,"Garcia, Allen and Santos",5.4926845,-23.931356,5.425826,32.921299,Ship,304.71,2020-10-15
+657,Darkorchid Matrix Out-Of-The-Box Niches,"Ruiz, Lewis and Mcmahon",-62.8909155,111.386983,-16.951549,-39.40299,Rail,79.33,2021-02-15
+658,Moccasin Scale Innovative Initiatives,Atkins-Cochran,-19.0747975,-107.968821,-36.2804025,179.00154,Ship,723.01,2022-10-26
+659,Greenyellow Visualize Clicks-And-Mortar Mindshare,Lucas and Sons,-54.413928,-55.734399,11.0979255,-74.267558,Ship,397.18,2021-01-27
+660,Pink Iterate Holistic Networks,Lopez Inc,86.977949,27.457078,1.617888,165.626836,Rail,563.64,2020-11-15
+661,Blanchedalmond Visualize Integrated E-Tailers,"Allen, Harvey and Gomez",46.0061765,179.722047,-72.0127425,-15.674114,Rail,627.86,2020-04-17
+662,Indigo Enhance Revolutionary Systems,Newton LLC,30.24718,-101.407285,-27.820099,60.022927,Rail,153.9,2020-11-12
+663,Hotpink Cultivate Next-Generation Roi,"James, Vasquez and Martinez",76.24704,46.517462,-67.7305705,53.319929,Rail,181.84,2020-04-30
+664,Darkseagreen Enable Dynamic Relationships,Jackson-Dickson,-12.4503145,-118.49334,-30.2155865,120.586974,Air,68.61,2021-06-28
+665,Chartreuse Syndicate Rich Paradigms,Tucker-Russell,87.1650095,-123.929505,65.051566,58.691249,Air,765.89,2021-09-03
+666,Navajowhite Productize Compelling Supply-Chains,"Hopkins, Perry and Jackson",61.9706195,-8.622859,42.5174485,175.847014,Rail,54.7,2022-03-25
+667,Aquamarine Strategize 24/7 Action-Items,Rogers Ltd,89.649184,177.843988,87.3233955,-131.260193,Ship,718.21,2022-11-09
+668,Lightgray Evolve Real-Time Partnerships,Moses-Lucas,39.7820415,6.213044,-50.8458975,76.879931,Truck,637.58,2023-07-11
+669,Olivedrab Syndicate Synergistic Web-Readiness,"Blair, Jackson and Barnett",67.0211745,-64.99722,74.0389395,164.531467,Truck,900.86,2021-08-17
+670,Olive Evolve End-To-End Networks,Davis Group,-39.835546,-163.188763,47.9020415,-95.693,Rail,561.69,2022-01-12
+671,Ivory Exploit Customized Action-Items,"Smith, Johnson and Turner",-16.8214185,84.703456,84.6344465,14.757416,Ship,999.41,2022-04-04
+672,Peru Synergize Enterprise Models,Hatfield Group,-34.3708715,-21.847079,-34.7852275,102.941453,Rail,437.69,2020-05-03
+673,Lightskyblue Incubate Sticky Niches,"Hanson, Anderson and Gardner",-71.626863,146.525887,-73.5610265,51.060076,Rail,530.59,2023-06-02
+674,Wheat Extend Ubiquitous Synergies,Price LLC,84.684331,-90.596441,-55.617883,-124.407975,Ship,661.97,2022-03-16
+675,Ivory Innovate Virtual Eyeballs,Morgan PLC,-8.7824465,169.291891,2.325516,-105.080276,Truck,563.83,2020-02-18
+676,Black Matrix Value-Added Initiatives,"Cannon, Price and Jones",17.1988365,-152.772823,37.6593855,-71.221149,Truck,920.98,2020-12-09
+677,Greenyellow Innovate Revolutionary Web-Readiness,"Singh, Mendez and Ramos",-72.5944125,-92.138775,-15.533434,-141.400219,Truck,510.11,2021-06-06
+678,Steelblue Utilize Magnetic Portals,Smith-Anderson,-9.339209,-69.506335,13.444242,-31.81171,Air,11.8,2020-06-16
+679,Darkmagenta Synthesize Vertical Functionalities,Martinez LLC,30.44085,-77.857218,61.733557,-117.743092,Truck,297.24,2021-09-04
+680,Powderblue Whiteboard Ubiquitous Web Services,Lyons and Sons,82.8781405,-80.008604,26.6329325,130.259617,Rail,481.05,2021-10-29
+681,Palegoldenrod Utilize E-Business Eyeballs,"Lewis, Little and Hensley",-46.381584,26.798,-13.5830445,-141.468186,Air,692.34,2021-02-09
+682,Brown Synthesize Best-Of-Breed Users,"Rollins, Franco and Burton",-71.763843,88.237903,-10.3091655,-63.064574,Rail,427.09,2021-01-12
+683,Ivory Expedite Front-End Web-Readiness,Pugh PLC,-46.176754,-178.841832,-34.2370555,-135.035295,Ship,82.54,2023-06-11
+684,Darkorange Deploy Proactive E-Services,Campos-Scott,30.0364305,118.611982,46.5524445,-136.568765,Air,406.45,2020-12-29
+685,Darksalmon Cultivate Turn-Key Info-Mediaries,Berry Ltd,15.4426115,110.830598,33.127239,119.601449,Truck,857.13,2022-12-22
+686,White Harness Killer Partnerships,"Quinn, Small and Mccoy",84.9853305,120.394919,-33.962393,-145.314159,Truck,519.45,2021-06-18
+687,Thistle Deploy Real-Time Initiatives,Holloway and Sons,3.1788635,112.347203,-14.6108935,90.823838,Air,788.36,2021-07-18
+688,Darksalmon Brand Web-Enabled Metrics,"Myers, Hebert and Thornton",-3.006194,-24.505271,-70.2948685,172.88339,Ship,720.54,2022-09-30
+689,Antiquewhite Harness Sticky Action-Items,Patterson-Landry,30.6627815,0.270607,-79.633389,-141.500615,Ship,336.64,2020-12-14
+690,Lawngreen Transition Granular Networks,Swanson-Le,30.946877,24.054123,-49.4701475,-101.846197,Rail,419.72,2021-09-30
+691,Dodgerblue Monetize Back-End Vortals,Thompson-Brown,57.356833,-6.228019,-46.5969865,-85.136207,Truck,865.48,2022-04-04
+692,Cornflowerblue Morph B2C Bandwidth,"Olson, Peters and Lewis",-27.8463635,34.239745,-43.3651835,116.917321,Air,85.63,2023-03-18
+693,Paleturquoise Iterate Cross-Media Web-Readiness,"Adams, Johnson and Gilbert",-46.1276215,173.049625,30.7201365,-0.570067,Ship,426.87,2023-08-04
+694,Whitesmoke Disintermediate Efficient Convergence,"Bell, Hunter and Welch",-25.352925,-78.620304,37.483199,-154.230806,Truck,890.3,2023-07-13
+695,Deepskyblue Productize Plug-And-Play Eyeballs,Dorsey-Patterson,35.9421825,-80.438078,-84.019145,-11.503984,Truck,962.97,2021-02-05
+696,Wheat Re-Contextualize Clicks-And-Mortar Partnerships,Hawkins Group,87.738046,-131.835668,20.553174,168.895278,Truck,81.96,2021-03-12
+697,Firebrick Grow Cross-Platform Bandwidth,Chang Inc,51.267502,45.865139,-75.6729195,-144.241832,Rail,719.32,2022-03-19
+698,Aquamarine Target World-Class Paradigms,Carter Group,-44.7823295,108.49341,51.005715,-5.086158,Rail,804.35,2023-05-04
+699,Blue Deploy B2C Relationships,"Meyer, Clark and Jones",-41.334094,71.520496,-28.902256,-143.503557,Truck,798.05,2023-08-14
+700,Lawngreen Exploit Global Technologies,Wong Ltd,-45.9065005,-135.941875,80.5027305,-122.109788,Ship,317.46,2020-11-26
+701,Lemonchiffon Incubate Vertical Infrastructures,Macias Ltd,-89.973614,0.39579,12.6402935,166.878237,Air,791.79,2022-02-03
+702,Orchid Benchmark Frictionless Infrastructures,Thomas-Parks,-50.7647235,124.493723,-14.4924325,79.710743,Truck,945.6,2022-09-28
+703,Snow Matrix Visionary E-Markets,Reed Inc,17.7697755,52.902371,-2.3165415,-115.355089,Ship,673.23,2020-03-25
+704,Mistyrose Grow User-Centric Deliverables,Ortiz-Murray,-9.1241905,-72.842085,9.4923965,141.780179,Ship,367.93,2020-10-28
+705,Gray Deploy Next-Generation Communities,"Sutton, Zimmerman and Klein",-32.6810525,29.272885,89.9916125,-16.12124,Rail,317.04,2020-09-12
+706,Moccasin Benchmark Enterprise Web Services,Conway LLC,-23.5053335,-86.120953,-21.631047,92.169281,Rail,603.7,2023-08-26
+707,Burlywood Iterate Magnetic Users,"Bauer, Wilson and Hughes",56.1689765,-47.625121,-78.18522,103.496523,Rail,409.36,2020-09-10
+708,Chartreuse Reinvent Transparent Portals,Smith Ltd,-56.0759115,3.034344,-41.927264,-108.265497,Truck,129.84,2022-11-14
+709,Lightskyblue Transition Leading-Edge E-Commerce,Adams LLC,-66.498679,-118.498811,32.5454925,133.267602,Ship,638.23,2020-03-22
+710,Olivedrab Productize Value-Added Models,Gonzalez-Dunn,-14.071147,59.356368,44.28002,-53.68751,Truck,41.14,2020-09-12
+711,Darkkhaki Incubate Leading-Edge Relationships,"Fuller, Burgess and Nichols",-3.3838325,40.243083,-8.0041785,133.338935,Air,102.96,2020-05-15
+712,Yellowgreen Incentivize Plug-And-Play Info-Mediaries,"Hernandez, Olson and Gray",5.753406,46.183402,-9.607228,-71.165472,Rail,721.49,2020-10-05
+713,Limegreen Streamline Virtual Markets,Bonilla Inc,82.4173135,85.212689,-19.7979235,-176.681181,Ship,506.86,2020-08-22
+714,Green Target Robust Vortals,"Wagner, Richards and Johnson",-1.517124,-79.644656,-37.13912,40.088917,Air,511.4,2021-02-23
+715,Indigo Generate Proactive Methodologies,Martinez LLC,-83.9366785,-117.195485,68.158846,14.606039,Air,340.11,2023-03-05
+716,Peachpuff Deploy Back-End Schemas,George LLC,63.4191525,25.203846,11.99789,47.528072,Rail,454.62,2023-05-05
+717,Honeydew Mesh Killer Interfaces,Mcmahon-Conway,-72.295563,8.531051,0.1662515,-14.940619,Air,176.66,2023-07-27
+718,Maroon Incentivize Frictionless Experiences,Marquez PLC,22.2119565,-178.594078,-28.8249835,165.009703,Ship,438.15,2022-08-06
+719,Silver Re-Intermediate Global Infrastructures,Merritt-Parker,-29.656678,-148.519432,62.9271995,-130.656244,Truck,522.86,2023-03-14
+720,Darkgray Whiteboard Cross-Platform Networks,Walsh Ltd,-83.73416,49.909767,27.7339915,147.524213,Ship,350.17,2020-01-30
+721,Black Architect Compelling Architectures,"Taylor, Jones and Acosta",-30.6316555,-168.830852,78.2035835,-38.826524,Rail,845.88,2022-01-25
+722,Magenta Revolutionize Visionary Solutions,James-Evans,78.2716045,-64.842892,-60.416403,114.388676,Rail,64.15,2022-04-21
+723,Whitesmoke Aggregate Ubiquitous Supply-Chains,Morgan Inc,-21.778943,-137.476474,-39.571308,-72.657754,Rail,450.7,2022-07-06
+724,Palegreen Drive Efficient Mindshare,"Brown, Ray and Garcia",-51.6625495,106.296102,-85.102947,-105.555045,Truck,163.1,2020-09-12
+725,Mintcream Expedite Virtual E-Services,Leach-Armstrong,-46.38683,-168.508389,-47.94455,132.524851,Air,910.81,2020-12-07
+726,Darkseagreen Enhance Turn-Key Vortals,Townsend-Hopkins,-2.8858125,114.918157,11.10188,-139.604994,Rail,419.44,2022-11-27
+727,Deepskyblue Exploit Viral Niches,Cole PLC,73.205539,-161.031846,-30.630389,-140.462392,Rail,292.14,2023-07-04
+728,Yellowgreen Matrix E-Business Niches,"Jordan, Baker and Johnson",-77.417479,116.312734,-12.2068145,-41.246319,Rail,644.77,2021-08-12
+729,Peru Disintermediate Strategic Convergence,Anderson-Keller,-0.565793,-59.657355,9.0694195,-172.133303,Ship,389.5,2022-04-06
+730,Sienna Embrace Frictionless Applications,Pierce-Medina,8.612397,147.475987,-81.138783,-129.625085,Rail,934.37,2022-03-14
+731,Mediumvioletred Integrate Turn-Key Paradigms,"Moore, Curtis and Davis",-44.1201315,-146.272248,-57.3303535,45.766083,Rail,470.95,2021-08-12
+732,Forestgreen Grow Killer Synergies,"Anderson, Jones and Blake",-27.1282785,111.657462,24.043347,-150.328634,Truck,354.25,2022-08-11
+733,Sandybrown Incentivize Compelling Metrics,"Russell, Campbell and Griffin",-70.235945,31.739058,-55.324905,173.19662,Truck,291.02,2023-09-10
+734,Olive Productize Best-Of-Breed Niches,"Smith, Diaz and Dodson",-22.595629,154.354607,-62.31478,133.133914,Ship,605.66,2020-11-25
+735,Olivedrab Incubate B2C Content,Hicks Ltd,-70.4993835,-129.001037,-57.459834,-113.144126,Ship,285.89,2022-09-19
+736,Darkviolet Syndicate Bleeding-Edge E-Services,"Moore, Crawford and Simmons",-41.5715765,156.097815,-85.369686,-75.442454,Truck,815.79,2020-10-14
+737,Pink Leverage Extensible Schemas,"Kelley, Daniels and Vega",37.252385,-21.029807,-70.7898365,175.38227,Rail,359.91,2023-09-22
+738,Darkgreen Re-Contextualize Synergistic Models,Perez-Mcdaniel,-24.2757555,-139.605564,-21.9555085,115.937857,Ship,309.67,2020-11-15
+739,Indigo Generate Viral Communities,Weiss-Hayes,-4.4900745,-140.056018,78.517197,91.388511,Truck,883.19,2020-10-30
+740,Whitesmoke Harness Turn-Key Channels,Cooper-Mitchell,55.7677875,-46.57581,-6.23063,-45.806982,Truck,86.43,2022-10-01
+741,Mistyrose Seize Plug-And-Play Technologies,"Edwards, Dennis and Gordon",69.8408045,42.78832,8.6559505,164.124807,Ship,263.56,2023-06-26
+742,Darkviolet Re-Intermediate Holistic Models,Bridges Ltd,14.417473,10.693398,-44.655954,-128.293383,Ship,415.58,2022-05-22
+743,Mediumorchid Synergize Front-End Synergies,"Bryant, Wilson and Thompson",2.9889845,-88.578414,-89.4342405,59.976265,Rail,592.47,2022-03-07
+744,Black Embrace Global Portals,Hamilton PLC,22.990914,-81.118295,65.227276,34.685844,Rail,202.65,2021-08-10
+745,Gainsboro Benchmark Vertical Functionalities,Washington Inc,-5.805242,-67.913604,-46.625266,-8.728262,Rail,11.26,2021-10-12
+746,Olivedrab Optimize Killer Mindshare,Barnes-Ross,47.3477705,130.721288,52.323434,-3.495297,Truck,502.11,2021-05-31
+747,Lawngreen Engage Cutting-Edge Mindshare,"Roberts, Mack and Olson",46.172699,148.247981,-13.1418505,157.379337,Air,905.19,2020-07-25
+748,Turquoise Orchestrate Best-Of-Breed Niches,Knox-Bailey,-52.2072155,-36.121438,-84.4990765,95.427569,Ship,425.8,2020-09-15
+749,Seashell Innovate Customized Supply-Chains,Johnson LLC,-17.652971,129.627718,53.1091745,52.41225,Ship,942.97,2023-08-03
+750,Navy Scale Visionary Content,Johnson PLC,53.6159455,82.513027,-9.714242,54.672146,Truck,21.71,2023-07-15
+751,Indigo Target Frictionless Channels,Wilson PLC,17.460598,-170.361541,-69.5280845,44.06344,Rail,392.88,2020-10-23
+752,Powderblue Implement Holistic Schemas,"Potter, Craig and Martinez",-0.3948425,-53.98583,-51.9651405,86.386704,Rail,773.86,2022-12-22
+753,Linen Disintermediate Real-Time Schemas,Duran-Cross,43.541371,-93.576364,59.652585,-158.030209,Ship,294.8,2023-08-23
+754,Saddlebrown Enable Granular Models,Figueroa and Sons,-67.809502,162.512323,-25.6342025,27.095019,Truck,952.23,2020-10-07
+755,Salmon Exploit Extensible Bandwidth,Winters-Trujillo,-25.7587675,113.994148,-79.6056475,-168.93779,Ship,621.52,2023-01-09
+756,Yellowgreen Mesh Best-Of-Breed Schemas,"Chapman, Butler and Miller",51.0604185,169.415669,66.1953195,-53.05256,Ship,574.59,2022-02-09
+757,Whitesmoke Optimize One-To-One Relationships,Kramer-Smith,31.0561695,-39.323074,-41.8552575,-178.099152,Air,949.18,2021-12-30
+758,Dimgray Implement Enterprise Communities,"Berry, Lutz and Baker",-19.6745345,154.299534,-78.5193705,-6.076858,Rail,87.86,2022-04-05
+759,Darkslateblue Engineer Interactive Niches,Randolph-Sanchez,65.626469,-50.270137,-6.696898,-132.48054,Rail,225.39,2020-07-12
+760,Mediumpurple Productize Leading-Edge E-Markets,Brown and Sons,-80.3902675,43.235555,-0.158942,74.938545,Truck,538.5,2020-08-20
+761,Darkseagreen Synergize Rich Portals,Rhodes-Harvey,61.0196585,-52.977825,85.52237,-83.60531,Air,513.9,2022-10-22
+762,Olive Target Mission-Critical Action-Items,Miller-Blanchard,23.480055,72.824011,47.5728205,122.590024,Rail,624.54,2021-11-02
+763,Darkred Re-Contextualize Cross-Media Web Services,Anderson-Larson,84.42072,-95.366168,88.6235305,-121.076381,Ship,534.16,2023-03-19
+764,Palegoldenrod Grow Enterprise Supply-Chains,"Flynn, Gilmore and Walker",-78.9712785,-52.530694,31.664059,-40.592748,Ship,33.86,2023-04-22
+765,Mintcream Enhance Proactive Markets,"Martin, Robinson and Stevens",38.3495135,-117.705771,74.9128205,-127.637055,Rail,222.47,2022-03-24
+766,Snow Re-Contextualize Leading-Edge Applications,Nelson Ltd,65.844366,-57.737855,-16.885125,160.869508,Rail,28.79,2022-09-21
+767,Aliceblue Implement One-To-One Action-Items,"Rowe, Simmons and Rice",76.6771045,80.99934,63.984799,98.474105,Ship,553.95,2022-12-12
+768,Slategray Synthesize Cutting-Edge Systems,Price LLC,-62.741407,-166.930691,36.637724,-173.444715,Air,677.02,2023-07-12
+769,Indigo Deliver Ubiquitous Convergence,"Mcgee, Smith and Leach",-0.9001545,92.260764,5.7953875,-135.030702,Air,621.12,2023-04-16
+770,Dodgerblue Target B2B Synergies,Olson-Bradford,-21.300488,60.094446,-11.2215115,162.767002,Ship,926.21,2020-07-24
+771,Lightblue Re-Intermediate Scalable E-Tailers,"Torres, Williams and Mathews",53.8799785,-61.003091,87.3393115,-170.808219,Truck,436.87,2023-02-14
+772,Seashell Deploy Front-End Initiatives,"Bishop, Chavez and Johnson",82.048348,-100.662512,51.947221,-2.396824,Rail,472.59,2021-04-21
+773,Salmon Benchmark Back-End Platforms,Rodriguez-Harris,-83.484399,74.728531,-38.2600485,-70.590868,Air,926.18,2020-09-26
+774,Yellowgreen Transition Clicks-And-Mortar Interfaces,"Yoder, Nunez and Wilcox",57.6249785,30.884597,43.617319,52.286352,Truck,803.63,2022-06-17
+775,Darkcyan Grow 24/7 Paradigms,"Green, Strong and Shea",-62.468421,-67.985574,-7.346547,131.94927,Air,66.05,2022-03-15
+776,Antiquewhite Revolutionize Clicks-And-Mortar Applications,"Jones, Dixon and Anderson",77.8474225,42.603155,-87.996276,93.717302,Rail,445.11,2021-04-07
+777,Aquamarine Extend Transparent E-Services,"Ware, Franklin and Lopez",-15.355616,45.981562,-37.9547075,129.226693,Air,129.24,2020-09-07
+778,Orange Benchmark End-To-End E-Markets,Webb Group,-11.177073,-38.212348,36.1928795,-154.283492,Rail,713.67,2022-02-08
+779,Mediumaquamarine Brand Integrated Deliverables,"Miller, Moreno and Robles",-8.3627905,28.390898,77.0694975,-177.049788,Truck,614.41,2022-10-23
+780,Floralwhite Strategize Value-Added Mindshare,"Russell, Woods and Anderson",8.137727,-169.687637,-40.324601,-50.897629,Rail,45.8,2022-12-08
+781,Darkgreen Aggregate Open-Source Schemas,"Harrison, Stephenson and Wagner",-9.196489,-160.294022,-22.6505965,167.593068,Ship,592.96,2021-12-01
+782,Olivedrab Orchestrate Dot-Com Deliverables,Medina Group,78.299177,-75.204699,44.4157895,73.015742,Air,584.71,2021-02-20
+783,Lavenderblush Brand Turn-Key Metrics,Cook LLC,66.4795805,164.175846,-61.27578,57.64478,Truck,723.45,2020-04-10
+784,Ghostwhite Seize Innovative Content,Bush-Doyle,53.199406,34.12347,62.1320475,-79.033637,Ship,612.75,2022-11-16
+785,Cadetblue Scale Customized Markets,Pennington Inc,-15.7316035,173.149326,-61.2952595,-73.479239,Air,446.28,2020-02-08
+786,Darkgoldenrod Repurpose Bleeding-Edge Niches,"Fisher, Richards and Torres",-30.808604,-0.967303,-48.9991535,81.764038,Ship,583.32,2020-02-11
+787,Orchid Expedite Holistic Technologies,Gregory Ltd,63.3354015,83.248175,56.6650465,-5.612672,Truck,764.22,2022-06-04
+788,Indianred Redefine B2B Solutions,"Evans, Cruz and Webb",22.1197275,66.322396,-50.208448,149.11047,Rail,114.38,2021-07-12
+789,Ghostwhite Incentivize Best-Of-Breed Architectures,"Cook, Johnson and Young",-38.6461785,-7.176247,-12.982564,16.261398,Air,979.57,2021-07-18
+790,Gainsboro Synthesize World-Class Action-Items,Holden and Sons,56.456575,-108.128375,-32.8626245,137.58366,Ship,381.9,2021-03-05
+791,Brown Facilitate Bricks-And-Clicks E-Services,Spencer-Rice,-23.215885,10.441922,-1.73289,-73.27364,Ship,944.26,2022-09-12
+792,Lightgoldenrodyellow Brand Killer E-Markets,Lawson and Sons,-11.0254035,-29.098997,38.3409405,-174.431984,Air,10.04,2021-04-01
+793,Darkgreen Disintermediate Synergistic Interfaces,"Woods, Cooper and Reyes",10.58248,152.261827,-50.859119,-167.914764,Truck,612.36,2021-06-12
+794,Limegreen Architect Value-Added Interfaces,Shelton-Acosta,0.842781,-58.563825,30.1801915,130.975222,Ship,49.91,2023-04-13
+795,Salmon Architect Global Communities,Anderson Inc,24.285831,-98.829934,40.127372,-12.587702,Ship,296.53,2020-02-25
+796,Olive Exploit Value-Added Portals,Mueller PLC,28.8796305,131.588783,-76.9073175,101.267348,Ship,812.32,2020-08-31
+797,Greenyellow Cultivate Seamless Architectures,Ayala-Sims,5.881376,-100.243161,9.5333095,45.249801,Ship,837.83,2020-10-19
+798,Peachpuff Redefine Compelling Web-Readiness,Martinez PLC,68.111094,90.764343,-8.3975815,-177.567042,Ship,54.32,2023-05-26
+799,Yellowgreen Optimize Leading-Edge Interfaces,Willis-Robles,67.034785,-99.476764,-67.426547,150.563239,Ship,54.83,2021-12-02
+800,Peachpuff Enhance Clicks-And-Mortar Schemas,Richardson and Sons,61.5538125,37.797299,-63.75418,152.508623,Rail,583.66,2021-12-14
+801,Powderblue Productize Rich Applications,Walker-Campbell,-33.772932,-120.680651,-52.5617915,-12.02544,Air,177.13,2023-06-21
+802,Darksalmon Orchestrate Dynamic Models,"English, Ryan and Travis",-49.4659255,-80.093085,24.719953,94.334055,Air,12.59,2023-08-14
+803,Darkseagreen Optimize Value-Added Communities,Ibarra Group,46.5552565,-77.910755,74.1954945,19.859356,Air,784.91,2020-12-24
+804,Darkgray Architect E-Business Technologies,Escobar-Norman,6.0995655,-122.813294,-55.4072295,-33.855687,Ship,245.18,2023-03-26
+805,Palegoldenrod Unleash Global Metrics,"Williams, Walker and Wilson",13.7732325,-65.989121,33.8175365,-73.763782,Rail,100.99,2023-05-30
+806,Mintcream Implement Dynamic E-Business,"Johnson, Stevens and Schwartz",7.9589825,78.3041,-7.473983,154.052419,Ship,109.11,2021-01-30
+807,Cornflowerblue Iterate Transparent Infrastructures,Anderson PLC,-31.5802015,53.060023,86.443515,6.623342,Rail,220.91,2021-10-28
+808,Cornflowerblue Transform Web-Enabled Mindshare,Nichols-Smith,-9.111955,116.322345,89.7455415,11.76642,Ship,941.85,2020-03-10
+809,Blueviolet Expedite B2B Supply-Chains,Owen-Fisher,83.452579,-66.402122,2.5744955,10.770011,Rail,975.55,2023-07-26
+810,Aliceblue Enable Wireless Schemas,"Moore, Wells and Hanson",-80.4263515,-102.684441,45.8513895,-114.441726,Air,725.82,2022-03-29
+811,Navy Aggregate Customized Action-Items,"Jackson, Johnson and Salazar",-23.8769595,-74.678897,-27.8451075,-176.379695,Ship,778.41,2021-04-05
+812,Deepskyblue Embrace One-To-One Infrastructures,"Schmidt, Oliver and Johnson",43.996253,12.175123,-59.086382,-122.09563,Air,669.79,2023-01-29
+813,Seashell Monetize Scalable Models,Valentine-Lamb,77.2555845,-11.957669,-60.2455875,138.446664,Rail,373.93,2021-07-11
+814,White Drive Compelling Users,Diaz Group,-1.9049185,-4.917669,-0.4182835,80.163299,Air,865.28,2022-11-28
+815,Tan Architect Innovative Niches,"Ayala, Cooper and Ellison",69.2823715,33.24633,84.1475415,-121.805613,Rail,653.81,2020-12-08
+816,Lightcoral Morph Plug-And-Play Applications,Harris LLC,61.4191195,11.884738,-34.024892,147.415854,Truck,747.8,2022-01-08
+817,Saddlebrown Harness One-To-One Paradigms,Swanson-Gregory,61.927244,170.23537,-13.2700185,-56.135758,Truck,952.26,2023-07-01
+818,Magenta Disintermediate Ubiquitous Initiatives,Flores Ltd,67.9646365,-16.233692,-54.7259535,45.320534,Rail,159.76,2022-08-20
+819,Lightgoldenrodyellow Expedite Holistic Convergence,Harris-Thompson,-30.1818785,-175.474937,53.1839025,11.656149,Rail,776.61,2021-10-07
+820,Mediumseagreen Incubate Bricks-And-Clicks Action-Items,Huffman LLC,-59.03496,-39.695377,67.7499305,-20.110074,Air,271.18,2021-01-23
+821,Green Engineer Compelling Infrastructures,Mendoza-Cervantes,35.1324665,113.030134,-18.9919625,3.416405,Air,24.52,2021-10-30
+822,Olivedrab Empower Leading-Edge Users,"Torres, Schneider and Mcmahon",-15.26395,-78.155401,-60.708551,-58.525086,Rail,71.47,2022-01-30
+823,Darkseagreen Mesh Magnetic Roi,"Robinson, Kerr and Brown",80.493704,-26.149607,53.5044005,-61.723584,Truck,810.63,2021-11-11
+824,Lightgoldenrodyellow Deploy Plug-And-Play Architectures,"George, Stanton and Freeman",-18.655884,114.847841,-68.198231,-59.099952,Air,551.74,2021-07-09
+825,Lightslategray Mesh Customized Deliverables,Fernandez-Cordova,-89.2912965,-33.45708,-53.6118485,-88.745847,Rail,62.68,2022-06-21
+826,Wheat Engage Killer Paradigms,Johnson-Johnson,29.281531,-74.254469,62.6233235,86.012716,Truck,898.96,2023-04-30
+827,Tan Morph Turn-Key E-Tailers,"Brown, Haney and Love",80.02623,136.653986,33.6203545,-50.632296,Air,393.38,2021-08-28
+828,Green Repurpose Visionary Markets,Carter-Solomon,-5.8043315,-1.644475,-16.6146385,112.04229,Rail,442.21,2021-06-08
+829,Rosybrown Iterate Back-End Platforms,Hamilton-Martinez,25.7386725,123.613124,58.8095945,-30.659809,Truck,101.9,2020-09-09
+830,Olive Envisioneer Out-Of-The-Box Web-Readiness,Wise LLC,32.977303,174.54682,86.2785935,-110.661985,Air,894.19,2023-01-11
+831,Rosybrown Generate Ubiquitous Deliverables,"Jacobson, Houston and Jones",-72.1610185,-152.966249,29.0982305,156.094307,Ship,943.68,2022-07-09
+832,Plum Deploy Integrated Experiences,"Barber, Smith and Davis",-4.484514,14.836531,28.52667,-130.1354,Rail,862.94,2021-07-20
+833,Turquoise Engage Rich Content,Lucas Ltd,-29.579974,-124.451629,23.3811835,12.734613,Ship,755.04,2021-08-21
+834,Papayawhip Drive Sticky Functionalities,Marks-Johnson,-53.2515135,122.741997,-41.0288495,-33.909735,Air,490.03,2022-05-14
+835,Cornflowerblue Transition Vertical Content,"Gould, Rhodes and Lee",-53.9727245,-62.714838,82.64364,26.7416,Ship,286.85,2022-01-12
+836,Powderblue Exploit Web-Enabled Roi,Myers and Sons,-79.9836205,135.218415,-9.8985105,-40.013455,Rail,72.18,2021-08-18
+837,Darkblue Mesh B2B Vortals,Strickland PLC,-88.620411,41.071408,56.028943,61.615069,Rail,879.5,2022-05-01
+838,Black Matrix World-Class Deliverables,"Stone, Flores and Shannon",34.2869295,-113.456141,-83.823239,-122.487533,Rail,687.0,2023-08-24
+839,Steelblue Engineer Out-Of-The-Box Markets,"Williams, Jones and Glass",-68.5765435,108.900696,45.4626695,103.981245,Rail,888.56,2023-07-27
+840,Cyan Redefine Efficient Web-Readiness,Liu-Williams,27.3544395,-145.314618,37.606642,-50.386299,Ship,859.06,2022-04-20
+841,Aliceblue Disintermediate Extensible Action-Items,"Garcia, Reyes and Sanchez",-81.3807405,-59.35383,-8.997371,170.891015,Rail,456.63,2023-04-13
+842,Coral Exploit 24/365 Relationships,"Barnes, Scott and Kim",-9.3602905,160.588625,84.7588985,69.827314,Truck,746.73,2021-07-16
+843,Peachpuff Drive Out-Of-The-Box Schemas,Butler LLC,71.4583115,-16.429192,89.2675485,14.876783,Truck,743.69,2021-12-27
+844,Forestgreen Maximize Front-End Paradigms,"Long, Cruz and Davis",65.8168215,-77.117818,14.2052005,-29.181678,Ship,659.52,2023-06-25
+845,Mediumspringgreen Matrix User-Centric Solutions,Kelly and Sons,5.008106,-79.214339,-2.47451,166.8895,Rail,20.6,2021-04-05
+846,Royalblue Empower Back-End Platforms,Norris-Martin,15.860828,179.145025,-42.9736825,-154.590826,Rail,450.12,2022-01-24
+847,Mediumseagreen Leverage Dynamic Communities,"Hicks, Strong and Horton",66.2761555,-132.892246,-71.967825,108.538522,Ship,768.19,2022-11-15
+848,Dimgray Re-Contextualize Strategic E-Tailers,Davis PLC,-69.639346,85.8114,-6.6976005,7.096895,Truck,657.22,2023-07-31
+849,Indigo Transition Bleeding-Edge Web Services,Daniel Ltd,42.1415875,-23.808802,-34.7959075,132.701775,Truck,325.59,2023-03-22
+850,Lightgreen Repurpose Visionary Synergies,Mann and Sons,-67.242544,-64.993991,-87.5281345,-23.858514,Rail,78.89,2022-09-16
+851,Mediumorchid Envisioneer Cutting-Edge Web Services,"Lee, Garcia and Schmidt",-85.3371615,-133.278339,72.580815,35.219313,Ship,852.82,2023-07-08
+852,Dimgray Enhance Bricks-And-Clicks E-Business,Smith Group,68.269193,-157.119529,37.103278,-72.102162,Rail,333.97,2023-04-02
+853,Floralwhite E-Enable Bricks-And-Clicks Users,Hunter-Tyler,51.5249705,-0.163365,42.273723,150.468642,Truck,40.6,2022-01-03
+854,Slategray Deploy Revolutionary Methodologies,Holden-Carey,61.503385,-153.074603,27.097103,-13.279037,Truck,31.95,2022-09-03
+855,Lightcoral Enable Killer Experiences,Ferguson-Moses,-17.9416045,150.997269,-18.929557,14.611274,Ship,802.48,2023-03-29
+856,Lawngreen Redefine Cross-Platform Markets,Silva and Sons,-45.6563385,-156.290162,-62.4171685,-61.271429,Rail,335.57,2020-05-23
+857,Lightskyblue Leverage Open-Source Web Services,Bartlett-Bolton,64.569288,42.468602,21.560779,-38.458576,Truck,64.46,2022-06-08
+858,Papayawhip Scale Seamless Users,French-Lopez,-87.895956,58.574483,-30.0830705,-166.790755,Rail,833.36,2022-02-02
+859,Lightgreen Revolutionize Back-End E-Business,Estrada-Alvarez,87.7947045,113.716068,61.296432,107.470666,Air,91.3,2021-02-14
+860,Sienna Embrace Bleeding-Edge E-Commerce,Rios PLC,37.051063,46.914612,34.3532125,-82.646073,Ship,683.7,2020-01-02
+861,Ivory Orchestrate Cross-Platform Web-Readiness,Ward-Mack,8.809117,-80.854914,26.885211,-65.999779,Air,754.33,2023-09-18
+862,Whitesmoke Exploit Front-End Roi,Hodges PLC,5.0678125,-2.628419,80.296169,168.658145,Truck,308.81,2021-05-14
+863,Springgreen Unleash Extensible E-Tailers,"Jackson, Simpson and Bishop",34.81263,-157.254476,-82.5812475,38.162059,Air,527.74,2020-11-17
+864,Cornsilk Deliver Next-Generation E-Tailers,"Miller, Washington and Jacobs",-26.57638,-84.399511,-33.9114005,148.528661,Rail,866.35,2022-09-26
+865,Mistyrose Mesh Open-Source E-Business,Kerr-Lester,76.389833,-117.090996,0.3473175,85.14922,Truck,854.18,2020-03-04
+866,Forestgreen Innovate Synergistic Synergies,"Day, Banks and Kennedy",8.2721345,60.124457,24.2825105,118.011826,Air,701.86,2021-02-06
+867,Mistyrose Evolve B2C Deliverables,Mason Group,50.477555,24.05779,70.7644595,60.121691,Air,550.37,2021-02-26
+868,Cornflowerblue Utilize Extensible E-Business,Morrison Inc,-16.8985425,26.576843,-60.348559,-77.767272,Truck,752.01,2022-06-15
+869,Chocolate Redefine 24/365 Users,Medina-Houston,-61.7088755,19.430167,79.5697135,23.494872,Ship,436.22,2022-01-28
+870,Blueviolet Empower Best-Of-Breed Architectures,Guerrero Inc,-24.537776,-54.721864,28.080781,15.028825,Ship,310.61,2020-08-25
+871,Lemonchiffon Enable Back-End Info-Mediaries,"Holloway, Hanson and Brown",-2.1345145,68.683016,-21.7194625,-13.819309,Air,209.81,2022-08-19
+872,Antiquewhite Synergize Visionary Paradigms,Davis-Brown,-0.0116505,-14.120353,10.339863,-56.588376,Truck,658.64,2023-06-24
+873,Greenyellow Harness Granular Initiatives,"Jacobs, Moyer and Fernandez",62.247497,134.555645,-84.09803,-18.644264,Ship,47.3,2022-11-08
+874,Maroon Productize Sticky Methodologies,"Gross, Smith and Savage",-89.1824605,-64.869957,-5.1840545,-141.97024,Ship,464.54,2021-04-18
+875,Blueviolet Reinvent Synergistic Models,"Randall, Bond and Morgan",20.888045,51.429622,85.250939,-23.394173,Ship,281.64,2020-12-25
+876,Darkviolet Re-Contextualize B2B Channels,Carlson-Finley,-85.5440475,-79.25573,-8.856584,167.940574,Ship,410.02,2021-11-25
+877,Fuchsia Optimize Cutting-Edge Content,Davis-Villarreal,36.1488075,173.147284,-31.620129,-92.780402,Ship,196.95,2022-11-14
+878,Cornflowerblue Aggregate Integrated Initiatives,"Fernandez, Spence and Leonard",62.583361,118.874081,49.2650825,-175.152461,Truck,473.01,2021-04-01
+879,Linen Benchmark Compelling Experiences,Walker PLC,-89.5037655,47.784307,-79.861818,143.431119,Ship,114.6,2021-08-01
+880,Lime Deliver Ubiquitous E-Markets,Delacruz-Williams,76.0815785,-81.996684,-10.6361405,80.557969,Rail,774.4,2020-09-21
+881,Olive Whiteboard Back-End Experiences,Davis-Collins,-41.466287,-5.956213,-20.6858435,172.614246,Ship,570.37,2022-05-07
+882,Deepskyblue Scale Transparent Partnerships,Wright PLC,86.465333,84.720754,-30.9307485,114.252771,Truck,645.18,2020-02-24
+883,Oldlace Streamline Killer Systems,Patterson-Brown,-74.9800205,-56.276054,66.2082345,-7.728105,Air,702.85,2023-04-20
+884,Darkkhaki Embrace Transparent Mindshare,Garcia-Davis,4.8425385,68.135774,-20.15322,-177.16807,Ship,503.96,2020-12-01
+885,Oldlace Engineer Synergistic Solutions,Brown-Robinson,-46.1597525,-94.908832,-82.743579,88.199832,Air,936.82,2020-05-07
+886,Darkcyan Grow Back-End Vortals,"Wade, Ellis and Prince",-60.4529645,87.54876,46.156403,-76.638555,Rail,200.32,2021-01-15
+887,Green Aggregate Dot-Com Metrics,Thomas-Smith,-69.7842845,-173.16485,-53.4400755,-99.156424,Rail,706.29,2021-10-25
+888,Darkviolet Scale Impactful Mindshare,Bernard-Hill,-49.1744035,111.094178,-29.1704885,100.022138,Rail,593.34,2020-02-28
+889,Chocolate Streamline One-To-One E-Tailers,"Grant, Bradford and Williams",-76.289556,19.622564,83.1619115,-69.258734,Truck,502.82,2022-11-16
+890,Lightsalmon Deliver Sticky Initiatives,Preston-Lester,61.544739,119.79509,23.537143,-175.201776,Air,770.92,2021-01-11
+891,Forestgreen Revolutionize One-To-One Models,"Anderson, Washington and Cooper",-39.9839795,-158.402834,-11.0185525,-82.43291,Air,47.32,2021-01-31
+892,Maroon Optimize Collaborative Infrastructures,Brown and Sons,-75.6736655,162.698017,51.258813,167.874569,Truck,983.12,2023-03-25
+893,Navy Orchestrate Sticky Models,Roy PLC,-67.0470195,-122.53118,-49.202043,33.021869,Air,429.61,2022-07-11
+894,Darkorchid Enable Bleeding-Edge Portals,Mcknight-Henderson,-6.536263,-103.318666,-47.184565,140.18867,Air,773.74,2020-09-05
+895,Dimgray Maximize Vertical Roi,Wright Ltd,-54.260283,49.397154,-80.293154,53.153256,Truck,954.84,2023-09-09
+896,Darkslategray Brand Turn-Key Experiences,Brown-Kemp,43.9548875,-30.157154,7.081183,-54.451595,Ship,710.69,2021-03-15
+897,Springgreen Aggregate Proactive Relationships,"Chandler, Davis and Carlson",-22.119141,-155.983192,33.5360735,-157.98641,Rail,419.83,2020-11-02
+898,Mediumturquoise Whiteboard Transparent Roi,Perkins-Wiley,35.0750325,-77.694095,-27.9405955,-4.046232,Ship,364.4,2021-06-07
+899,Springgreen Enable Global Relationships,Welch PLC,31.777537,-74.585734,-46.371921,72.107025,Truck,99.71,2020-06-11
+900,Lavender Empower Strategic Deliverables,Long LLC,23.124226,5.547185,81.7887705,171.009744,Truck,11.84,2021-05-19
+901,Deeppink Implement Best-Of-Breed Action-Items,Barnes-Hernandez,-44.4987955,-66.237523,8.962837,-31.911965,Ship,21.86,2020-10-29
+902,Yellow Unleash Best-Of-Breed Initiatives,Flynn LLC,74.129405,146.02053,-8.6789055,-56.377729,Air,538.69,2020-08-08
+903,Turquoise Utilize Proactive Supply-Chains,"Hopkins, Patton and Brown",21.519675,-57.337478,-85.8869805,-66.901341,Rail,577.24,2022-07-14
+904,Peachpuff Seize Proactive Niches,Peters-Williams,-71.5469925,35.454549,-46.5254615,-89.181633,Truck,564.14,2020-04-08
+905,Lightyellow E-Enable Ubiquitous Relationships,Santiago-Jensen,34.577235,-128.354703,59.485473,-143.001707,Air,262.81,2020-02-10
+906,Aqua Disintermediate Transparent Mindshare,Douglas Inc,-19.180373,-70.319123,78.4762415,-164.726703,Rail,75.87,2020-05-25
+907,Darkmagenta Transition Customized Schemas,Smith-Hughes,63.109784,97.877787,-65.347261,-34.302326,Truck,115.8,2021-04-04
+908,Orange Maximize Plug-And-Play Architectures,"Schneider, Griffin and Walker",-49.5538775,45.552092,-80.2981895,154.3763,Ship,929.38,2021-11-23
+909,Lightcyan Benchmark Open-Source Supply-Chains,"Bailey, Jimenez and Flores",63.4405475,-129.112264,66.675682,114.77601,Ship,797.93,2020-04-05
+910,Lightgreen Enhance Bricks-And-Clicks Systems,Mullins Inc,21.2016305,-152.436909,-70.180732,135.809276,Ship,786.13,2023-05-23
+911,Mediumslateblue Transition Visionary Systems,Hicks PLC,30.9157765,124.8641,74.9019305,-167.077452,Ship,977.8,2022-12-01
+912,Lightslategray Re-Intermediate Wireless Models,"Stout, Lopez and Santos",-17.9596815,60.027948,-64.5073655,-117.226742,Ship,822.11,2020-08-07
+913,Darkcyan Extend Real-Time E-Tailers,"Hart, Ford and Foster",83.6108055,60.157273,-47.015449,149.200185,Rail,381.73,2022-11-28
+914,Lightsteelblue Strategize Collaborative Portals,Clark-Jones,81.238628,-101.48103,-1.834314,126.699789,Truck,677.87,2023-07-14
+915,Indigo Streamline Mission-Critical Architectures,Williams Group,-78.257071,-103.985587,-56.363518,-168.840624,Ship,746.5,2021-07-26
+916,Aqua Maximize 24/365 E-Tailers,Kelly PLC,-10.279496,-94.695276,-10.9550105,-2.520908,Air,165.31,2022-09-10
+917,Darkturquoise Envisioneer Frictionless Markets,Ray Group,38.3790855,14.342226,78.219539,81.245772,Ship,724.86,2022-02-12
+918,Crimson Re-Intermediate Sticky Functionalities,Diaz Ltd,-5.805658,18.800073,-66.7761065,148.372684,Air,468.21,2020-02-26
+919,Darkorchid Synergize Cross-Media E-Commerce,Smith and Sons,13.514061,153.678096,-68.32987,-69.874008,Air,845.41,2020-09-16
+920,Plum Target Frictionless Content,Griffin-Schroeder,-7.102084,-17.577262,-72.299956,94.667116,Ship,852.11,2022-09-04
+921,Mediumseagreen Enable B2B Functionalities,Huff LLC,-20.785448,174.964871,85.7922805,116.434822,Ship,647.01,2020-04-06
+922,Slategray Engineer Global Channels,Jennings-Hernandez,-50.6718335,-171.779275,-85.430637,-107.419004,Truck,807.19,2020-08-30
+923,Blue Strategize Synergistic Partnerships,Hart-Huber,14.608917,-28.884819,-45.3701375,2.694722,Truck,920.08,2022-05-08
+924,Darkgray Disintermediate B2C E-Commerce,"Garcia, Harris and Cooper",15.1194,-133.077536,-87.2967705,-160.096903,Air,511.84,2022-02-15
+925,Fuchsia Monetize Robust E-Tailers,Chung PLC,-57.1433985,-172.123094,43.8600985,170.40765,Rail,810.22,2022-11-18
+926,Tan Deliver User-Centric Supply-Chains,Arroyo PLC,22.2783245,157.176895,4.9730315,-125.45005,Rail,435.92,2022-05-05
+927,Hotpink Harness Best-Of-Breed Architectures,"Allen, Parker and Jones",-73.646084,148.034228,-72.172775,-51.642615,Air,569.19,2023-04-10
+928,Lightgreen Streamline Visionary Communities,"Romero, Wagner and Pham",77.56035,-148.545205,-78.46793,34.873956,Air,260.26,2022-11-13
+929,Seashell Incubate Efficient Synergies,Levy Ltd,6.32122,105.184093,35.902549,-114.302718,Air,139.05,2021-07-09
+930,Orange Whiteboard Bleeding-Edge Portals,Dixon Group,-6.464,152.779528,-78.5776095,113.86874,Air,736.31,2023-08-12
+931,Darkgoldenrod Productize Value-Added Niches,Brown LLC,-79.757619,45.066718,-40.4879365,-14.017095,Air,185.42,2022-12-27
+932,Slategray Revolutionize Visionary E-Commerce,Crawford-Anthony,16.6040655,56.4907,-73.768748,33.514881,Air,236.71,2021-08-24
+933,Oldlace Revolutionize Enterprise Paradigms,Cantrell-Wilson,80.0533035,-171.060314,-34.997085,48.611227,Rail,725.99,2020-06-28
+934,Plum Embrace Holistic Markets,"Mclean, Young and Barnes",71.048045,0.956489,-77.41926,-49.719678,Air,848.84,2022-06-19
+935,Gold Brand Integrated E-Commerce,Newton-Mitchell,33.0198905,91.693815,-35.2182185,-131.489344,Air,101.64,2021-06-04
+936,Slategray Exploit Value-Added Synergies,Shepherd-David,-12.6136285,-49.853649,53.379505,59.354339,Truck,132.16,2021-12-15
+937,Turquoise Seize Turn-Key Platforms,Ponce Group,-45.2744935,-70.482465,52.620525,45.68525,Rail,80.7,2021-02-01
+938,Darkseagreen Engage Integrated Vortals,Ballard-Chaney,-1.795764,168.19183,-66.5329615,-2.290355,Truck,852.16,2021-04-07
+939,Violet Facilitate Compelling Content,Mccall-Bennett,12.8439155,171.05691,84.802808,-68.112362,Ship,979.2,2021-02-25
+940,Lightcoral Harness Global E-Services,Johnson LLC,2.188764,-92.877996,72.902123,56.566412,Rail,942.81,2020-11-15
+941,Lightseagreen Deliver Back-End Web Services,"Roman, Anderson and Gray",15.9380415,-160.216667,7.7136345,-47.799381,Truck,883.83,2020-12-28
+942,Violet Drive Next-Generation Methodologies,"Jenkins, Burns and Clark",-15.0300635,56.611218,10.437927,-158.62511,Ship,942.3,2021-04-02
+943,Linen Synergize Virtual E-Business,"Pena, Lee and Dawson",55.0330155,135.710384,-80.8670275,-178.699328,Air,771.74,2022-05-23
+944,Honeydew Synthesize Customized Technologies,"Klein, Reid and Hernandez",-55.235416,109.168086,-6.161026,-7.08749,Truck,806.23,2021-01-31
+945,Palegreen Embrace Killer Web-Readiness,Ellis Group,-89.729278,160.926561,8.882094,-105.080634,Air,319.37,2021-01-02
+946,Lightsteelblue Iterate Mission-Critical Infrastructures,Farmer Inc,-44.647689,-67.261355,19.974557,-130.448307,Truck,496.2,2021-08-14
+947,Tan Grow Cross-Platform Info-Mediaries,"Parker, Reed and Estrada",-0.302624,-134.896703,42.429781,-79.497232,Rail,687.45,2023-08-07
+948,Darkgreen Envisioneer Proactive Action-Items,Reynolds-Green,-10.522549,-72.102626,-32.635678,154.138589,Rail,276.67,2021-02-14
+949,Silver Orchestrate Clicks-And-Mortar Communities,"Todd, Clark and Cole",-17.9297595,-147.789356,-3.911789,-136.071262,Ship,963.41,2021-01-09
+950,Seagreen Leverage Interactive Systems,"Harris, Galvan and Rodgers",-12.6027685,-107.90139,1.678578,86.309243,Truck,965.39,2021-09-10
+951,Firebrick Revolutionize Collaborative Solutions,"Richard, Wade and Thompson",87.096915,-54.751554,-13.458809,9.837099,Ship,642.0,2022-04-17
+952,Deeppink Whiteboard Scalable Users,"Jackson, Ford and Perkins",-4.7630445,-117.175174,16.82099,-24.991994,Rail,18.51,2022-01-04
+953,Lightseagreen Re-Intermediate Synergistic Platforms,Lang-Stone,-55.672752,11.268971,-16.762132,-96.174953,Air,57.5,2022-04-30
+954,Peachpuff Aggregate Granular Channels,Mcdowell-Walker,-4.0565275,134.295113,85.2700175,9.017137,Truck,918.9,2021-07-23
+955,Mediumslateblue Mesh Dot-Com E-Tailers,Edwards-Adams,-18.2790735,110.690847,-51.260106,165.808519,Ship,293.93,2020-06-10
+956,Lightpink Utilize Impactful Content,"Wise, Rodriguez and Wagner",21.2743075,-136.571744,31.578669,93.740002,Ship,652.16,2021-10-05
+957,Burlywood Maximize Bleeding-Edge E-Services,Oliver-Jimenez,-37.959997,63.425449,-67.013466,65.734754,Ship,754.04,2022-04-03
+958,Oldlace Facilitate Collaborative Architectures,Schmidt PLC,-57.6971805,-8.63052,62.146954,-63.82772,Ship,620.74,2023-04-23
+959,Salmon Strategize Turn-Key Methodologies,Bennett Ltd,46.5728835,66.917402,34.438464,-140.180461,Air,581.0,2020-04-27
+960,Limegreen Deploy Holistic Roi,Chapman LLC,-85.5874615,-166.471667,76.0330785,-71.293044,Rail,299.15,2023-08-27
+961,Yellow Architect Sticky Niches,"Williams, James and Bush",-77.153915,-55.161014,-9.913209,-168.40875,Air,659.92,2022-12-02
+962,Gainsboro Matrix Leading-Edge Supply-Chains,Taylor-Johnson,22.415613,126.86938,-77.096723,-139.785663,Truck,268.26,2021-10-27
+963,Brown Seize Compelling E-Markets,Hicks Group,-81.6232505,-68.52246,-30.3355745,116.315926,Rail,584.43,2021-03-26
+964,Blanchedalmond Engineer Web-Enabled Web-Readiness,"Diaz, Nguyen and Richardson",-29.785063,-10.338999,4.360699,-101.362445,Ship,845.52,2023-08-11
+965,Dimgray Integrate Dynamic Channels,Vincent-Thomas,84.9922915,144.480519,23.935825,55.65328,Truck,774.79,2023-09-21
+966,Olivedrab Engineer Vertical Roi,Martin Ltd,21.049295,79.33795,86.0741555,-161.698713,Air,575.7,2022-01-24
+967,Darkred Revolutionize Scalable Roi,"Lawson, Newton and Ortega",-37.8894315,-47.971838,-8.3106615,174.236646,Air,915.08,2021-08-31
+968,Navy Repurpose Integrated Deliverables,"Herrera, Foster and Harris",87.1037115,59.603766,65.4087465,-143.89425,Truck,952.15,2023-03-11
+969,Dodgerblue Morph Turn-Key Schemas,"Wright, Sutton and Smith",81.7407895,-12.87985,-48.532204,-69.801568,Air,645.46,2022-05-23
+970,Darksalmon Whiteboard Rich Content,"Rodriguez, Shaw and Benson",-13.329442,161.307085,88.0705075,-120.913415,Rail,560.55,2023-04-10
+971,Palevioletred Monetize Seamless Vortals,Black Ltd,-63.4491905,157.796088,48.8549855,21.722116,Rail,741.65,2021-08-21
+972,Springgreen Seize Plug-And-Play Models,"Gonzalez, West and Brown",31.392856,64.203831,25.3849795,20.911145,Rail,125.62,2020-04-08
+973,Olive Engage Integrated Supply-Chains,"Perez, Allen and Walker",-18.284432,-132.93171,5.972557,-148.615091,Rail,813.49,2020-04-20
+974,Mediumturquoise Enable User-Centric Interfaces,Phillips-Peterson,12.775401,-161.375752,26.740252,173.857102,Air,462.61,2021-04-07
+975,Ghostwhite Matrix Virtual Infrastructures,Taylor-Cook,-0.9165625,12.465672,52.126601,48.089578,Truck,663.52,2023-06-13
+976,Cornflowerblue Optimize Holistic Supply-Chains,Bruce-Campbell,48.7372065,109.075412,-79.9400295,65.442675,Truck,912.49,2023-09-11
+977,Deepskyblue Architect Synergistic Technologies,Harris PLC,-80.936274,-157.729534,41.8336045,77.019976,Ship,666.77,2021-01-02
+978,Orange Matrix E-Business Infrastructures,Adams-Torres,-78.3829005,-16.448416,-81.666898,-175.165124,Truck,502.4,2021-08-22
+979,Firebrick Streamline Bleeding-Edge E-Tailers,"Hartman, Kelley and Spence",-85.357403,82.312595,6.3906355,-7.942518,Truck,901.83,2020-08-15
+980,Silver Drive Collaborative Schemas,Moore-Hernandez,-48.158113,163.446034,-63.951157,-107.260029,Air,171.47,2022-11-07
+981,Hotpink Aggregate Visionary Relationships,Wilkinson LLC,-77.502611,6.752121,-76.52909,-149.730156,Rail,695.92,2023-01-19
+982,Lavenderblush Grow Best-Of-Breed Schemas,Williams-Coleman,70.2977165,65.341969,-14.554429,-102.849281,Truck,135.54,2020-08-13
+983,Aquamarine Exploit Next-Generation Infrastructures,Bates PLC,46.9436975,131.321513,3.466715,109.023989,Ship,97.4,2022-08-24
+984,Khaki Morph Distributed Experiences,Benjamin-Daniel,-48.2911975,90.594617,-20.3503315,121.338557,Truck,414.79,2022-01-19
+985,Blueviolet Repurpose Cross-Platform Partnerships,"Ruiz, Hernandez and Mack",-28.3087045,-0.728623,-12.658951,-4.140315,Rail,896.0,2023-04-04
+986,Mediumorchid Engage Mission-Critical Communities,Peterson-Austin,84.328657,-167.004042,30.7463275,-105.700565,Air,464.91,2020-02-09
+987,Tomato Productize Revolutionary Web Services,"Moore, Lewis and Rodriguez",64.708721,105.154394,33.271305,73.246315,Air,588.45,2022-02-28
+988,Firebrick Unleash Best-Of-Breed Content,Thompson and Sons,12.2851935,-9.910616,-64.066549,153.482968,Truck,948.77,2021-07-07
+989,Saddlebrown Incentivize Revolutionary Solutions,"Mcbride, Singh and Warner",10.5049225,-116.075519,19.8035955,-116.522485,Air,195.89,2020-10-13
+990,Darkkhaki Implement Distributed Users,Jackson-Lopez,54.3644305,96.314807,78.1487615,-166.104454,Truck,877.27,2023-09-15
+991,Mediumvioletred Seize Plug-And-Play E-Business,Hahn-Gray,4.927971,-80.676632,12.4328555,91.287763,Air,539.49,2020-03-01
+992,Lightslategray Synthesize Holistic Bandwidth,"Lee, Cervantes and Edwards",-71.3599145,10.214271,0.734302,-35.349038,Air,724.71,2021-07-28
+993,Ghostwhite Integrate Interactive Methodologies,"Macias, Owens and Schwartz",87.2240835,154.749675,66.5917395,158.822829,Ship,329.64,2021-01-31
+994,Chocolate Embrace Proactive Deliverables,Taylor-Howe,-42.128407,-97.368544,13.718663,-91.356807,Air,324.46,2020-04-17
+995,Deepskyblue Envisioneer Dynamic Content,"Crawford, Black and Brown",-24.588025,68.283539,-87.713103,95.234826,Rail,84.69,2021-04-10
+996,Navy Synergize Real-Time Users,Mendoza-Smith,1.6357265,-108.259768,25.4510315,133.952992,Truck,483.59,2022-12-09
+997,Cornsilk Iterate Cross-Platform Info-Mediaries,"Beck, Patrick and Krueger",11.8032975,110.906301,-28.294552,171.667754,Ship,238.27,2021-02-04
+998,Papayawhip Harness Viral Users,"Anderson, Kline and Lloyd",73.5810405,54.276789,1.025972,115.922857,Truck,159.26,2023-01-10
+999,Mediumseagreen Benchmark Virtual Metrics,"Hanson, Rosales and Cook",11.575583,-177.962529,-20.0616745,4.075948,Truck,708.89,2021-10-14
+1000,Midnightblue Redefine Holistic Partnerships,Parker-Diaz,-49.1351395,-152.467913,-27.757407,-141.366079,Truck,888.16,2022-08-03

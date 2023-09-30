@@ -1,0 +1,1001 @@
+species_name,latitude,longitude,habitat_type,population_size,date_of_observation,observation_method,threat_status
+Hyena,81.4716095,-32.129441,Grassland,258,2023-01-15,Estimation,Critically Endangered
+Lion,-70.4554255,-78.417732,Wetland,447,2021-05-18,Estimation,Vulnerable
+Cheetah,49.734316,143.48922,Forest,714,2023-04-25,Estimation,Critically Endangered
+Lion,-26.5057655,-68.012184,Desert,33,2022-10-29,Estimation,Vulnerable
+Elephant,-73.9443275,23.147967,Grassland,943,2020-09-22,Sampling,Least Concern
+Giraffe,14.5723405,-120.024497,Wetland,96,2022-12-11,Estimation,Vulnerable
+Lion,70.111034,56.951598,Desert,288,2023-01-04,Direct Count,Endangered
+Leopard,55.894663,-92.638028,Wetland,51,2021-06-12,Estimation,Critically Endangered
+Lion,31.29459,-154.71202,Grassland,834,2022-05-26,Estimation,Vulnerable
+Giraffe,6.472107,164.205846,Forest,370,2020-10-02,Sampling,Vulnerable
+Elephant,17.333015,36.727716,Desert,184,2021-10-17,Sampling,Vulnerable
+Cheetah,9.8007665,138.230821,Desert,578,2020-07-17,Sampling,Vulnerable
+Giraffe,56.955064,-15.125816,Forest,305,2020-12-01,Sampling,Endangered
+Buffalo,14.8840255,-105.150036,Forest,757,2022-07-27,Sampling,Critically Endangered
+Zebra,-20.766928,-100.290353,Forest,632,2020-05-12,Direct Count,Vulnerable
+Leopard,25.768771,-48.431046,Desert,431,2022-06-09,Estimation,Critically Endangered
+Buffalo,30.2854955,33.41201,Grassland,337,2023-04-30,Estimation,Endangered
+Hyena,-40.3491785,-48.102974,Wetland,341,2023-07-29,Estimation,Vulnerable
+Elephant,-71.6084825,23.816661,Grassland,800,2023-08-10,Estimation,Least Concern
+Leopard,-20.127708,138.979703,Desert,849,2023-02-19,Estimation,Least Concern
+Giraffe,-11.146614,48.197154,Wetland,155,2021-03-11,Estimation,Least Concern
+Giraffe,28.975731,125.883617,Grassland,150,2020-08-04,Estimation,Endangered
+Cheetah,55.9403155,57.314459,Wetland,335,2020-09-27,Estimation,Critically Endangered
+Giraffe,19.483681,-39.974512,Desert,541,2020-10-08,Estimation,Vulnerable
+Leopard,15.116073,-107.778268,Desert,300,2022-04-01,Estimation,Endangered
+Giraffe,59.156518,-20.955424,Grassland,745,2021-03-01,Sampling,Least Concern
+Leopard,-8.3112385,45.685151,Desert,352,2022-04-13,Direct Count,Endangered
+Hyena,11.838921,-98.07409,Desert,128,2022-12-09,Estimation,Vulnerable
+Lion,-17.7655845,-108.363049,Grassland,765,2021-07-08,Estimation,Vulnerable
+Elephant,10.3738155,-109.453594,Forest,155,2020-03-24,Sampling,Endangered
+Leopard,-33.2279555,124.54111,Desert,975,2022-09-07,Sampling,Vulnerable
+Cheetah,6.1019065,-146.015075,Desert,503,2022-08-29,Sampling,Critically Endangered
+Hyena,73.656396,-79.224117,Wetland,622,2020-07-07,Estimation,Critically Endangered
+Lion,-37.3066615,-119.477742,Forest,147,2022-04-28,Direct Count,Vulnerable
+Elephant,-81.2666105,28.769704,Forest,526,2020-09-05,Sampling,Least Concern
+Leopard,26.4492455,137.634657,Desert,186,2020-02-04,Sampling,Vulnerable
+Hyena,-31.999131,25.696349,Grassland,254,2023-05-02,Sampling,Critically Endangered
+Cheetah,-9.567696,153.508634,Desert,208,2022-04-27,Sampling,Critically Endangered
+Lion,-36.6329245,-147.21671,Forest,35,2020-07-14,Direct Count,Endangered
+Elephant,64.2768785,-75.063541,Forest,880,2023-02-16,Direct Count,Least Concern
+Leopard,46.485213,-31.8385,Wetland,498,2020-11-14,Direct Count,Least Concern
+Hyena,8.3152675,-79.730885,Grassland,504,2023-02-09,Estimation,Vulnerable
+Hyena,71.9473075,166.845198,Desert,370,2020-08-17,Estimation,Critically Endangered
+Leopard,65.092351,-113.556357,Grassland,568,2020-09-16,Direct Count,Vulnerable
+Buffalo,1.541361,64.26577,Desert,620,2022-02-21,Direct Count,Least Concern
+Elephant,-23.2622085,-179.00657,Forest,537,2022-11-22,Direct Count,Vulnerable
+Buffalo,-74.431971,156.212532,Wetland,3,2020-09-16,Estimation,Vulnerable
+Giraffe,32.1735205,170.303166,Wetland,292,2020-02-15,Estimation,Critically Endangered
+Buffalo,62.0762945,22.235003,Grassland,47,2020-05-11,Direct Count,Least Concern
+Giraffe,70.2696955,-77.591422,Wetland,890,2023-02-24,Direct Count,Endangered
+Zebra,8.1669005,63.456578,Wetland,955,2021-12-26,Estimation,Least Concern
+Zebra,-11.194783,164.984205,Forest,685,2023-05-30,Direct Count,Least Concern
+Elephant,1.8735945,120.695229,Wetland,104,2022-01-14,Sampling,Endangered
+Lion,87.3861895,-170.720489,Wetland,743,2020-05-03,Estimation,Least Concern
+Cheetah,-36.6605635,175.083609,Forest,138,2023-04-11,Direct Count,Vulnerable
+Hyena,-82.5027915,-63.167149,Desert,446,2020-11-07,Estimation,Critically Endangered
+Elephant,2.5456415,-146.521298,Grassland,927,2020-11-20,Estimation,Least Concern
+Buffalo,66.367837,-118.488109,Wetland,742,2022-12-10,Sampling,Least Concern
+Giraffe,50.6116925,-135.860232,Desert,843,2022-11-03,Direct Count,Least Concern
+Giraffe,-55.350993,157.532939,Grassland,694,2021-05-04,Sampling,Least Concern
+Buffalo,-66.3458145,21.54725,Forest,588,2023-04-20,Sampling,Least Concern
+Hyena,-89.662942,138.059893,Grassland,935,2021-02-25,Estimation,Critically Endangered
+Zebra,35.721265,-164.863612,Forest,731,2022-03-01,Sampling,Vulnerable
+Buffalo,81.5707285,-99.862699,Grassland,465,2023-08-08,Sampling,Least Concern
+Hyena,33.479897,-90.291379,Grassland,328,2021-07-11,Estimation,Endangered
+Leopard,-51.4652735,113.358897,Forest,749,2020-09-24,Estimation,Endangered
+Cheetah,35.370327,-143.094123,Desert,936,2022-03-19,Estimation,Critically Endangered
+Lion,-75.9845485,85.65896,Desert,17,2021-12-02,Estimation,Critically Endangered
+Elephant,-68.072839,77.155401,Desert,214,2023-05-07,Estimation,Critically Endangered
+Lion,-52.3161185,-39.091237,Grassland,67,2020-02-12,Estimation,Critically Endangered
+Elephant,-41.5163395,-124.965275,Wetland,700,2020-05-01,Sampling,Endangered
+Lion,3.838958,-47.473072,Forest,845,2021-01-23,Estimation,Endangered
+Hyena,-83.579789,106.368491,Grassland,532,2021-02-16,Direct Count,Least Concern
+Leopard,18.6066695,59.216343,Wetland,184,2020-12-22,Direct Count,Vulnerable
+Buffalo,-63.051198,-46.048827,Forest,973,2022-11-21,Estimation,Critically Endangered
+Buffalo,-65.712515,154.160448,Grassland,392,2021-09-30,Direct Count,Endangered
+Hyena,81.663538,-123.610636,Desert,862,2022-08-12,Sampling,Critically Endangered
+Lion,-83.678707,175.63904,Wetland,54,2021-02-19,Estimation,Critically Endangered
+Giraffe,-68.7578065,-156.624171,Wetland,542,2020-06-05,Sampling,Endangered
+Zebra,23.2735965,-72.270678,Grassland,382,2022-11-17,Sampling,Endangered
+Elephant,-19.275779,56.439841,Desert,562,2020-02-23,Estimation,Critically Endangered
+Elephant,-28.512724,89.185497,Wetland,628,2023-05-30,Sampling,Endangered
+Hyena,-56.873991,139.94945,Forest,178,2020-09-18,Sampling,Critically Endangered
+Cheetah,42.2615555,-58.49886,Grassland,391,2023-05-17,Estimation,Vulnerable
+Giraffe,-3.3700815,-91.749593,Forest,235,2020-03-08,Sampling,Vulnerable
+Giraffe,-28.3795265,-133.336061,Grassland,210,2021-01-21,Direct Count,Endangered
+Leopard,-73.670249,-46.549876,Forest,580,2021-09-18,Sampling,Endangered
+Cheetah,-32.214387,-172.393314,Grassland,628,2021-01-08,Sampling,Critically Endangered
+Hyena,-53.208208,-45.544271,Forest,406,2021-12-26,Direct Count,Least Concern
+Zebra,75.539724,49.704469,Forest,209,2020-04-12,Direct Count,Critically Endangered
+Zebra,-45.6328535,67.126186,Forest,620,2020-04-29,Estimation,Vulnerable
+Leopard,-89.4798845,145.17253,Wetland,563,2023-03-07,Sampling,Critically Endangered
+Cheetah,-75.447985,-154.826866,Desert,979,2023-05-14,Sampling,Critically Endangered
+Hyena,-53.628972,53.596504,Wetland,926,2022-01-14,Sampling,Least Concern
+Buffalo,-50.4386445,-173.384641,Forest,779,2021-12-23,Estimation,Endangered
+Buffalo,-73.167344,40.898511,Desert,260,2021-09-28,Sampling,Vulnerable
+Lion,-18.0992995,-66.193099,Wetland,753,2021-03-28,Sampling,Least Concern
+Buffalo,39.0005595,-52.029496,Wetland,319,2020-02-02,Estimation,Endangered
+Giraffe,81.7636545,-41.079085,Wetland,847,2022-12-20,Direct Count,Vulnerable
+Lion,78.1149935,108.006499,Grassland,773,2023-08-26,Direct Count,Critically Endangered
+Buffalo,4.486818,65.266196,Wetland,920,2021-01-12,Estimation,Vulnerable
+Elephant,-29.0299515,-112.269344,Forest,690,2020-08-06,Sampling,Endangered
+Elephant,-44.939956,89.227815,Grassland,310,2020-10-28,Sampling,Endangered
+Giraffe,-32.236713,9.766128,Forest,899,2021-06-30,Sampling,Endangered
+Leopard,40.1844735,-62.180912,Wetland,673,2020-12-30,Sampling,Endangered
+Cheetah,68.5441055,-130.044839,Desert,672,2020-06-09,Direct Count,Least Concern
+Elephant,56.895782,-94.912473,Grassland,722,2021-08-20,Sampling,Least Concern
+Zebra,-20.5184945,80.263072,Desert,343,2022-02-11,Direct Count,Endangered
+Buffalo,-25.132019,12.181806,Grassland,409,2021-08-31,Direct Count,Vulnerable
+Buffalo,-41.5691065,-41.792094,Wetland,734,2021-12-25,Direct Count,Vulnerable
+Buffalo,-11.5512565,-136.643711,Grassland,112,2020-01-22,Direct Count,Critically Endangered
+Lion,89.536597,-27.214905,Desert,232,2023-08-20,Sampling,Critically Endangered
+Giraffe,67.176805,142.082649,Desert,25,2021-07-05,Direct Count,Critically Endangered
+Cheetah,-12.831008,-150.609392,Wetland,389,2022-09-12,Direct Count,Least Concern
+Leopard,-65.3097155,-36.85666,Desert,516,2021-02-04,Sampling,Least Concern
+Zebra,3.8460755,-144.26672,Grassland,992,2023-07-07,Sampling,Critically Endangered
+Elephant,-11.736108,-74.97878,Forest,155,2021-11-10,Sampling,Endangered
+Lion,-36.7350815,132.341046,Desert,879,2021-04-16,Estimation,Critically Endangered
+Cheetah,-56.393495,-38.128302,Wetland,621,2020-08-14,Direct Count,Least Concern
+Buffalo,-48.0374735,30.663106,Wetland,503,2022-11-22,Sampling,Least Concern
+Leopard,-34.9097605,-23.965192,Grassland,180,2021-01-14,Estimation,Endangered
+Leopard,-70.539791,72.941066,Grassland,366,2022-07-21,Sampling,Least Concern
+Hyena,82.137504,12.186553,Forest,312,2020-12-23,Estimation,Least Concern
+Zebra,-42.324112,31.982216,Desert,781,2020-07-19,Direct Count,Critically Endangered
+Zebra,77.899844,102.582722,Forest,650,2022-03-24,Sampling,Critically Endangered
+Giraffe,-20.73772,-115.266586,Forest,948,2022-01-17,Estimation,Critically Endangered
+Cheetah,36.3003175,38.475918,Grassland,330,2023-07-08,Sampling,Endangered
+Giraffe,-34.4102435,-126.426783,Desert,260,2022-08-12,Estimation,Critically Endangered
+Cheetah,-67.4839885,-43.816531,Wetland,982,2023-09-15,Estimation,Endangered
+Giraffe,-25.906008,-120.049239,Wetland,497,2021-07-01,Estimation,Critically Endangered
+Lion,26.110879,33.623248,Grassland,961,2020-02-20,Sampling,Least Concern
+Lion,47.1137915,-22.449214,Grassland,475,2021-11-07,Direct Count,Endangered
+Buffalo,5.9676045,-79.441343,Wetland,768,2022-10-22,Direct Count,Endangered
+Cheetah,68.967776,-7.864893,Forest,752,2022-02-22,Estimation,Endangered
+Zebra,-57.842265,-134.413617,Forest,880,2020-11-17,Direct Count,Least Concern
+Leopard,-37.797496,-48.388071,Forest,380,2020-02-13,Direct Count,Critically Endangered
+Zebra,59.280763,-166.276207,Wetland,819,2022-10-03,Estimation,Least Concern
+Zebra,-36.749239,129.114339,Grassland,851,2022-10-20,Sampling,Vulnerable
+Buffalo,-8.922803,156.986674,Desert,109,2022-02-08,Sampling,Vulnerable
+Elephant,41.3853135,13.620712,Forest,574,2020-11-24,Direct Count,Endangered
+Giraffe,31.179979,103.603528,Desert,54,2020-08-09,Estimation,Least Concern
+Cheetah,79.593068,135.638843,Wetland,629,2023-09-08,Sampling,Vulnerable
+Buffalo,-65.0656,152.586955,Wetland,94,2022-03-25,Estimation,Endangered
+Cheetah,-81.3545895,-122.410063,Desert,922,2021-09-16,Estimation,Endangered
+Giraffe,47.7212565,-104.691677,Forest,158,2022-11-22,Direct Count,Least Concern
+Buffalo,60.3266905,5.837923,Desert,552,2022-08-27,Direct Count,Critically Endangered
+Lion,62.549545,49.529299,Wetland,416,2020-03-22,Sampling,Endangered
+Lion,46.1712555,-27.150419,Wetland,145,2021-06-26,Sampling,Least Concern
+Hyena,76.0530385,170.142434,Wetland,92,2022-04-19,Estimation,Least Concern
+Lion,-18.910392,40.035978,Desert,334,2021-11-19,Direct Count,Least Concern
+Cheetah,-39.9935005,13.533306,Grassland,805,2022-05-18,Direct Count,Endangered
+Lion,-89.1443175,-162.537929,Wetland,679,2022-10-06,Estimation,Vulnerable
+Hyena,-83.3554875,74.013492,Wetland,66,2021-04-23,Sampling,Critically Endangered
+Hyena,-21.2145705,54.187988,Desert,704,2023-05-30,Direct Count,Critically Endangered
+Elephant,75.7830715,-13.14919,Wetland,532,2022-11-01,Direct Count,Vulnerable
+Lion,-79.788667,134.176814,Forest,206,2022-07-28,Estimation,Endangered
+Giraffe,-31.879789,-110.899695,Desert,988,2022-05-04,Direct Count,Vulnerable
+Buffalo,-23.660987,-86.787574,Forest,318,2022-06-15,Sampling,Vulnerable
+Buffalo,-19.1862225,-141.314837,Forest,167,2022-05-26,Sampling,Endangered
+Elephant,-68.7922955,153.863783,Forest,191,2021-10-29,Sampling,Endangered
+Giraffe,37.403663,-79.212379,Desert,150,2020-08-04,Sampling,Critically Endangered
+Buffalo,78.848384,83.103903,Forest,307,2022-10-24,Direct Count,Endangered
+Giraffe,-6.838861,-95.51819,Grassland,92,2021-10-20,Direct Count,Vulnerable
+Lion,65.1275255,34.496728,Wetland,965,2022-08-01,Direct Count,Least Concern
+Cheetah,-59.829247,-90.405167,Forest,11,2022-09-06,Estimation,Vulnerable
+Elephant,-0.485534,30.191901,Grassland,217,2023-06-12,Sampling,Endangered
+Buffalo,86.1004355,147.814612,Forest,907,2022-04-03,Estimation,Critically Endangered
+Zebra,38.8091705,-85.189379,Wetland,138,2021-02-10,Sampling,Vulnerable
+Zebra,61.8406765,-164.740779,Desert,61,2020-11-08,Direct Count,Least Concern
+Giraffe,23.9867475,-165.658372,Desert,129,2021-03-11,Direct Count,Endangered
+Lion,2.852477,-134.012015,Wetland,716,2021-04-30,Direct Count,Vulnerable
+Zebra,50.1744215,61.718497,Forest,209,2022-09-02,Sampling,Least Concern
+Cheetah,-63.9859215,165.418852,Forest,570,2022-10-18,Direct Count,Vulnerable
+Hyena,81.279616,-56.347858,Desert,111,2020-01-25,Estimation,Vulnerable
+Buffalo,-89.935276,-47.727755,Wetland,746,2021-06-01,Direct Count,Least Concern
+Cheetah,13.421249,-172.429764,Forest,534,2023-01-02,Direct Count,Endangered
+Leopard,-73.5338325,-32.206494,Wetland,420,2021-05-26,Sampling,Critically Endangered
+Leopard,61.808114,161.20104,Wetland,541,2023-02-22,Sampling,Vulnerable
+Zebra,53.5216075,-179.984752,Wetland,819,2022-04-04,Estimation,Endangered
+Zebra,50.549796,-40.302703,Desert,997,2020-04-27,Sampling,Critically Endangered
+Zebra,3.5095905,17.126627,Forest,341,2020-05-26,Estimation,Vulnerable
+Lion,31.462093,100.576626,Desert,425,2023-08-31,Direct Count,Endangered
+Zebra,-27.87641,-174.287656,Wetland,517,2023-04-13,Sampling,Critically Endangered
+Hyena,-50.0082965,-14.162895,Wetland,654,2020-03-07,Sampling,Endangered
+Cheetah,-0.4531585,10.984869,Grassland,388,2022-06-30,Estimation,Critically Endangered
+Leopard,77.0232265,-101.307469,Wetland,711,2023-06-01,Estimation,Endangered
+Elephant,46.863744,-67.024964,Forest,418,2023-06-05,Sampling,Least Concern
+Hyena,-68.3923655,33.924431,Desert,335,2021-02-28,Estimation,Vulnerable
+Lion,41.8025185,168.165413,Grassland,703,2020-03-22,Direct Count,Critically Endangered
+Lion,-53.6233815,-178.573285,Forest,227,2020-10-10,Sampling,Vulnerable
+Zebra,-86.9788465,-115.80489,Desert,27,2023-08-10,Sampling,Least Concern
+Buffalo,42.7445775,-104.46949,Grassland,43,2021-02-03,Sampling,Critically Endangered
+Hyena,-78.9163935,-158.334095,Wetland,23,2022-01-15,Direct Count,Least Concern
+Buffalo,16.5091185,166.308337,Forest,423,2021-12-03,Estimation,Critically Endangered
+Giraffe,10.2744405,-18.463208,Forest,159,2022-11-16,Direct Count,Least Concern
+Zebra,67.095563,-72.488937,Forest,722,2020-12-07,Sampling,Least Concern
+Hyena,9.10206,-94.768249,Desert,808,2023-08-07,Direct Count,Vulnerable
+Leopard,87.740816,163.633215,Grassland,814,2020-08-10,Estimation,Endangered
+Lion,-59.241548,107.831604,Wetland,713,2021-04-15,Sampling,Endangered
+Hyena,24.770756,3.569538,Forest,152,2020-08-15,Estimation,Vulnerable
+Zebra,-4.0542285,-134.886024,Wetland,983,2021-12-25,Estimation,Critically Endangered
+Cheetah,-23.3918895,-14.961079,Wetland,405,2020-03-09,Estimation,Least Concern
+Hyena,20.2791425,-150.087126,Wetland,149,2020-09-23,Estimation,Vulnerable
+Leopard,-41.224571,115.328333,Desert,126,2020-05-05,Estimation,Endangered
+Giraffe,-75.5451135,-94.271156,Forest,446,2022-07-14,Estimation,Least Concern
+Buffalo,10.3880815,-3.122523,Desert,648,2023-08-23,Direct Count,Critically Endangered
+Hyena,-56.488929,137.783364,Desert,484,2021-11-15,Estimation,Critically Endangered
+Giraffe,-72.651434,-74.758839,Desert,345,2023-08-13,Estimation,Critically Endangered
+Elephant,12.4254485,47.727142,Desert,337,2020-11-21,Sampling,Critically Endangered
+Hyena,25.92454,-28.466391,Desert,988,2021-10-25,Estimation,Critically Endangered
+Leopard,-10.552575,-97.065194,Desert,309,2021-02-03,Sampling,Critically Endangered
+Giraffe,30.945705,20.437576,Grassland,722,2020-05-07,Direct Count,Endangered
+Zebra,-9.8831905,98.200339,Wetland,396,2023-05-25,Direct Count,Vulnerable
+Cheetah,57.1242395,-77.375138,Forest,622,2020-05-28,Estimation,Vulnerable
+Lion,89.025184,-109.048217,Wetland,100,2020-02-05,Direct Count,Critically Endangered
+Lion,-2.4502345,-14.078736,Grassland,950,2022-11-01,Estimation,Critically Endangered
+Giraffe,14.163608,86.291671,Grassland,586,2021-07-22,Sampling,Critically Endangered
+Cheetah,55.765278,-2.673487,Forest,240,2020-09-14,Direct Count,Endangered
+Lion,7.0396555,105.385238,Forest,998,2021-09-17,Sampling,Critically Endangered
+Hyena,-86.999553,-172.714428,Grassland,713,2022-09-21,Sampling,Critically Endangered
+Giraffe,-64.4793615,141.45635,Desert,548,2021-09-12,Sampling,Vulnerable
+Giraffe,66.562972,50.878727,Desert,57,2020-06-11,Sampling,Least Concern
+Cheetah,87.1255775,-98.579979,Grassland,43,2023-08-08,Estimation,Critically Endangered
+Cheetah,58.424886,0.980076,Desert,626,2022-07-22,Sampling,Endangered
+Leopard,-69.6344045,-128.358336,Wetland,159,2022-09-02,Estimation,Endangered
+Giraffe,81.197913,-37.443358,Grassland,611,2023-07-23,Estimation,Least Concern
+Leopard,-76.074091,175.085651,Grassland,533,2022-12-16,Sampling,Endangered
+Lion,-39.101099,149.952844,Grassland,902,2022-10-17,Estimation,Critically Endangered
+Lion,51.774916,-50.59107,Wetland,885,2022-03-15,Direct Count,Critically Endangered
+Lion,-30.604891,-16.369519,Wetland,669,2023-06-03,Direct Count,Endangered
+Hyena,50.3763465,-161.291727,Desert,967,2023-01-18,Direct Count,Vulnerable
+Leopard,-81.6671905,-108.076639,Forest,292,2023-09-04,Direct Count,Vulnerable
+Leopard,63.258599,12.773252,Grassland,922,2022-01-18,Sampling,Vulnerable
+Giraffe,-66.2819685,-53.019255,Desert,159,2021-07-25,Estimation,Vulnerable
+Leopard,-48.6365645,-114.303313,Desert,434,2020-08-04,Sampling,Least Concern
+Hyena,-8.366547,-175.335984,Wetland,629,2020-04-09,Direct Count,Endangered
+Zebra,86.7415625,91.728524,Grassland,958,2020-11-16,Direct Count,Critically Endangered
+Giraffe,20.9288605,-49.709154,Desert,372,2020-02-19,Direct Count,Critically Endangered
+Cheetah,28.2283435,-24.267505,Grassland,42,2021-10-22,Direct Count,Critically Endangered
+Leopard,79.3846485,-89.086346,Grassland,674,2022-03-26,Direct Count,Endangered
+Lion,-54.895432,14.016204,Wetland,980,2020-10-08,Direct Count,Vulnerable
+Cheetah,-9.637675,51.325666,Desert,281,2022-11-02,Estimation,Endangered
+Elephant,-32.178427,-74.653322,Grassland,112,2021-12-20,Sampling,Critically Endangered
+Cheetah,-8.6425585,-65.279818,Wetland,665,2022-09-03,Estimation,Least Concern
+Hyena,-59.4642135,53.224744,Forest,964,2021-10-25,Direct Count,Least Concern
+Leopard,27.017606,106.879162,Grassland,90,2021-10-31,Estimation,Endangered
+Leopard,83.799971,-30.164487,Grassland,405,2020-04-06,Estimation,Endangered
+Leopard,53.12793,-69.220164,Wetland,628,2022-05-10,Estimation,Endangered
+Leopard,32.253853,-142.476216,Forest,223,2022-04-06,Sampling,Least Concern
+Giraffe,-6.728324,-106.513202,Forest,924,2022-01-30,Sampling,Least Concern
+Buffalo,-35.3741595,55.029528,Wetland,897,2020-11-02,Direct Count,Critically Endangered
+Lion,-7.0611305,-51.467791,Desert,931,2023-02-16,Estimation,Critically Endangered
+Leopard,17.787892,-18.198621,Forest,514,2020-02-13,Sampling,Least Concern
+Leopard,78.3291875,154.461855,Wetland,975,2020-09-17,Sampling,Endangered
+Hyena,9.5561355,170.785205,Grassland,15,2020-10-14,Direct Count,Critically Endangered
+Leopard,40.923057,60.313582,Grassland,564,2020-10-23,Sampling,Vulnerable
+Buffalo,79.8393945,45.69922,Grassland,220,2020-11-26,Direct Count,Least Concern
+Buffalo,24.063917,-170.182258,Grassland,288,2021-07-11,Direct Count,Least Concern
+Buffalo,4.4494675,54.395018,Forest,519,2021-07-30,Sampling,Least Concern
+Cheetah,81.361758,-93.055379,Grassland,92,2023-01-20,Direct Count,Least Concern
+Cheetah,13.834023,-165.610692,Wetland,998,2023-03-07,Direct Count,Critically Endangered
+Lion,12.963352,-147.002423,Grassland,116,2022-01-11,Sampling,Critically Endangered
+Elephant,-81.9478035,178.996143,Wetland,96,2023-09-22,Direct Count,Least Concern
+Hyena,-74.335496,-30.427512,Wetland,273,2020-03-24,Estimation,Vulnerable
+Elephant,-7.447539,-170.329483,Desert,421,2020-02-12,Sampling,Vulnerable
+Buffalo,31.0154915,-81.646365,Forest,741,2020-03-20,Estimation,Endangered
+Zebra,-31.4450115,-72.986801,Desert,694,2021-01-29,Sampling,Endangered
+Leopard,4.2800785,-153.795505,Grassland,176,2020-11-07,Sampling,Critically Endangered
+Zebra,50.665165,-142.050569,Forest,266,2022-08-15,Estimation,Least Concern
+Hyena,-26.664042,-168.467328,Desert,295,2022-09-28,Direct Count,Vulnerable
+Hyena,-55.8559725,46.520173,Forest,632,2022-08-09,Direct Count,Vulnerable
+Cheetah,-7.702208,81.954545,Desert,379,2022-11-05,Direct Count,Critically Endangered
+Elephant,37.134428,-34.857229,Desert,601,2022-09-23,Sampling,Vulnerable
+Leopard,77.5992935,-54.525958,Wetland,842,2023-04-24,Sampling,Least Concern
+Zebra,-11.358078,100.780146,Forest,97,2020-01-13,Sampling,Critically Endangered
+Zebra,71.856448,81.888729,Wetland,676,2020-09-21,Sampling,Critically Endangered
+Cheetah,15.675321,148.53594,Grassland,338,2022-01-14,Sampling,Vulnerable
+Leopard,26.4930265,160.714865,Forest,512,2022-04-10,Sampling,Endangered
+Lion,87.4640955,123.648613,Wetland,540,2020-12-12,Estimation,Least Concern
+Cheetah,-62.0618705,-78.057544,Wetland,849,2022-07-19,Direct Count,Least Concern
+Elephant,-74.029903,149.792414,Forest,114,2020-11-28,Sampling,Least Concern
+Leopard,13.195378,-118.14161,Wetland,382,2021-09-16,Direct Count,Least Concern
+Lion,3.363855,-123.017181,Forest,899,2023-01-08,Direct Count,Endangered
+Hyena,-48.880659,30.171564,Desert,34,2022-02-12,Direct Count,Endangered
+Hyena,-61.4973045,-17.132947,Wetland,776,2020-11-27,Direct Count,Endangered
+Lion,-36.553319,-18.432528,Desert,779,2023-04-15,Direct Count,Least Concern
+Lion,5.512478,-27.228128,Forest,610,2020-03-27,Sampling,Critically Endangered
+Lion,-18.223937,-121.477701,Grassland,819,2021-05-16,Sampling,Vulnerable
+Buffalo,-89.98337,41.026483,Forest,854,2023-01-23,Direct Count,Vulnerable
+Hyena,89.377799,88.835032,Wetland,705,2021-03-05,Sampling,Least Concern
+Giraffe,-33.270653,34.624352,Desert,428,2020-03-01,Direct Count,Least Concern
+Elephant,85.755781,-27.977908,Desert,225,2020-12-12,Direct Count,Endangered
+Cheetah,58.661211,-57.208637,Wetland,71,2023-01-10,Estimation,Least Concern
+Buffalo,-51.762554,-144.373463,Forest,76,2022-05-08,Direct Count,Least Concern
+Elephant,69.8140455,175.877094,Wetland,27,2020-06-19,Direct Count,Endangered
+Elephant,2.942839,-91.524108,Forest,385,2023-05-17,Sampling,Least Concern
+Lion,24.6897995,-143.811659,Grassland,631,2022-08-08,Estimation,Critically Endangered
+Leopard,50.691233,70.625142,Wetland,907,2023-05-20,Direct Count,Least Concern
+Leopard,84.37606,-51.366308,Desert,449,2021-10-23,Direct Count,Endangered
+Elephant,68.183779,143.403499,Desert,87,2020-10-02,Sampling,Vulnerable
+Lion,-22.5318055,78.781902,Wetland,523,2022-08-02,Direct Count,Endangered
+Hyena,-48.4403845,-114.432919,Desert,652,2023-04-04,Sampling,Least Concern
+Giraffe,81.158256,-19.746277,Wetland,121,2020-04-07,Sampling,Endangered
+Giraffe,61.9825535,6.697439,Forest,282,2023-04-15,Sampling,Endangered
+Giraffe,-60.9711285,-95.660152,Grassland,119,2023-04-01,Sampling,Vulnerable
+Leopard,-62.4477095,-55.767694,Grassland,118,2023-03-02,Estimation,Endangered
+Leopard,78.60511,-62.572967,Wetland,343,2022-02-16,Sampling,Endangered
+Giraffe,-29.3579765,-126.150358,Forest,646,2022-07-24,Estimation,Least Concern
+Hyena,37.1479895,145.964543,Forest,945,2022-09-17,Sampling,Vulnerable
+Zebra,49.931836,25.143486,Wetland,687,2023-08-01,Estimation,Critically Endangered
+Giraffe,20.136417,94.728323,Wetland,356,2022-07-18,Estimation,Vulnerable
+Elephant,-15.532154,150.438572,Desert,881,2023-05-18,Sampling,Vulnerable
+Elephant,-11.6914815,18.945707,Wetland,426,2021-10-30,Sampling,Least Concern
+Leopard,-12.5460595,-34.039957,Wetland,557,2020-04-02,Sampling,Least Concern
+Cheetah,41.8392445,-35.135443,Wetland,292,2021-11-10,Sampling,Least Concern
+Giraffe,-64.602276,-98.857668,Grassland,198,2023-01-30,Sampling,Critically Endangered
+Leopard,76.983012,-57.781275,Wetland,253,2020-02-02,Direct Count,Critically Endangered
+Lion,19.7354915,165.961334,Grassland,256,2022-10-22,Sampling,Endangered
+Hyena,-26.941962,123.436804,Wetland,35,2022-02-16,Sampling,Least Concern
+Buffalo,57.0061025,19.958919,Grassland,343,2020-07-18,Direct Count,Critically Endangered
+Elephant,89.3970615,127.687812,Wetland,746,2021-05-25,Sampling,Least Concern
+Elephant,50.874421,162.338257,Desert,855,2022-07-27,Sampling,Endangered
+Buffalo,19.9086495,161.261208,Forest,446,2020-09-29,Sampling,Vulnerable
+Elephant,-78.35393,6.939998,Forest,637,2020-06-22,Direct Count,Endangered
+Cheetah,11.963989,114.667661,Forest,644,2020-05-18,Estimation,Endangered
+Leopard,13.9370475,118.503676,Forest,754,2022-07-07,Direct Count,Critically Endangered
+Cheetah,-78.016119,113.675882,Wetland,741,2022-11-01,Direct Count,Least Concern
+Zebra,15.9539835,-47.171364,Wetland,655,2021-11-16,Direct Count,Vulnerable
+Cheetah,20.4935555,172.235849,Desert,238,2021-02-11,Direct Count,Critically Endangered
+Zebra,-41.9758615,103.19992,Desert,733,2020-02-01,Estimation,Endangered
+Lion,-70.787524,-16.158675,Wetland,350,2023-03-29,Direct Count,Endangered
+Lion,-25.9408265,-168.90298,Wetland,919,2021-12-09,Sampling,Vulnerable
+Leopard,-49.7192405,52.580536,Wetland,314,2022-10-28,Direct Count,Vulnerable
+Lion,-41.8603275,-61.983049,Desert,212,2021-07-24,Sampling,Least Concern
+Lion,2.0464275,-5.812155,Wetland,885,2021-02-03,Estimation,Least Concern
+Zebra,-8.412866,-139.625944,Forest,737,2020-09-11,Sampling,Vulnerable
+Buffalo,-84.228894,-18.081438,Wetland,375,2022-02-17,Sampling,Vulnerable
+Zebra,-7.826435,-59.543618,Desert,640,2022-01-17,Direct Count,Vulnerable
+Elephant,-13.5422135,-71.349781,Desert,872,2020-07-31,Estimation,Critically Endangered
+Lion,74.287181,94.514056,Desert,881,2023-05-30,Direct Count,Critically Endangered
+Buffalo,-79.816245,-149.274305,Wetland,322,2020-06-30,Sampling,Vulnerable
+Hyena,30.8107675,-26.924277,Desert,881,2022-09-24,Estimation,Vulnerable
+Buffalo,-16.463271,74.950378,Desert,293,2020-04-15,Estimation,Endangered
+Lion,87.6989445,-36.506935,Grassland,727,2021-10-26,Direct Count,Endangered
+Buffalo,29.0920895,-79.777772,Forest,279,2023-04-27,Estimation,Endangered
+Zebra,-52.449771,-156.789227,Grassland,315,2020-07-31,Sampling,Vulnerable
+Lion,-12.57737,-175.553057,Forest,517,2021-06-09,Estimation,Vulnerable
+Buffalo,78.139799,-99.052926,Desert,763,2023-05-19,Direct Count,Vulnerable
+Buffalo,80.952524,61.968357,Wetland,943,2021-12-01,Direct Count,Vulnerable
+Cheetah,76.2389195,-138.174299,Grassland,340,2023-06-22,Estimation,Vulnerable
+Cheetah,15.774451,175.394109,Forest,537,2020-10-20,Sampling,Least Concern
+Elephant,81.079155,19.711645,Grassland,324,2022-02-23,Estimation,Vulnerable
+Lion,62.6296145,-126.042634,Forest,959,2020-03-10,Estimation,Endangered
+Elephant,72.8216135,84.771195,Forest,453,2020-02-18,Estimation,Endangered
+Hyena,7.5507205,-44.287484,Grassland,650,2020-02-13,Estimation,Least Concern
+Zebra,46.7652755,74.575616,Grassland,420,2023-09-14,Sampling,Endangered
+Elephant,10.2809645,-97.969948,Desert,812,2022-06-11,Estimation,Vulnerable
+Giraffe,-34.9053705,18.6476,Forest,851,2021-04-18,Sampling,Least Concern
+Hyena,83.4881615,126.339889,Wetland,915,2020-07-25,Estimation,Critically Endangered
+Buffalo,22.230121,-162.365686,Forest,350,2023-08-15,Sampling,Vulnerable
+Buffalo,-31.1097275,-90.829949,Wetland,457,2022-01-18,Direct Count,Critically Endangered
+Giraffe,48.34136,12.668577,Grassland,927,2020-03-02,Direct Count,Least Concern
+Lion,-56.252963,118.329582,Grassland,721,2022-09-30,Estimation,Vulnerable
+Buffalo,64.9412565,-157.655026,Grassland,891,2022-11-11,Estimation,Endangered
+Zebra,-89.57173,175.490635,Forest,725,2021-08-17,Direct Count,Endangered
+Buffalo,35.1187355,139.451611,Wetland,442,2022-09-11,Direct Count,Endangered
+Lion,-82.946461,103.829712,Desert,684,2021-07-05,Sampling,Least Concern
+Zebra,52.4632515,126.339736,Wetland,846,2020-10-07,Direct Count,Least Concern
+Cheetah,-86.8962475,72.534555,Grassland,733,2021-12-28,Estimation,Critically Endangered
+Giraffe,53.140221,-99.203582,Desert,339,2022-10-05,Estimation,Endangered
+Hyena,80.1575515,131.577818,Wetland,472,2023-07-07,Direct Count,Endangered
+Zebra,-3.4605925,105.766399,Desert,931,2021-06-29,Direct Count,Vulnerable
+Giraffe,-26.210738,178.318506,Grassland,385,2020-03-27,Estimation,Endangered
+Zebra,-46.464993,93.491024,Wetland,169,2022-06-09,Direct Count,Critically Endangered
+Giraffe,-42.166368,9.940508,Grassland,161,2022-02-22,Direct Count,Endangered
+Zebra,74.941604,-93.24738,Forest,532,2021-04-23,Estimation,Vulnerable
+Buffalo,-64.703549,-32.930539,Desert,975,2020-03-17,Sampling,Vulnerable
+Zebra,40.3124655,88.88145,Grassland,324,2023-09-06,Direct Count,Critically Endangered
+Buffalo,3.179715,79.253043,Wetland,270,2021-06-22,Direct Count,Critically Endangered
+Buffalo,-42.157284,-43.636681,Grassland,133,2021-11-19,Sampling,Least Concern
+Lion,47.9199585,-124.088077,Desert,869,2022-11-29,Sampling,Endangered
+Buffalo,-75.407614,139.42046,Desert,623,2021-11-08,Sampling,Vulnerable
+Lion,56.2671265,-95.156085,Desert,549,2022-05-25,Sampling,Endangered
+Zebra,-21.3368445,24.485749,Forest,448,2021-03-28,Direct Count,Critically Endangered
+Giraffe,45.540194,53.013164,Desert,438,2023-01-02,Estimation,Vulnerable
+Hyena,18.622134,77.443427,Grassland,851,2022-09-12,Estimation,Endangered
+Elephant,-42.168031,130.430469,Forest,906,2023-06-13,Sampling,Endangered
+Leopard,23.545553,101.819996,Grassland,428,2020-12-04,Estimation,Least Concern
+Hyena,0.457312,-155.792619,Forest,174,2021-11-09,Estimation,Least Concern
+Lion,23.7005775,176.747272,Forest,973,2020-05-03,Sampling,Endangered
+Elephant,-66.290363,-103.678147,Forest,891,2020-04-08,Direct Count,Least Concern
+Elephant,31.6008135,-78.644518,Wetland,204,2022-12-25,Sampling,Critically Endangered
+Buffalo,-22.583547,-159.241686,Desert,577,2021-01-04,Direct Count,Least Concern
+Elephant,-45.619604,-164.011139,Forest,886,2022-03-18,Sampling,Least Concern
+Buffalo,21.074259,-22.05747,Grassland,489,2022-12-06,Estimation,Critically Endangered
+Cheetah,19.6504535,-27.210131,Grassland,884,2022-06-03,Sampling,Endangered
+Zebra,-76.899769,118.987567,Wetland,458,2022-03-06,Sampling,Least Concern
+Zebra,8.506539,-15.771286,Desert,12,2021-05-08,Estimation,Least Concern
+Zebra,3.4872945,-178.666099,Desert,231,2020-12-12,Estimation,Vulnerable
+Buffalo,-14.0748015,-44.892584,Desert,249,2023-04-11,Sampling,Least Concern
+Hyena,-13.561891,-157.489363,Grassland,398,2023-04-23,Estimation,Vulnerable
+Lion,-87.860987,55.690712,Grassland,687,2020-07-03,Direct Count,Vulnerable
+Leopard,47.1480865,-13.170363,Wetland,146,2021-07-28,Estimation,Critically Endangered
+Hyena,-71.834649,-118.197461,Grassland,948,2023-09-08,Direct Count,Endangered
+Elephant,78.0583045,-171.596728,Wetland,510,2022-08-09,Estimation,Least Concern
+Hyena,66.4398175,-143.417722,Grassland,450,2022-07-27,Estimation,Least Concern
+Lion,-80.1528685,-28.033068,Grassland,337,2022-11-06,Estimation,Critically Endangered
+Leopard,-41.8391735,165.575506,Grassland,276,2023-09-18,Estimation,Least Concern
+Buffalo,9.500822,143.039756,Forest,193,2020-07-26,Sampling,Vulnerable
+Elephant,-46.363099,44.655324,Forest,945,2021-03-02,Sampling,Endangered
+Hyena,-18.9797925,-134.628764,Forest,255,2021-05-26,Direct Count,Endangered
+Hyena,7.8479615,-87.984625,Desert,279,2022-03-20,Direct Count,Least Concern
+Buffalo,-87.476359,14.909638,Forest,2,2023-09-18,Sampling,Least Concern
+Zebra,47.2539215,150.683979,Desert,647,2022-02-05,Sampling,Critically Endangered
+Giraffe,-36.493421,-80.327578,Forest,758,2023-05-07,Estimation,Least Concern
+Lion,43.947776,157.095448,Grassland,754,2021-04-02,Direct Count,Vulnerable
+Cheetah,60.9787745,71.236486,Wetland,671,2022-04-05,Sampling,Endangered
+Giraffe,-72.378342,-115.780349,Desert,452,2021-08-14,Sampling,Vulnerable
+Buffalo,-7.6839305,-174.069836,Desert,57,2021-04-16,Estimation,Least Concern
+Lion,-45.8631,-168.69033,Wetland,604,2020-07-20,Estimation,Vulnerable
+Buffalo,77.9006355,-135.446208,Wetland,185,2023-01-19,Sampling,Critically Endangered
+Hyena,49.4231345,77.737989,Wetland,984,2023-03-29,Sampling,Vulnerable
+Buffalo,52.508375,-67.185475,Desert,147,2020-10-02,Estimation,Vulnerable
+Zebra,-20.567926,-112.370804,Wetland,560,2022-02-08,Direct Count,Endangered
+Zebra,65.4404045,148.362142,Desert,657,2023-05-05,Sampling,Critically Endangered
+Lion,-58.9647615,40.095213,Forest,299,2021-05-25,Direct Count,Critically Endangered
+Giraffe,40.7073895,-16.261426,Desert,815,2021-07-27,Direct Count,Critically Endangered
+Zebra,-60.8789545,118.229397,Forest,614,2020-01-23,Estimation,Least Concern
+Buffalo,-82.672577,42.223801,Desert,223,2022-10-20,Estimation,Critically Endangered
+Zebra,64.749503,-147.986744,Wetland,96,2020-09-16,Sampling,Endangered
+Buffalo,89.605275,144.348509,Desert,115,2020-11-28,Sampling,Least Concern
+Giraffe,23.4115775,60.280178,Desert,994,2021-08-09,Estimation,Critically Endangered
+Cheetah,-72.3171095,-66.341235,Desert,965,2023-08-28,Direct Count,Least Concern
+Leopard,3.611191,-152.672765,Grassland,365,2023-07-13,Direct Count,Least Concern
+Buffalo,89.600872,-70.143484,Grassland,919,2021-09-23,Sampling,Endangered
+Leopard,-22.2208465,-5.418278,Grassland,705,2023-08-21,Direct Count,Least Concern
+Buffalo,-63.903819,-144.153692,Desert,491,2022-11-02,Estimation,Endangered
+Buffalo,-60.6483955,-167.69858,Wetland,355,2021-02-13,Direct Count,Least Concern
+Lion,-31.358787,34.380261,Grassland,140,2021-10-05,Sampling,Vulnerable
+Giraffe,-79.9768205,108.642878,Forest,177,2023-04-14,Direct Count,Critically Endangered
+Lion,-86.0720525,-151.301684,Forest,649,2021-06-07,Direct Count,Endangered
+Leopard,-35.327196,94.880678,Forest,213,2020-04-09,Estimation,Vulnerable
+Giraffe,45.040911,109.090431,Grassland,10,2023-04-02,Direct Count,Endangered
+Leopard,-60.532354,43.945394,Desert,502,2020-07-28,Sampling,Endangered
+Elephant,19.1103445,-14.252771,Grassland,578,2020-02-29,Direct Count,Endangered
+Giraffe,7.852442,48.415167,Grassland,698,2022-04-27,Sampling,Endangered
+Zebra,-47.143513,58.851196,Wetland,812,2022-05-12,Direct Count,Endangered
+Giraffe,-82.393338,-167.891974,Grassland,934,2023-03-18,Sampling,Critically Endangered
+Hyena,-47.246053,-82.101344,Forest,541,2020-01-01,Sampling,Critically Endangered
+Leopard,60.7116455,105.346991,Forest,348,2022-12-18,Estimation,Least Concern
+Zebra,43.523905,11.263813,Forest,506,2020-10-02,Estimation,Least Concern
+Buffalo,45.9839955,-16.42346,Forest,526,2020-02-27,Direct Count,Endangered
+Cheetah,-6.272775,-73.705413,Grassland,696,2023-01-22,Sampling,Critically Endangered
+Giraffe,-68.0077225,-84.795724,Grassland,452,2020-12-01,Sampling,Vulnerable
+Buffalo,77.678797,120.50416,Desert,474,2020-08-20,Sampling,Vulnerable
+Elephant,-34.8577735,137.851481,Desert,86,2021-11-20,Sampling,Least Concern
+Hyena,21.425046,129.793769,Wetland,282,2023-07-18,Sampling,Critically Endangered
+Cheetah,-32.747602,20.42523,Forest,521,2022-07-12,Direct Count,Critically Endangered
+Cheetah,-15.0289385,72.145419,Desert,80,2022-04-15,Direct Count,Least Concern
+Giraffe,-33.489345,-110.714285,Desert,745,2020-12-26,Estimation,Critically Endangered
+Giraffe,-2.193424,-74.878279,Wetland,278,2020-10-10,Sampling,Vulnerable
+Lion,-70.2245855,119.602533,Desert,524,2020-01-30,Estimation,Vulnerable
+Zebra,24.820286,-170.865849,Grassland,124,2022-11-12,Direct Count,Endangered
+Zebra,-81.846182,31.943369,Wetland,990,2020-11-13,Sampling,Critically Endangered
+Lion,-63.673932,150.181183,Grassland,60,2020-08-07,Direct Count,Endangered
+Elephant,-22.168027,38.26018,Forest,707,2022-08-14,Direct Count,Critically Endangered
+Zebra,32.2378145,-165.699313,Wetland,842,2022-06-11,Estimation,Endangered
+Lion,-52.316369,-65.118369,Forest,307,2023-04-15,Estimation,Critically Endangered
+Cheetah,-26.524607,59.424889,Grassland,962,2020-04-20,Estimation,Endangered
+Lion,-2.8837525,-168.243027,Desert,184,2021-04-07,Estimation,Critically Endangered
+Elephant,-64.0602795,-115.318463,Forest,823,2021-07-10,Sampling,Vulnerable
+Hyena,14.5202115,-135.166234,Desert,197,2023-06-10,Direct Count,Vulnerable
+Buffalo,66.22276,-18.231846,Desert,441,2020-04-16,Estimation,Endangered
+Zebra,-65.019223,82.954722,Grassland,55,2022-05-11,Direct Count,Critically Endangered
+Giraffe,-12.0255695,-146.569473,Desert,793,2020-02-22,Direct Count,Least Concern
+Buffalo,-70.832995,-51.368261,Forest,376,2021-02-20,Direct Count,Least Concern
+Elephant,47.0606575,169.05993,Forest,14,2021-03-13,Direct Count,Critically Endangered
+Lion,-36.3420485,79.045121,Desert,336,2022-02-11,Direct Count,Least Concern
+Lion,-84.9294165,136.773228,Grassland,917,2020-01-12,Direct Count,Endangered
+Cheetah,8.650025,38.697808,Wetland,526,2023-02-21,Direct Count,Vulnerable
+Cheetah,18.549157,-14.849489,Wetland,462,2021-05-20,Estimation,Vulnerable
+Buffalo,-47.696106,20.040912,Wetland,65,2023-06-23,Estimation,Vulnerable
+Elephant,-0.144012,34.115007,Wetland,133,2020-07-26,Estimation,Critically Endangered
+Leopard,-88.2769175,-81.086544,Forest,725,2020-04-08,Sampling,Endangered
+Buffalo,18.5566325,46.132808,Grassland,193,2023-07-01,Direct Count,Critically Endangered
+Leopard,-10.6140135,47.753456,Forest,877,2020-07-21,Sampling,Least Concern
+Giraffe,-64.2397235,-100.61277,Grassland,286,2022-11-23,Sampling,Critically Endangered
+Cheetah,1.013239,109.781825,Grassland,35,2022-07-29,Estimation,Least Concern
+Lion,-30.872118,48.871351,Forest,193,2021-12-12,Direct Count,Least Concern
+Elephant,-47.569218,6.568598,Grassland,132,2022-09-12,Direct Count,Vulnerable
+Buffalo,29.219755,-32.03529,Forest,401,2022-04-22,Sampling,Vulnerable
+Buffalo,29.8882945,123.83678,Wetland,332,2022-02-10,Estimation,Least Concern
+Elephant,27.382174,-39.85064,Desert,606,2023-01-07,Sampling,Endangered
+Zebra,-65.80497,31.185696,Desert,523,2021-05-27,Sampling,Endangered
+Hyena,5.316078,121.146631,Forest,42,2021-12-04,Direct Count,Endangered
+Cheetah,5.651978,130.143012,Wetland,435,2022-09-13,Direct Count,Endangered
+Giraffe,-62.823431,168.290373,Wetland,423,2023-02-17,Sampling,Critically Endangered
+Cheetah,21.0441855,135.658791,Grassland,863,2023-08-27,Direct Count,Critically Endangered
+Lion,-84.64317,118.890381,Forest,391,2022-03-25,Direct Count,Least Concern
+Lion,47.7566045,-75.897275,Grassland,719,2021-11-28,Estimation,Critically Endangered
+Leopard,39.26752,11.404216,Forest,361,2022-01-31,Sampling,Endangered
+Leopard,-32.6096155,-126.425894,Forest,463,2020-01-16,Estimation,Critically Endangered
+Lion,-25.466512,-138.345835,Forest,878,2023-03-21,Direct Count,Least Concern
+Buffalo,67.447761,68.348669,Wetland,596,2020-01-27,Sampling,Least Concern
+Elephant,-76.6003455,52.248599,Forest,645,2022-05-30,Estimation,Critically Endangered
+Leopard,-70.249396,-90.053358,Desert,396,2022-08-23,Direct Count,Critically Endangered
+Giraffe,-66.6806595,-145.9559,Desert,483,2022-08-17,Sampling,Vulnerable
+Elephant,59.2518455,44.64519,Wetland,946,2021-07-18,Sampling,Critically Endangered
+Elephant,-4.98866,162.447542,Grassland,73,2023-01-30,Direct Count,Endangered
+Giraffe,-67.2441745,-95.577465,Wetland,479,2020-01-20,Sampling,Least Concern
+Giraffe,-88.626364,111.44004,Grassland,290,2023-08-17,Sampling,Critically Endangered
+Hyena,-61.490378,-176.355195,Wetland,60,2021-10-03,Sampling,Least Concern
+Lion,-5.608561,-167.149537,Grassland,713,2022-04-27,Estimation,Critically Endangered
+Hyena,-49.235756,36.281029,Wetland,88,2022-05-13,Sampling,Critically Endangered
+Giraffe,83.838705,-86.62218,Desert,862,2023-04-04,Sampling,Critically Endangered
+Hyena,65.750602,-108.317124,Forest,867,2020-04-04,Direct Count,Least Concern
+Cheetah,-81.5647285,147.451098,Grassland,552,2022-12-08,Direct Count,Critically Endangered
+Elephant,-80.282161,28.541948,Forest,236,2020-04-15,Direct Count,Least Concern
+Elephant,79.777653,-1.628508,Grassland,845,2023-09-18,Direct Count,Endangered
+Giraffe,37.2975815,-55.79234,Forest,755,2023-04-08,Estimation,Vulnerable
+Zebra,45.572556,-13.868649,Forest,563,2023-09-27,Sampling,Critically Endangered
+Leopard,63.6802475,-161.539256,Forest,781,2020-06-27,Estimation,Critically Endangered
+Hyena,84.2604125,-39.61243,Wetland,82,2022-07-30,Direct Count,Least Concern
+Lion,-5.276064,27.807421,Wetland,311,2020-12-12,Estimation,Endangered
+Cheetah,-53.6356615,152.522177,Grassland,21,2020-09-16,Direct Count,Critically Endangered
+Buffalo,-3.2607195,91.464668,Desert,487,2023-03-09,Estimation,Endangered
+Buffalo,6.168882,116.98449,Forest,886,2021-05-21,Estimation,Least Concern
+Giraffe,-11.3977465,11.758701,Desert,315,2023-01-02,Estimation,Vulnerable
+Hyena,-66.024354,-85.957284,Desert,999,2020-02-20,Estimation,Endangered
+Leopard,37.4771,-140.762214,Wetland,459,2022-06-21,Estimation,Endangered
+Cheetah,-81.016167,-60.859808,Grassland,201,2020-05-20,Direct Count,Vulnerable
+Cheetah,-18.2021235,-118.075626,Desert,765,2021-04-09,Estimation,Least Concern
+Cheetah,37.286386,-175.243358,Wetland,258,2020-07-06,Direct Count,Vulnerable
+Lion,-71.8711035,104.951798,Wetland,626,2022-10-18,Sampling,Critically Endangered
+Hyena,-36.453652,18.790776,Desert,684,2022-07-12,Direct Count,Critically Endangered
+Zebra,87.848586,-128.713046,Wetland,906,2023-01-25,Estimation,Vulnerable
+Elephant,-28.3110085,-61.182591,Forest,936,2021-11-16,Estimation,Endangered
+Cheetah,12.2119575,124.263413,Wetland,905,2023-05-07,Sampling,Least Concern
+Hyena,-83.4102615,-174.635299,Grassland,845,2020-06-26,Sampling,Critically Endangered
+Cheetah,87.896383,-147.454391,Grassland,763,2022-05-16,Estimation,Vulnerable
+Buffalo,-17.577329,-87.868241,Grassland,637,2021-12-08,Estimation,Least Concern
+Lion,5.0773105,-21.235054,Desert,153,2020-03-17,Direct Count,Vulnerable
+Zebra,29.995197,29.550187,Desert,440,2020-11-15,Sampling,Critically Endangered
+Buffalo,54.434311,-80.14749,Wetland,129,2023-06-18,Estimation,Least Concern
+Cheetah,-0.776606,15.023737,Forest,511,2022-06-01,Estimation,Endangered
+Lion,-11.0654185,139.873134,Forest,458,2022-10-17,Sampling,Vulnerable
+Leopard,73.8251375,61.159674,Desert,235,2021-12-24,Sampling,Least Concern
+Buffalo,-86.0393345,2.152792,Wetland,600,2021-01-09,Sampling,Vulnerable
+Leopard,56.5866725,158.006796,Grassland,204,2023-09-05,Sampling,Vulnerable
+Giraffe,1.9099615,58.892954,Desert,950,2022-01-14,Sampling,Endangered
+Zebra,-44.8457865,52.437355,Forest,249,2023-02-08,Estimation,Least Concern
+Giraffe,-83.3977355,73.911012,Wetland,229,2023-05-09,Estimation,Least Concern
+Giraffe,52.2642335,-2.890941,Desert,129,2023-07-05,Estimation,Vulnerable
+Giraffe,40.0590435,-9.121517,Desert,204,2021-01-19,Estimation,Endangered
+Zebra,86.1621845,94.709848,Grassland,2,2021-07-29,Direct Count,Critically Endangered
+Giraffe,49.1917665,137.241687,Grassland,975,2020-03-31,Estimation,Vulnerable
+Hyena,47.162076,-27.805444,Grassland,580,2023-01-21,Sampling,Critically Endangered
+Zebra,-13.7386345,10.367485,Grassland,25,2021-09-14,Direct Count,Vulnerable
+Buffalo,-80.427485,135.71749,Grassland,111,2023-05-17,Direct Count,Least Concern
+Leopard,85.67157,-60.851523,Grassland,700,2022-03-08,Estimation,Least Concern
+Elephant,53.429745,-55.711188,Grassland,981,2023-05-09,Direct Count,Critically Endangered
+Leopard,64.4169755,-121.382808,Wetland,43,2022-05-29,Sampling,Least Concern
+Cheetah,43.6802485,16.489264,Wetland,521,2021-07-07,Estimation,Endangered
+Hyena,-43.6005665,-134.051432,Desert,855,2023-09-03,Sampling,Least Concern
+Zebra,-13.9893775,139.552191,Desert,719,2020-11-20,Estimation,Vulnerable
+Elephant,42.92348,151.013506,Desert,70,2020-02-13,Sampling,Least Concern
+Leopard,-51.6821855,-154.059018,Grassland,935,2020-04-29,Sampling,Vulnerable
+Zebra,18.8917615,174.53952,Forest,985,2020-12-17,Direct Count,Critically Endangered
+Lion,-4.8869355,153.968921,Grassland,354,2023-09-01,Direct Count,Least Concern
+Buffalo,87.411773,42.556096,Forest,348,2021-04-28,Direct Count,Vulnerable
+Hyena,78.235867,87.149645,Desert,943,2020-06-01,Estimation,Critically Endangered
+Leopard,79.1317645,-73.501475,Wetland,559,2020-01-19,Direct Count,Critically Endangered
+Buffalo,-51.282161,-98.403781,Forest,656,2020-08-04,Estimation,Vulnerable
+Hyena,20.1585655,112.100042,Desert,171,2023-08-27,Direct Count,Critically Endangered
+Lion,-67.190393,13.232255,Desert,163,2022-02-15,Sampling,Critically Endangered
+Elephant,-74.7406165,-153.554692,Desert,707,2020-08-01,Estimation,Least Concern
+Cheetah,-87.0455585,19.749187,Forest,532,2023-06-19,Direct Count,Critically Endangered
+Hyena,-2.2435515,18.646084,Wetland,587,2023-06-23,Direct Count,Endangered
+Leopard,86.295073,-119.595763,Desert,296,2022-08-15,Direct Count,Critically Endangered
+Buffalo,-25.983036,82.002352,Grassland,64,2022-12-25,Direct Count,Vulnerable
+Buffalo,-48.7103805,141.373178,Forest,752,2020-02-01,Sampling,Vulnerable
+Zebra,68.501202,174.730471,Grassland,420,2020-05-15,Estimation,Endangered
+Elephant,-19.5102295,88.335057,Wetland,109,2022-09-01,Direct Count,Critically Endangered
+Elephant,45.624231,81.765369,Forest,932,2023-09-07,Estimation,Critically Endangered
+Zebra,-63.441059,-30.914703,Grassland,398,2022-07-24,Estimation,Least Concern
+Giraffe,-55.181558,-21.818837,Grassland,411,2022-08-06,Direct Count,Vulnerable
+Lion,89.99947,-55.159999,Forest,233,2021-01-17,Direct Count,Critically Endangered
+Leopard,62.274659,153.303288,Wetland,969,2020-01-09,Sampling,Critically Endangered
+Leopard,-22.6660135,-52.564056,Desert,253,2021-03-08,Direct Count,Endangered
+Buffalo,30.574676,58.300419,Forest,275,2020-01-13,Direct Count,Endangered
+Elephant,-43.629302,-103.829773,Forest,670,2023-03-01,Estimation,Endangered
+Lion,51.1926475,34.33162,Grassland,669,2020-05-26,Direct Count,Least Concern
+Zebra,59.149072,59.91464,Wetland,701,2020-02-04,Sampling,Vulnerable
+Zebra,-85.2023955,25.43725,Forest,652,2023-03-16,Direct Count,Endangered
+Zebra,-52.6631155,-170.258881,Wetland,325,2023-05-03,Estimation,Least Concern
+Buffalo,-11.687184,-122.922181,Desert,932,2021-06-24,Direct Count,Endangered
+Elephant,31.3288895,93.189908,Grassland,614,2021-04-16,Direct Count,Endangered
+Giraffe,19.3551175,109.870137,Forest,240,2020-05-18,Direct Count,Least Concern
+Elephant,-46.895075,-143.194659,Desert,60,2023-03-09,Direct Count,Vulnerable
+Hyena,-43.7355625,98.164625,Desert,242,2021-06-11,Estimation,Vulnerable
+Giraffe,70.4705675,-136.226427,Wetland,81,2023-08-18,Direct Count,Endangered
+Leopard,-30.5641715,162.683315,Grassland,525,2021-06-28,Direct Count,Vulnerable
+Cheetah,-2.763494,-54.513232,Wetland,607,2020-05-19,Sampling,Vulnerable
+Lion,-22.608253,-24.721177,Forest,98,2021-08-13,Estimation,Critically Endangered
+Lion,37.63954,146.127694,Forest,402,2020-09-08,Sampling,Least Concern
+Leopard,-36.0062705,179.01677,Forest,258,2022-10-18,Estimation,Vulnerable
+Leopard,-67.736622,66.501822,Desert,868,2021-08-29,Estimation,Least Concern
+Leopard,9.719943,125.732168,Grassland,434,2021-10-04,Estimation,Least Concern
+Buffalo,-58.109767,91.663514,Forest,800,2022-03-07,Sampling,Vulnerable
+Giraffe,20.064488,-32.716342,Desert,614,2021-11-05,Direct Count,Critically Endangered
+Hyena,-71.383137,-119.97123,Wetland,719,2022-04-25,Sampling,Critically Endangered
+Leopard,27.1892705,-25.869058,Grassland,42,2021-08-28,Sampling,Critically Endangered
+Giraffe,9.153421,-66.647841,Wetland,702,2020-09-06,Direct Count,Least Concern
+Giraffe,-53.4764905,-166.82175,Wetland,805,2023-01-24,Estimation,Vulnerable
+Leopard,-73.871694,97.417216,Forest,909,2021-05-19,Sampling,Endangered
+Zebra,6.841713,-93.364386,Desert,894,2022-12-12,Estimation,Endangered
+Cheetah,-77.450767,-107.863376,Forest,892,2022-03-11,Sampling,Vulnerable
+Elephant,-66.43146,-165.13813,Forest,867,2023-07-03,Sampling,Vulnerable
+Cheetah,28.423117,-115.737364,Desert,469,2022-03-02,Direct Count,Vulnerable
+Cheetah,-41.8340805,-32.831838,Wetland,706,2021-11-13,Sampling,Critically Endangered
+Leopard,-19.568845,-72.392174,Grassland,342,2021-11-13,Direct Count,Endangered
+Lion,-76.1330245,-171.48229,Wetland,423,2020-08-06,Estimation,Vulnerable
+Lion,83.199165,44.972284,Desert,340,2022-04-04,Direct Count,Least Concern
+Buffalo,-20.913944,-15.421898,Desert,626,2020-08-30,Estimation,Critically Endangered
+Elephant,69.7232705,-140.125791,Wetland,553,2022-04-18,Estimation,Vulnerable
+Giraffe,-30.348087,-99.844468,Wetland,163,2020-02-23,Direct Count,Vulnerable
+Lion,-68.077374,-70.920494,Forest,954,2021-02-25,Sampling,Critically Endangered
+Lion,38.5778205,-50.417443,Wetland,606,2020-09-12,Direct Count,Vulnerable
+Hyena,-52.9220185,-67.306631,Wetland,931,2020-04-03,Direct Count,Critically Endangered
+Lion,-39.64852,-141.077598,Grassland,833,2022-05-27,Direct Count,Critically Endangered
+Giraffe,-57.836753,-173.9461,Wetland,810,2021-10-05,Estimation,Critically Endangered
+Buffalo,-19.2279655,112.430837,Forest,675,2021-12-28,Direct Count,Vulnerable
+Giraffe,36.5481345,5.31423,Grassland,687,2023-03-23,Direct Count,Critically Endangered
+Leopard,-7.2612865,-121.39666,Grassland,795,2022-11-13,Sampling,Endangered
+Leopard,14.173549,-106.168882,Forest,132,2021-07-28,Estimation,Vulnerable
+Zebra,54.239072,173.275321,Desert,463,2020-04-30,Sampling,Endangered
+Hyena,-12.829809,-131.500127,Desert,167,2022-12-24,Estimation,Vulnerable
+Buffalo,34.5993905,-16.741663,Forest,821,2021-05-09,Direct Count,Endangered
+Zebra,54.628796,-162.75427,Forest,256,2020-07-30,Sampling,Least Concern
+Hyena,25.4960195,39.098785,Wetland,45,2021-09-06,Sampling,Least Concern
+Giraffe,88.1612525,37.667351,Grassland,20,2023-09-08,Direct Count,Critically Endangered
+Hyena,60.130239,50.5511,Desert,368,2020-08-12,Estimation,Vulnerable
+Elephant,8.2759655,-165.244317,Desert,42,2021-01-29,Estimation,Least Concern
+Hyena,2.8277125,-101.297783,Desert,898,2022-11-23,Estimation,Critically Endangered
+Giraffe,0.06051,-178.760722,Wetland,288,2022-01-03,Sampling,Least Concern
+Zebra,66.7376245,8.876925,Wetland,131,2020-11-29,Direct Count,Critically Endangered
+Elephant,52.985743,-49.438907,Forest,508,2023-06-06,Direct Count,Critically Endangered
+Cheetah,-60.4684485,148.568575,Wetland,105,2020-09-26,Direct Count,Endangered
+Cheetah,43.8858665,13.762292,Desert,775,2022-03-13,Sampling,Vulnerable
+Leopard,8.394629,-28.828347,Forest,908,2023-04-03,Estimation,Critically Endangered
+Buffalo,67.173261,-110.123713,Forest,671,2023-06-09,Sampling,Least Concern
+Lion,-35.8375165,96.584626,Wetland,605,2021-02-13,Direct Count,Critically Endangered
+Giraffe,-30.2208415,-86.761066,Desert,424,2021-07-24,Sampling,Least Concern
+Zebra,72.1600745,-27.581439,Grassland,590,2023-02-28,Direct Count,Vulnerable
+Cheetah,3.7883775,114.49296,Wetland,672,2023-05-20,Estimation,Critically Endangered
+Hyena,2.996558,42.63736,Forest,865,2023-03-02,Sampling,Endangered
+Lion,-61.3635245,53.23716,Desert,588,2021-03-04,Sampling,Endangered
+Giraffe,-52.698734,-105.302006,Wetland,832,2020-04-19,Sampling,Critically Endangered
+Hyena,87.0493535,-44.445353,Wetland,172,2020-07-16,Direct Count,Endangered
+Zebra,1.275947,-92.070621,Grassland,84,2023-01-11,Direct Count,Vulnerable
+Cheetah,76.0602565,170.910098,Forest,87,2020-05-11,Estimation,Least Concern
+Buffalo,49.140841,-3.060331,Desert,770,2020-09-16,Direct Count,Endangered
+Zebra,50.189298,-59.86543,Grassland,651,2023-09-20,Sampling,Critically Endangered
+Hyena,52.978261,64.063147,Forest,597,2021-04-23,Sampling,Endangered
+Zebra,-9.0948955,81.736416,Desert,136,2021-04-29,Direct Count,Endangered
+Cheetah,85.5009615,-31.431165,Forest,664,2021-04-01,Estimation,Endangered
+Cheetah,-39.8492315,143.684455,Desert,616,2023-07-08,Sampling,Endangered
+Zebra,41.9008155,67.499438,Grassland,927,2021-12-14,Direct Count,Critically Endangered
+Elephant,-6.6600955,-56.017122,Grassland,72,2023-03-24,Sampling,Vulnerable
+Buffalo,86.110613,-117.576253,Desert,184,2020-01-01,Direct Count,Least Concern
+Buffalo,-8.036629,138.05705,Desert,944,2021-07-28,Estimation,Least Concern
+Cheetah,-4.069158,22.089805,Grassland,449,2022-01-04,Estimation,Least Concern
+Zebra,73.350296,-108.936638,Desert,538,2020-03-17,Sampling,Critically Endangered
+Cheetah,-41.3284165,168.922667,Forest,483,2021-12-20,Estimation,Critically Endangered
+Hyena,-81.24523,-78.086901,Wetland,554,2022-02-23,Direct Count,Vulnerable
+Leopard,-86.038753,-18.411158,Grassland,118,2023-07-11,Direct Count,Least Concern
+Giraffe,-77.286219,138.525132,Grassland,845,2021-01-13,Sampling,Endangered
+Cheetah,89.7804085,-95.343695,Wetland,153,2023-05-26,Direct Count,Least Concern
+Giraffe,-11.439706,87.872295,Wetland,880,2023-01-13,Direct Count,Endangered
+Elephant,-86.1365,-135.50277,Desert,801,2020-03-09,Sampling,Least Concern
+Zebra,-46.790177,-151.284327,Wetland,864,2021-08-04,Direct Count,Critically Endangered
+Zebra,-87.4848325,-10.611474,Desert,450,2023-07-02,Direct Count,Critically Endangered
+Hyena,49.8277945,-98.991929,Wetland,978,2020-10-31,Sampling,Least Concern
+Buffalo,-38.983494,-21.876083,Forest,16,2022-10-28,Sampling,Critically Endangered
+Leopard,-2.621313,-59.990547,Wetland,93,2023-09-03,Direct Count,Vulnerable
+Elephant,66.671645,-99.662709,Wetland,906,2023-03-09,Estimation,Vulnerable
+Cheetah,-25.6074915,-20.927485,Desert,52,2022-09-07,Direct Count,Endangered
+Hyena,-55.112572,-166.152521,Wetland,433,2021-10-04,Estimation,Least Concern
+Buffalo,83.6929415,-119.966299,Grassland,387,2023-07-10,Estimation,Vulnerable
+Zebra,85.9149045,135.785288,Wetland,789,2023-09-06,Sampling,Vulnerable
+Cheetah,-7.214268,-124.54192,Forest,65,2023-08-08,Sampling,Least Concern
+Hyena,22.519718,-99.703418,Wetland,165,2020-04-15,Sampling,Endangered
+Leopard,11.6225125,-46.700505,Forest,131,2021-02-20,Sampling,Endangered
+Zebra,-39.956632,20.419564,Forest,24,2020-12-03,Estimation,Endangered
+Hyena,11.4907295,-127.032624,Wetland,559,2020-11-01,Direct Count,Vulnerable
+Zebra,49.356825,95.460344,Wetland,834,2022-06-01,Sampling,Vulnerable
+Lion,28.461503,-87.25831,Desert,761,2020-08-12,Estimation,Vulnerable
+Giraffe,43.212785,-27.612094,Grassland,822,2021-10-12,Sampling,Least Concern
+Giraffe,-43.6661705,-159.811001,Wetland,209,2020-08-27,Direct Count,Critically Endangered
+Elephant,88.962833,-35.123532,Desert,983,2020-10-26,Direct Count,Critically Endangered
+Hyena,-87.2654385,-81.572295,Forest,894,2021-05-11,Sampling,Least Concern
+Giraffe,-10.1584135,-53.942153,Desert,299,2023-06-03,Sampling,Vulnerable
+Zebra,-89.771942,-172.137599,Forest,374,2021-02-03,Direct Count,Endangered
+Elephant,-7.4036855,-173.8727,Grassland,424,2023-07-24,Estimation,Endangered
+Leopard,-13.310274,12.234152,Desert,230,2022-02-25,Sampling,Endangered
+Zebra,45.6732575,174.607119,Grassland,378,2023-05-03,Sampling,Least Concern
+Buffalo,67.255397,-0.597938,Forest,493,2022-01-30,Direct Count,Critically Endangered
+Buffalo,11.337822,50.980999,Grassland,667,2021-04-08,Estimation,Critically Endangered
+Leopard,-49.5688165,65.649308,Desert,326,2023-09-10,Direct Count,Endangered
+Cheetah,-87.129327,47.028773,Wetland,533,2022-07-14,Direct Count,Endangered
+Hyena,13.1985855,-102.3439,Wetland,118,2021-07-02,Estimation,Critically Endangered
+Elephant,77.924108,10.949152,Grassland,535,2020-04-17,Sampling,Critically Endangered
+Cheetah,-34.8633605,-8.740486,Wetland,53,2021-08-28,Estimation,Endangered
+Zebra,66.865613,179.936821,Grassland,949,2021-02-16,Estimation,Vulnerable
+Hyena,-69.887561,-156.007554,Forest,104,2022-03-20,Direct Count,Endangered
+Giraffe,73.0787145,-23.622286,Forest,609,2020-09-06,Estimation,Vulnerable
+Buffalo,56.143329,-97.126771,Wetland,631,2022-01-30,Estimation,Critically Endangered
+Hyena,0.2992095,-106.877508,Forest,637,2020-11-17,Sampling,Endangered
+Lion,-15.858364,53.61163,Forest,768,2022-11-05,Sampling,Vulnerable
+Cheetah,73.205638,-80.423496,Forest,121,2022-11-27,Sampling,Endangered
+Lion,-69.3693815,-98.595527,Grassland,21,2023-08-19,Sampling,Endangered
+Leopard,58.6571735,-120.036184,Wetland,332,2022-04-30,Sampling,Vulnerable
+Giraffe,35.729972,68.332915,Forest,41,2021-03-01,Direct Count,Critically Endangered
+Elephant,30.034025,-88.001209,Grassland,393,2023-02-08,Estimation,Critically Endangered
+Hyena,21.9715045,-100.352369,Forest,297,2022-12-19,Sampling,Least Concern
+Leopard,-88.0613775,-123.393502,Grassland,892,2020-06-19,Direct Count,Critically Endangered
+Cheetah,-16.4744995,-105.472163,Grassland,808,2020-02-23,Estimation,Endangered
+Leopard,-43.695251,-120.994537,Desert,356,2021-11-07,Direct Count,Vulnerable
+Buffalo,-81.971251,-101.746219,Grassland,788,2021-08-16,Estimation,Least Concern
+Leopard,38.548241,-5.600067,Grassland,415,2021-03-09,Direct Count,Critically Endangered
+Buffalo,-81.33651,-170.02751,Desert,158,2022-11-25,Sampling,Vulnerable
+Elephant,4.4277965,96.05784,Grassland,305,2022-06-12,Direct Count,Vulnerable
+Buffalo,-86.528142,41.992585,Wetland,75,2020-03-03,Estimation,Vulnerable
+Elephant,86.976579,97.956866,Forest,347,2021-03-30,Direct Count,Critically Endangered
+Cheetah,-70.5643105,138.899739,Desert,53,2022-03-30,Direct Count,Vulnerable
+Zebra,83.088919,32.049712,Forest,174,2021-01-09,Sampling,Vulnerable
+Giraffe,27.120669,58.440969,Forest,237,2022-09-26,Direct Count,Vulnerable
+Leopard,-76.8617515,-98.742491,Forest,680,2023-04-22,Direct Count,Vulnerable
+Zebra,-76.152752,-119.474205,Wetland,473,2022-05-23,Estimation,Critically Endangered
+Leopard,39.1316365,-110.682615,Wetland,601,2021-04-16,Estimation,Vulnerable
+Buffalo,-0.6104985,-98.095318,Grassland,579,2022-03-02,Direct Count,Endangered
+Leopard,-29.5008945,123.609054,Desert,82,2020-01-28,Sampling,Critically Endangered
+Cheetah,-86.5822105,142.3107,Desert,817,2022-01-09,Estimation,Least Concern
+Lion,-21.094939,23.843463,Desert,592,2022-06-21,Estimation,Critically Endangered
+Giraffe,-64.251388,139.633803,Forest,15,2022-08-28,Sampling,Least Concern
+Buffalo,-88.3459485,-168.794297,Forest,273,2022-12-15,Direct Count,Endangered
+Cheetah,81.9808235,17.588355,Desert,795,2023-04-23,Estimation,Least Concern
+Giraffe,-82.632677,-62.042075,Grassland,388,2021-06-06,Estimation,Critically Endangered
+Hyena,79.122075,97.959517,Wetland,374,2023-05-09,Estimation,Critically Endangered
+Leopard,17.5146945,167.800827,Desert,453,2023-04-30,Estimation,Endangered
+Cheetah,-42.5186035,-116.150903,Grassland,267,2021-12-10,Estimation,Least Concern
+Hyena,-31.3751395,19.859898,Wetland,598,2022-09-06,Sampling,Critically Endangered
+Lion,3.773628,29.901321,Forest,365,2020-02-25,Sampling,Least Concern
+Zebra,4.7069365,-174.358281,Forest,584,2023-02-07,Estimation,Vulnerable
+Cheetah,-41.7617245,-43.737207,Grassland,308,2021-09-10,Estimation,Critically Endangered
+Giraffe,-67.095988,61.566451,Forest,148,2022-12-11,Direct Count,Vulnerable
+Giraffe,-52.219136,-2.938549,Wetland,610,2020-04-07,Direct Count,Critically Endangered
+Zebra,-16.7637755,23.935815,Forest,146,2020-09-28,Estimation,Vulnerable
+Leopard,-23.317992,-33.288379,Wetland,785,2021-02-18,Direct Count,Least Concern
+Elephant,-3.68833,18.049593,Wetland,739,2020-06-10,Sampling,Critically Endangered
+Giraffe,-8.735828,53.679847,Grassland,55,2021-11-22,Sampling,Vulnerable
+Giraffe,54.2405615,-57.245746,Forest,593,2022-05-30,Sampling,Critically Endangered
+Cheetah,88.346529,-132.777204,Forest,524,2021-08-10,Estimation,Endangered
+Zebra,-28.6649935,117.102781,Grassland,381,2023-03-09,Sampling,Endangered
+Lion,-49.570185,98.548039,Grassland,265,2021-06-17,Sampling,Critically Endangered
+Buffalo,8.7084545,-167.820895,Grassland,397,2022-04-17,Estimation,Vulnerable
+Cheetah,2.330575,-77.991522,Grassland,638,2020-12-07,Direct Count,Vulnerable
+Leopard,1.1192905,13.105232,Wetland,410,2020-07-17,Direct Count,Least Concern
+Lion,72.498168,-63.463614,Forest,154,2022-10-10,Sampling,Endangered
+Hyena,-13.1128165,-166.665808,Grassland,518,2021-08-23,Direct Count,Critically Endangered
+Zebra,69.6148965,80.228764,Forest,840,2021-12-13,Sampling,Least Concern
+Hyena,34.054218,-102.793001,Forest,963,2022-11-02,Estimation,Vulnerable
+Giraffe,53.5575535,-5.419721,Grassland,539,2022-04-10,Estimation,Least Concern
+Zebra,-86.590873,-162.405955,Grassland,423,2023-08-01,Sampling,Least Concern
+Lion,1.4145415,-128.354295,Wetland,770,2020-11-19,Estimation,Endangered
+Elephant,33.4340345,33.487908,Grassland,278,2021-11-24,Estimation,Critically Endangered
+Cheetah,4.7442245,115.176939,Forest,976,2022-11-25,Sampling,Vulnerable
+Elephant,-57.204879,-150.345585,Grassland,417,2021-06-30,Estimation,Vulnerable
+Cheetah,16.6897905,53.420382,Forest,397,2022-08-27,Sampling,Least Concern
+Hyena,57.2741885,-54.160081,Wetland,937,2021-03-16,Direct Count,Least Concern
+Giraffe,81.975364,109.942072,Grassland,302,2023-08-17,Sampling,Vulnerable
+Lion,48.3051795,-44.345885,Forest,721,2023-06-01,Direct Count,Critically Endangered
+Giraffe,57.241873,29.084959,Wetland,153,2020-10-15,Direct Count,Vulnerable
+Cheetah,-23.0824695,60.786412,Wetland,176,2020-10-14,Direct Count,Vulnerable
+Leopard,82.019171,-9.222329,Wetland,326,2022-02-19,Estimation,Endangered
+Zebra,5.878483,10.49681,Desert,738,2021-12-24,Estimation,Endangered
+Cheetah,-24.264296,4.525491,Desert,547,2022-07-22,Direct Count,Least Concern
+Buffalo,-51.2736595,146.164417,Grassland,349,2021-09-03,Sampling,Least Concern
+Leopard,-19.887731,-168.942666,Grassland,568,2021-09-19,Estimation,Critically Endangered
+Lion,33.365658,-78.815601,Wetland,529,2021-10-27,Sampling,Endangered
+Elephant,1.324134,165.97775,Desert,570,2022-02-28,Sampling,Endangered
+Buffalo,5.91694,-97.314935,Desert,560,2023-09-09,Estimation,Endangered
+Buffalo,-10.2092485,-122.562686,Desert,319,2022-11-11,Estimation,Vulnerable
+Giraffe,-86.837649,-100.3924,Grassland,782,2020-11-10,Direct Count,Critically Endangered
+Cheetah,-70.2765905,42.847233,Wetland,478,2023-03-10,Sampling,Critically Endangered
+Buffalo,73.0784525,46.534013,Grassland,955,2021-10-16,Sampling,Least Concern
+Lion,27.188071,-103.833078,Forest,119,2023-02-01,Estimation,Least Concern
+Buffalo,28.509505,-92.251637,Wetland,98,2020-03-04,Direct Count,Endangered
+Leopard,8.221131,-99.055264,Forest,394,2020-08-29,Estimation,Vulnerable
+Cheetah,-85.821587,-45.970454,Grassland,761,2022-02-20,Direct Count,Vulnerable
+Hyena,-73.9230575,71.467081,Desert,140,2021-01-16,Estimation,Endangered
+Elephant,27.2211955,-101.705519,Grassland,561,2022-12-13,Sampling,Endangered
+Hyena,59.6801765,-87.699892,Desert,534,2022-02-01,Direct Count,Vulnerable
+Hyena,49.6896415,10.020851,Desert,282,2020-01-15,Estimation,Least Concern
+Cheetah,-83.3279105,-41.369263,Wetland,299,2022-12-02,Sampling,Endangered
+Cheetah,-13.9766805,-26.339327,Grassland,929,2021-10-25,Direct Count,Critically Endangered
+Elephant,-34.9086685,178.026957,Desert,696,2021-11-17,Sampling,Vulnerable
+Leopard,49.227376,-77.803501,Wetland,245,2021-05-30,Direct Count,Critically Endangered
+Hyena,55.520324,32.449593,Grassland,622,2020-02-17,Sampling,Critically Endangered
+Giraffe,-31.246663,99.574745,Grassland,423,2021-01-20,Sampling,Endangered
+Cheetah,-63.7680505,-23.390082,Grassland,792,2022-07-19,Direct Count,Vulnerable
+Giraffe,31.5652055,-164.582173,Desert,837,2022-07-28,Estimation,Critically Endangered
+Leopard,32.6943795,-169.871001,Grassland,218,2023-07-14,Estimation,Critically Endangered
+Zebra,3.0530295,75.502604,Forest,616,2023-09-02,Estimation,Endangered
+Hyena,-82.5021725,-67.807535,Desert,473,2020-03-11,Sampling,Vulnerable
+Elephant,-71.744795,149.361899,Grassland,996,2023-08-31,Direct Count,Vulnerable
+Buffalo,24.983511,116.750284,Wetland,247,2022-10-04,Sampling,Critically Endangered
+Elephant,-57.748141,-176.44573,Forest,567,2020-11-13,Direct Count,Vulnerable
+Zebra,44.251066,2.072207,Desert,848,2020-05-22,Direct Count,Vulnerable
+Giraffe,-16.1012235,-18.549021,Grassland,979,2022-10-29,Estimation,Endangered
+Cheetah,-30.1018595,-25.111501,Desert,606,2023-01-07,Sampling,Least Concern
+Hyena,42.8859075,97.792467,Desert,30,2023-03-13,Estimation,Critically Endangered
+Buffalo,-70.068882,-90.115945,Wetland,592,2021-09-09,Sampling,Endangered
+Cheetah,-65.8511525,66.053013,Forest,162,2020-12-09,Direct Count,Least Concern
+Zebra,67.5770225,-144.73586,Forest,125,2022-01-22,Sampling,Endangered
+Giraffe,19.7491555,63.23547,Grassland,598,2020-08-20,Sampling,Endangered
+Giraffe,-62.433492,-96.888132,Grassland,66,2021-01-04,Sampling,Least Concern
+Elephant,-19.983732,96.623819,Grassland,520,2023-08-05,Sampling,Least Concern
+Leopard,58.5906345,39.403048,Wetland,699,2020-04-08,Direct Count,Critically Endangered
+Lion,-21.276551,67.170561,Forest,80,2020-04-02,Sampling,Critically Endangered
+Hyena,-32.694087,-151.049911,Desert,341,2023-09-10,Estimation,Critically Endangered
+Elephant,55.253066,89.600459,Grassland,467,2020-10-02,Estimation,Vulnerable
+Hyena,47.7433375,-72.532688,Forest,641,2021-12-19,Sampling,Vulnerable
+Lion,-79.572374,-175.070859,Forest,134,2022-12-27,Estimation,Critically Endangered
+Leopard,-44.982156,-153.223313,Forest,496,2021-03-11,Sampling,Vulnerable
+Buffalo,37.2536705,-16.13838,Grassland,464,2021-09-24,Sampling,Critically Endangered
+Hyena,72.3855065,-73.770667,Forest,571,2023-04-22,Sampling,Endangered
+Leopard,34.05202,147.796411,Wetland,798,2022-11-04,Estimation,Endangered
+Lion,61.6653195,140.297404,Wetland,998,2020-03-17,Direct Count,Critically Endangered
+Zebra,44.096156,150.586489,Wetland,630,2020-10-20,Direct Count,Vulnerable
+Leopard,-1.359129,-134.581322,Desert,605,2020-11-08,Direct Count,Vulnerable
+Hyena,-18.6512565,135.307073,Wetland,381,2022-03-11,Estimation,Vulnerable
+Zebra,-60.9099295,157.647018,Wetland,147,2021-02-24,Sampling,Critically Endangered
+Zebra,-29.5590935,144.272505,Wetland,420,2021-02-22,Sampling,Critically Endangered
+Leopard,89.488209,-15.666659,Grassland,510,2022-06-25,Sampling,Critically Endangered
+Cheetah,-69.760569,80.392996,Forest,637,2022-02-13,Estimation,Endangered
+Hyena,19.8662065,78.93352,Desert,371,2021-01-12,Sampling,Endangered
+Elephant,33.3150115,37.287045,Grassland,861,2020-11-12,Direct Count,Vulnerable
+Hyena,80.984292,154.21123,Desert,107,2022-01-28,Sampling,Endangered
+Elephant,-87.907089,56.69825,Desert,827,2022-09-06,Direct Count,Least Concern
+Cheetah,30.07912,-105.025246,Wetland,96,2022-05-01,Direct Count,Endangered
+Giraffe,66.4849335,117.186997,Forest,269,2020-05-27,Direct Count,Endangered
+Elephant,23.817592,-65.488318,Wetland,622,2022-05-17,Direct Count,Endangered
+Giraffe,54.730044,-2.356102,Wetland,226,2021-12-08,Direct Count,Endangered
+Zebra,68.186929,-123.501482,Desert,697,2021-09-20,Sampling,Critically Endangered
+Cheetah,-73.854319,-173.832635,Grassland,372,2020-12-19,Estimation,Vulnerable
+Zebra,-11.6589115,85.289629,Forest,493,2022-06-26,Sampling,Vulnerable
+Giraffe,72.2731745,-30.220297,Wetland,125,2020-07-21,Estimation,Least Concern
+Giraffe,-40.950423,19.803296,Grassland,625,2021-03-23,Direct Count,Vulnerable
+Cheetah,40.5596995,-93.852161,Desert,691,2023-02-09,Estimation,Least Concern
+Buffalo,-79.2936325,-24.851275,Wetland,510,2020-02-27,Direct Count,Endangered
+Cheetah,-59.9809285,167.229864,Forest,762,2022-10-31,Estimation,Vulnerable
+Lion,53.2893105,-3.170058,Forest,962,2022-09-26,Estimation,Endangered
+Giraffe,44.391531,149.426061,Forest,163,2022-07-28,Estimation,Endangered
+Zebra,-62.6103185,158.149286,Desert,745,2022-10-02,Sampling,Endangered
+Cheetah,-44.084185,33.794378,Wetland,347,2021-11-19,Direct Count,Least Concern
+Hyena,-28.603521,75.30373,Forest,417,2023-01-20,Estimation,Vulnerable
+Cheetah,-11.285177,142.290853,Forest,225,2023-06-08,Direct Count,Least Concern
+Leopard,-27.6455175,-140.160378,Grassland,962,2022-05-14,Sampling,Least Concern
+Cheetah,-40.995459,110.299024,Wetland,305,2021-11-03,Sampling,Least Concern
+Zebra,-8.853808,18.645971,Forest,154,2022-10-07,Estimation,Endangered
+Cheetah,-19.8628175,-103.283031,Desert,588,2022-03-05,Direct Count,Critically Endangered
+Giraffe,-6.249552,-51.505202,Desert,836,2023-02-20,Sampling,Least Concern
+Giraffe,60.11904,-44.240943,Desert,58,2023-07-30,Sampling,Vulnerable
+Leopard,39.8540955,-81.575884,Forest,316,2021-07-21,Sampling,Vulnerable
+Buffalo,9.23655,-46.378453,Grassland,459,2022-12-04,Direct Count,Critically Endangered
+Buffalo,-72.3506745,132.343696,Grassland,35,2020-10-01,Sampling,Least Concern
+Zebra,19.95817,121.188131,Forest,414,2020-09-15,Sampling,Vulnerable
+Leopard,28.396343,145.602078,Wetland,348,2022-07-31,Sampling,Endangered
+Lion,1.0878,146.36401,Wetland,247,2023-09-28,Direct Count,Vulnerable
+Lion,73.473414,-127.154084,Wetland,600,2022-10-26,Direct Count,Vulnerable
+Leopard,31.1152785,14.953448,Wetland,951,2021-01-24,Sampling,Vulnerable
+Hyena,52.610116,-159.814275,Desert,171,2022-04-24,Direct Count,Critically Endangered
+Elephant,46.5462095,-175.193089,Grassland,96,2020-05-03,Direct Count,Endangered
+Giraffe,-29.456009,66.016069,Desert,921,2023-06-26,Sampling,Critically Endangered
+Hyena,-42.0440625,68.399064,Wetland,800,2021-11-04,Direct Count,Least Concern
+Cheetah,-52.2600535,49.708591,Forest,664,2022-12-23,Sampling,Least Concern
+Leopard,21.4733865,173.839316,Desert,459,2020-11-07,Estimation,Critically Endangered
+Hyena,82.5459955,37.91872,Desert,133,2021-09-26,Estimation,Least Concern
+Buffalo,55.1727845,-157.482025,Desert,579,2020-03-25,Estimation,Critically Endangered
+Lion,-28.5631275,44.595686,Forest,888,2023-06-24,Sampling,Critically Endangered
+Hyena,18.459323,8.425579,Desert,630,2021-01-23,Estimation,Vulnerable
+Hyena,-14.171759,-19.533293,Wetland,161,2023-05-28,Sampling,Least Concern
+Elephant,-85.623755,97.97598,Wetland,125,2021-05-10,Estimation,Endangered
+Cheetah,-57.8605045,127.803734,Wetland,844,2022-11-19,Estimation,Endangered
+Lion,-14.7207765,-142.755384,Forest,989,2021-11-28,Direct Count,Endangered
+Leopard,-63.3391965,60.071381,Wetland,444,2022-11-30,Direct Count,Endangered
+Zebra,34.4641215,78.074971,Desert,664,2020-09-18,Estimation,Vulnerable
+Lion,21.4649565,170.223813,Grassland,648,2022-12-04,Sampling,Least Concern
+Lion,-41.6819225,-41.840682,Forest,704,2021-09-18,Estimation,Critically Endangered
+Lion,56.9981485,174.065876,Wetland,323,2021-12-08,Direct Count,Endangered
+Hyena,-42.790746,59.219422,Forest,659,2021-05-28,Sampling,Endangered
+Leopard,24.0721125,-163.738813,Forest,320,2023-05-12,Estimation,Vulnerable
+Zebra,42.5259515,59.734094,Wetland,638,2020-03-21,Direct Count,Endangered
+Zebra,-27.207056,-73.972794,Wetland,268,2020-04-13,Direct Count,Vulnerable
+Zebra,41.852755,-21.984791,Wetland,427,2022-12-10,Direct Count,Endangered
+Leopard,-13.620609,-79.133027,Forest,161,2020-05-17,Estimation,Vulnerable
+Cheetah,-85.6678295,-149.273451,Wetland,324,2022-04-27,Direct Count,Critically Endangered
+Cheetah,-68.95223,-159.531801,Grassland,199,2020-03-07,Direct Count,Endangered
+Hyena,30.79799,119.155144,Forest,142,2023-04-03,Direct Count,Least Concern
+Cheetah,-32.9719985,167.847867,Desert,665,2021-08-01,Estimation,Endangered
+Hyena,-61.805245,-66.158298,Forest,493,2020-05-20,Direct Count,Vulnerable
+Lion,66.7109655,-163.008068,Grassland,532,2020-09-25,Estimation,Least Concern
+Lion,38.80874,174.685477,Forest,959,2022-12-20,Sampling,Endangered
+Zebra,-76.714361,-26.141226,Wetland,673,2022-02-20,Direct Count,Critically Endangered
+Giraffe,-43.6724665,-40.057497,Desert,632,2021-04-02,Sampling,Critically Endangered
+Elephant,62.2252085,54.809885,Desert,368,2023-01-02,Estimation,Endangered
+Elephant,40.158504,94.386021,Wetland,250,2023-09-11,Direct Count,Vulnerable
+Giraffe,-22.889464,16.466687,Desert,418,2021-12-20,Estimation,Critically Endangered
+Hyena,71.767005,178.810633,Wetland,560,2021-04-03,Direct Count,Least Concern
+Leopard,-13.902385,-163.073467,Wetland,47,2021-06-07,Direct Count,Least Concern
+Lion,76.0547105,-125.778229,Grassland,444,2020-04-24,Sampling,Critically Endangered
+Lion,-37.522512,83.911661,Grassland,16,2022-10-03,Estimation,Critically Endangered
+Leopard,-51.577227,71.310284,Grassland,1000,2022-12-28,Estimation,Least Concern
+Hyena,-37.782716,-121.53694,Grassland,328,2021-12-27,Sampling,Critically Endangered
+Hyena,-80.5224995,-128.915188,Grassland,864,2020-03-08,Estimation,Endangered
+Giraffe,-15.3704065,82.828939,Forest,848,2022-11-15,Sampling,Vulnerable
+Leopard,-33.068882,153.657471,Wetland,250,2022-08-20,Direct Count,Endangered
+Hyena,40.6294715,88.054149,Forest,30,2020-08-03,Direct Count,Endangered
+Lion,-80.9758795,147.152979,Wetland,472,2021-06-21,Sampling,Vulnerable
+Hyena,-87.483878,165.770789,Wetland,496,2023-01-30,Sampling,Least Concern
+Giraffe,17.212269,-1.071416,Grassland,402,2022-05-29,Estimation,Vulnerable
+Zebra,-16.9988785,78.912249,Grassland,650,2021-07-10,Sampling,Critically Endangered
+Giraffe,59.903313,147.78576,Wetland,324,2020-10-01,Direct Count,Least Concern
+Elephant,26.268106,-76.532047,Grassland,64,2023-06-23,Sampling,Critically Endangered
+Hyena,-72.1851595,-39.177081,Forest,878,2020-02-22,Estimation,Vulnerable
+Lion,-69.543816,-35.993508,Grassland,218,2022-10-19,Estimation,Endangered
+Hyena,16.287475,140.485693,Wetland,549,2023-05-28,Estimation,Endangered
+Leopard,57.766027,-1.24788,Desert,305,2022-09-16,Direct Count,Vulnerable
+Buffalo,38.957293,-99.125809,Grassland,224,2023-03-20,Direct Count,Critically Endangered
+Cheetah,33.814927,-32.805155,Grassland,262,2021-02-27,Sampling,Critically Endangered
+Cheetah,-89.290473,-159.669527,Wetland,946,2020-06-01,Direct Count,Least Concern
+Giraffe,27.4826455,130.091383,Wetland,148,2021-10-08,Estimation,Least Concern
+Elephant,-4.8080025,-154.035443,Desert,759,2023-02-16,Direct Count,Critically Endangered
+Leopard,11.568481,149.032983,Desert,808,2021-04-19,Direct Count,Least Concern
+Leopard,-23.927061,108.213633,Grassland,421,2021-04-06,Estimation,Least Concern
+Buffalo,20.933147,45.744856,Wetland,98,2020-01-16,Direct Count,Vulnerable
+Giraffe,-11.5265095,8.864151,Wetland,31,2023-09-18,Estimation,Critically Endangered
+Zebra,62.697199,-34.709122,Forest,167,2022-08-31,Direct Count,Endangered
+Zebra,34.7387595,55.02383,Desert,457,2020-08-20,Direct Count,Vulnerable
+Hyena,-56.1115825,-31.646337,Forest,44,2021-11-22,Estimation,Least Concern
+Buffalo,1.7677805,-13.484509,Forest,323,2021-08-23,Direct Count,Least Concern
+Zebra,-67.789494,-112.19197,Wetland,535,2021-03-05,Direct Count,Least Concern
+Zebra,69.7850045,-49.298906,Grassland,136,2022-09-03,Estimation,Critically Endangered
+Buffalo,-51.1264615,175.940474,Grassland,33,2022-03-15,Sampling,Critically Endangered
+Zebra,17.3687055,-41.186034,Wetland,973,2023-04-24,Estimation,Vulnerable
+Giraffe,59.3407175,140.541007,Wetland,389,2021-07-30,Estimation,Vulnerable
+Lion,75.1838225,-81.854752,Wetland,594,2022-10-05,Direct Count,Least Concern
+Zebra,33.1480735,-67.352833,Desert,41,2023-03-24,Direct Count,Least Concern
+Buffalo,-20.816862,68.550412,Wetland,822,2020-04-15,Sampling,Endangered
+Cheetah,-52.4300815,29.426656,Wetland,130,2021-02-01,Direct Count,Least Concern
+Hyena,19.9109945,17.091919,Grassland,323,2023-06-07,Direct Count,Critically Endangered
+Giraffe,89.6501955,32.217589,Desert,997,2023-08-26,Sampling,Critically Endangered
+Hyena,65.399278,-101.549763,Desert,972,2022-10-14,Sampling,Vulnerable
+Cheetah,-47.1606765,-145.942123,Wetland,97,2020-09-08,Sampling,Vulnerable
+Cheetah,-84.870523,-75.753277,Desert,244,2022-04-20,Sampling,Critically Endangered
+Lion,89.363222,-139.251026,Desert,77,2021-01-10,Sampling,Least Concern
+Elephant,-18.1668495,174.331327,Wetland,764,2023-04-03,Estimation,Least Concern
+Giraffe,-88.2341245,-123.299508,Grassland,996,2020-03-05,Sampling,Vulnerable
+Elephant,39.519512,106.395452,Grassland,412,2022-11-09,Direct Count,Endangered
+Zebra,-77.514749,-100.041273,Forest,607,2020-02-06,Sampling,Critically Endangered
+Lion,-14.1403425,124.280695,Forest,420,2021-05-05,Sampling,Endangered
+Buffalo,-7.975494,-35.849455,Grassland,422,2020-05-26,Sampling,Least Concern
+Hyena,4.3958495,-155.532788,Forest,585,2023-05-18,Estimation,Endangered
+Elephant,15.4817535,-172.657903,Grassland,652,2022-12-25,Direct Count,Least Concern
+Buffalo,66.013628,-157.305009,Wetland,305,2023-09-05,Sampling,Critically Endangered
+Elephant,-4.2004025,39.652621,Desert,957,2022-05-19,Sampling,Vulnerable
+Cheetah,22.8746295,52.961565,Grassland,631,2020-07-26,Estimation,Least Concern
+Leopard,77.342794,-83.706947,Forest,898,2022-12-08,Direct Count,Critically Endangered
+Leopard,36.4430295,-137.685805,Grassland,684,2020-07-18,Sampling,Critically Endangered
+Elephant,32.027962,-19.394488,Wetland,543,2022-06-08,Sampling,Critically Endangered
+Elephant,71.6229325,56.417149,Wetland,274,2022-09-12,Direct Count,Least Concern
+Elephant,-62.362991,104.127152,Wetland,892,2022-01-19,Estimation,Endangered
+Cheetah,-18.7772775,23.391218,Grassland,914,2020-01-29,Direct Count,Critically Endangered
+Giraffe,4.1984895,-153.889115,Forest,133,2023-08-27,Sampling,Critically Endangered
+Buffalo,-17.9880405,122.824246,Desert,230,2023-02-18,Estimation,Critically Endangered
+Giraffe,-52.9794425,-93.432335,Desert,937,2021-02-16,Estimation,Vulnerable
+Elephant,-3.3101035,-166.677286,Desert,849,2021-02-19,Direct Count,Least Concern
+Lion,77.453289,-35.500875,Grassland,174,2023-07-07,Estimation,Vulnerable
+Giraffe,72.649119,75.98055,Desert,144,2021-03-25,Estimation,Vulnerable
+Giraffe,43.7814495,-113.620012,Wetland,196,2023-04-04,Estimation,Critically Endangered
+Zebra,25.10296,156.68109,Desert,389,2023-05-01,Sampling,Critically Endangered
+Leopard,-52.5093945,149.118644,Desert,926,2022-08-12,Direct Count,Critically Endangered
+Buffalo,26.034009,153.956975,Desert,134,2020-09-25,Estimation,Least Concern
+Hyena,-68.4197565,-141.521625,Desert,66,2022-12-27,Direct Count,Vulnerable
+Zebra,78.9942095,-163.506137,Desert,322,2022-04-27,Direct Count,Critically Endangered
+Giraffe,-31.3698925,3.302485,Desert,484,2021-06-06,Direct Count,Least Concern
+Zebra,51.8397195,-66.75215,Desert,963,2020-01-04,Estimation,Least Concern
+Elephant,52.042546,-160.149627,Wetland,407,2022-02-02,Sampling,Vulnerable
+Lion,-32.044023,-41.739753,Grassland,688,2020-05-09,Sampling,Critically Endangered
