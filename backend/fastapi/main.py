@@ -201,7 +201,7 @@ class Project(BaseModel):
 
 # CRUD operations...
 
-@app.post("/projects/", response_model=int)
+@app.post("/projects/", response_model=dict)
 async def create_project(project: Project):
     db = SessionLocal()
     db_project = ProjectInDB(
@@ -216,7 +216,7 @@ async def create_project(project: Project):
     db.commit()
     db.refresh(db_project)
     db.close()
-    return db_project.id
+    return {"project_id": str(db_project.id)}
 
 @app.get("/projects/", response_model=List[Project])
 async def read_projects():
