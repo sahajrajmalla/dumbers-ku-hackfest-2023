@@ -37,7 +37,7 @@ function HomeFeatured() {
                 id={e.id}
                 projectDescription={e.assessment_description}
                 projectName={e.project_name}
-                image={staticImages[index]}
+                image={ staticImages[index] ?? staticImages[0]}
               />
             );
           })}

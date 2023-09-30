@@ -26,7 +26,7 @@ function create() {
 
   const [projectName, setProjectName] = useState("");
   const [projectDescription, setProjectDescription] = useState("");
-  const [projectType, setProjectType] = useState("");
+  const [projectType, setProjectType] = useState("airport");
   const [projectImage, setProjectImage] = useState(null);
   const [polygonCoordinates, setPolygonCoordinates] = useState([]);
 
@@ -43,14 +43,14 @@ function create() {
     // formData.append("area", 0);
     // formData.append("polygon_coordinates", polygonCoordinates);
 
-    api
+    await api
       .post("/projects/", {
         project_name: projectName,
         assessment_description: projectDescription,
         project_type: projectType,
         image: "image.png",
         area: 0,
-        polygonCoordinates: polygonCoordinates,
+        polygon_coordinates: polygonCoordinates,
       })
       .then((res) => {
         console.log("res", res);
@@ -95,7 +95,7 @@ function create() {
                 />
               </label>
               <label className="space-y-2">
-                <p className="text-dark text-sm font-medium">Project Name</p>
+                <p className="text-dark text-sm font-medium">Project Type</p>
                 <select
                   value={projectType}
                   onChange={(e) => setProjectType(e.target.value)}
@@ -104,7 +104,13 @@ function create() {
                   placeholder="Enter Project Name"
                 >
                   <option value="airport">Airport</option>
-                  <option value="airport">Bridge</option>
+                  <option value="bridge">Bridge</option>
+                  <option value="factory">Factory</option>
+                  <option value="housing">Housing</option>
+                  <option value="residential housing">
+                    Residential Housing
+                  </option>
+                  <option value="road construction">Road Construction</option>
                 </select>
               </label>
               <label className="space-y-2">

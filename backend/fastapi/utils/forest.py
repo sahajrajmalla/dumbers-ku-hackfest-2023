@@ -1,3 +1,7 @@
+import osmnx as ox
+
+HECTARE_TO_SQ_M = 10000  # 1 hectare = 10,000 square meters
+
 # Function to calculate forest area
 def calculate_forest_area(polygon):
     # You've already done this
