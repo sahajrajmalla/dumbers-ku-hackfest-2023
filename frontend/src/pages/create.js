@@ -1,4 +1,9 @@
+import dynamic from "next/dynamic.js";
 import React from "react";
+
+const Map = dynamic(() => import("../components/MapComponents.js"), {
+  ssr: false,
+});
 
 function create() {
   return (
@@ -53,7 +58,9 @@ function create() {
             </form>
           </div>
         </div>
-        <div className="w-1/2  mt-30  h-full bg-gray-500"></div>
+        <div className="w-1/2  mt-30  h-full bg-gray-500">
+          <Map />
+        </div>
       </div>
     </section>
   );
