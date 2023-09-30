@@ -1,5 +1,5 @@
 import osmnx as ox
-from fastapi import FastAPI, HTTPException, Body
+from fastapi import FastAPI, HTTPException, Body, Query, Path
 from shapely.geometry import Polygon
 from math import floor
 from typing import List, Tuple
@@ -15,6 +15,8 @@ from utils.noise import get_avg_noise
 from utils.carbon import get_avg_transport_carbon_emission, get_avg_project_carbon_emission, get_avg_supply_carbon_emission
 from utils.organism import get_avg_organism_count
 from enum import Enum
+from uuid import UUID, uuid4
+
 
 # Constants
 HECTARE_TO_SQ_M = 10000  # 1 hectare = 10,000 square meters
@@ -150,3 +152,53 @@ async def calculate_forest_metrics(request_data: PolygonRequestModel):
 
     except Exception as e:
         raise HTTPException(status_code=400, detail=str(e))
+    
+    
+class Project(BaseModel):
+    project_name: str
+    project_type: str
+    assessment_description: str
+    image: str
+
+# In-memory database and counter
+projects_db = {}
+counter = 1
+
+# CREATE operation
+@app.post("/projects/", response_model=int)
+async def create_project(project: Project):
+    global counter
+    project_id = counter
+    projects_db[project_id] = project
+    counter += 1
+    return project_id
+
+# READ operation
+@app.get("/projects/", response_model=List[Project])
+async def read_projects():
+    return list(projects_db.values())
+
+@app.get("/projects/{project_id}/", response_model=Project)
+async def read_project(project_id: int = Path(...)):
+    project = projects_db.get(project_id)
+    if project is None:
+        raise HTTPException(status_code=404, detail="Project not found")
+    return project
+
+# UPDATE operation
+@app.put("/projects/{project_id}/", response_model=Project)
+async def update_project(project_id: int = Path(...), updated_project: Project = Body(...)):
+    if project_id not in projects_db:
+        raise HTTPException(status_code=404, detail="Project not found")
+    
+    projects_db[project_id] = updated_project
+    return updated_project
+
+# DELETE operation
+@app.delete("/projects/{project_id}/", response_model=Project)
+async def delete_project(project_id: int = Path(...)):
+    if project_id not in projects_db:
+        raise HTTPException(status_code=404, detail="Project not found")
+    
+    deleted_project = projects_db.pop(project_id)
+    return deleted_project
