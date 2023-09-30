@@ -1,11 +1,27 @@
 import dynamic from "next/dynamic.js";
-import React from "react";
+import React, { useEffect } from "react";
 
 const Map = dynamic(() => import("../components/MapComponents.js"), {
   ssr: false,
 });
 
 function create() {
+
+  useEffect(()=>{
+    const footer = document.querySelector(".footer")
+
+    if (footer){
+      footer.style.display = "none"
+    }
+
+    return ()=>{
+      const footer = document.querySelector(".footer")
+
+      if (footer){
+        footer.style.display = "block"
+      }
+    }
+  })
   return (
     <section className="mt-20 font-oxygen ">
       <div className="w-full flex h-[89vh] items-center">
@@ -58,7 +74,7 @@ function create() {
             </form>
           </div>
         </div>
-        <div className="w-1/2  mt-30  h-full bg-gray-500">
+        <div className="w-1/2  mt-30  h-full">
           <Map />
         </div>
       </div>
