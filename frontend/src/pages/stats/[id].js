@@ -91,39 +91,39 @@ function stats() {
               />
               <CatWidget
                 value={metricForLatLangData.avg_nearby_facilities}
-                title={"avg_nearby_facilities"}
+                title={"Nearby facilities count"}
               />
               <CatWidget
                 value={Math.round(
                   metricForLatLangData.avg_proximity_to_city_center,
                   3
                 )}
-                title={"avg_proximity_to_city_center"}
+                title={"Proximity To City Center (km)"}
               />
               <CatWidget
                 value={metricForLatLangData.avg_waste_amount_ton}
-                title={"avg_waste_amount_ton"}
+                title={"Waste Amount Ton (avg)"}
               />
             </div>
             <div className="grid grid-cols-1 gap-4 md:grid-cols-2 md:gap-6 xl:grid-cols-4 2xl:gap-7 mb-7">
               <CatWidget
                 value={metricForLatLangData["noise_level_(db)"]}
-                title={"noise_level_(db)"}
+                title={"Noise Level (db)"}
               />
               <CatWidget
                 value={metricForLatLangData.organism_count}
-                title={"organism_count"}
+                title={"Organism Count"}
               />
               <CatWidget
                 value={metricForLatLangData["project_emission_(co2e)"]}
-                title={"project_emission_(co2e)"}
+                title={"Project Emission (co2e)"}
               />
               <CatWidget
                 value={Math.round(
                   metricForLatLangData["supply_emission_(co2e)"],
                   3
                 )}
-                title={"supply_emission_(co2e)"}
+                title={"Supply Emission (co2e)"}
               />
             </div>
           </>

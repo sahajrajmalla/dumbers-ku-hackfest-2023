@@ -42,6 +42,7 @@ function scale(x, inputMin, inputMax, outputMin = 1, outputMax = 100) {
 function normalizeNumber(number, min = 0, max = 1) {
   if (number < min) return 0;
   if (number > max) return 1;
+  // return number;
   return (number - min) / (max - min);
 }
 
@@ -86,7 +87,11 @@ const data = (airData, forData, devData, waterData, metricsData) => {
     }
   }
 
-  return Math.ceil(weightedAverage);
+  return Math.ceil(weightedAverage) < 3
+    ? Math.ceil(weightedAverage) + 3
+    : Math.ceil(weightedAverage) > 7
+    ? Math.ceil(weightedAverage) - 3
+    : Math.ceil(weightedAverage) < 3;
 };
 
 const segmentData = (data) => {

@@ -11,7 +11,7 @@ function HomeCover() {
         <div className="mt-2 leading-relaxed text-2xl font-montserrat font-bold">
           Do you know that the proposed <br />
           Nijgadh International Airport requires <br />
-          <span className="text-primary">1.4 Million Trees</span> to be cut
+          <span className="text-primary">2.4 Million Trees</span> to be cut
           down?
         </div>
         <p className="text-paragraph max-w-md font-oxygen text-md mt-5">

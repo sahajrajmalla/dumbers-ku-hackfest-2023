@@ -7,18 +7,22 @@ const useFetch = (url, dependencyArray = []) => {
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    api
-      .get(url)
-      .then((res) => {
-        setData(res.data);
-        setIsPending(false);
-        setError(null);
-      })
-      .catch((err) => {
-        console.log(err);
-        setIsPending(false);
-        setError(err.message);
-      });
+    try {
+      api
+        .get(url)
+        .then((res) => {
+          setData(res.data);
+          setIsPending(false);
+          setError(null);
+        })
+        .catch((err) => {
+          console.log(err);
+          setIsPending(false);
+          setError(err.message);
+        });
+    } catch (err) {
+      console.log(err);
+    }
   }, [url, ...dependencyArray]);
 
   return { data, isPending, error };

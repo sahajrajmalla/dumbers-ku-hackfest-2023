@@ -50,7 +50,7 @@ function create() {
         project_type: projectType,
         image: "image.png",
         area: 0,
-        polygon_coordinates: polygonCoordinates,
+        polygon_coordinates: polygonCoordinates[0],
       })
       .then((res) => {
         console.log("res", res);
