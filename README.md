@@ -18,8 +18,11 @@ Shaping Infrastructure, Ensuring Nepal's Sustainable Future!
 ## General Info
 
 *Platform*: Cloud-based web application.
+s
 *User Base*: Community leaders, local governments, NGOs, and developers in Nepal and similar regions.
+
 *Languages Supported*: English, with plans for further languages.
+
 *Price Model*: Freemium model with advanced features available for a subscription.
 
 ## Project Info
